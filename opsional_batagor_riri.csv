@@ -1,0 +1,3 @@
+﻿id,region,name,brand,category,price,shelf_life,image_url,is_available
+PRD-BR-001,BANDUNG,"Batagor Riri Paket Isi 5 (Batagor 3 + Siomay 2, Vacuum Setengah Matang)",Batagor Riri,Frozen Food,100000,Wajib Kulkas / Tahan 7 Hari (Freezer 1 Bulan),,TRUE
+PRD-BR-002,BANDUNG,"Batagor Riri Paket Isi 10 (Batagor 5 + Siomay 5, Vacuum Setengah Matang)",Batagor Riri,Frozen Food,200000,Wajib Kulkas / Tahan 7 Hari (Freezer 1 Bulan),,TRUE
