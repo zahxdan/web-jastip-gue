@@ -3,6 +3,7 @@ import { getCatalog, WA_NUMBER } from '../lib/api';
 import { fmtDate, rupiah } from '../lib/format';
 import ProductCard from '../components/ProductCard';
 import CartDrawer from '../components/CartDrawer';
+import GuideModal, { GUIDE_KEY } from '../components/GuideModal';
 
 const Skeleton = () => (
   <div className="grid grid-cols-2 gap-3 lg:grid-cols-4">
@@ -22,6 +23,7 @@ export default function Buyer() {
   const [q, setQ] = useState('');
   const [brand, setBrand] = useState('Semua');
   const [open, setOpen] = useState(false);
+  const [guide, setGuide] = useState(false);
   const [cart, setCart] = useState(() => {
     try { return JSON.parse(sessionStorage.getItem('po_cart') || '{}'); } catch { return {}; }
   });
@@ -33,6 +35,18 @@ export default function Buyer() {
   const active = useMemo(() => (data ? data.regions.filter((r) => r.is_active) : []), [data]);
   const activeIds = active.map((r) => r.region_id);
   const both = activeIds.includes('BANDUNG') && activeIds.includes('HOMEMADE');
+
+  // Popup petunjuk: tampil sekali saat pertama masuk, bisa dibuka lagi lewat tombol "Cara pesan"
+  useEffect(() => {
+    if (!data || active.length === 0) return;
+    try { if (!localStorage.getItem(GUIDE_KEY)) setGuide(true); } catch { setGuide(true); }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [data]);
+  const closeGuide = () => {
+    setGuide(false);
+    try { localStorage.setItem(GUIDE_KEY, '1'); } catch { /* abaikan */ }
+  };
+  const requestLink = `https://wa.me/${WA_NUMBER}?text=${encodeURIComponent('Halo, aku mau request/titip barang di luar menu PO: ')}`;
   const regionTitles = useMemo(
     () => Object.fromEntries((data?.regions || []).map((r) => [r.region_id, r.title || r.region_id])), [data]);
 
@@ -104,6 +118,10 @@ export default function Buyer() {
             </div>
           ))}
         </div>
+        <div className="mt-3 flex flex-wrap gap-2">
+          <button onClick={() => setGuide(true)} className="rounded-xl border border-line bg-white px-4 py-2 text-sm font-semibold">Cara pesan</button>
+          <a href={requestLink} target="_blank" rel="noreferrer" className="rounded-xl border border-[#1FA855] bg-white px-4 py-2 text-sm font-semibold text-[#14803E]">Request / titip barang lain</a>
+        </div>
       </header>
 
       <div className="sticky top-0 z-30 space-y-2 border-b border-line bg-mist/95 px-4 py-3 backdrop-blur sm:px-6">
@@ -127,7 +145,10 @@ export default function Buyer() {
 
       <main className="px-4 pt-4 sm:px-6">
         {!data ? <Skeleton /> : shown.length === 0 ? (
-          <p className="py-16 text-center text-ink/60">Tidak ada menu yang cocok. Coba kata kunci lain.</p>
+          <div className="py-16 text-center text-ink/60">
+            <p>Tidak ada menu yang cocok. Coba kata kunci lain.</p>
+            <a href={requestLink} target="_blank" rel="noreferrer" className="mt-3 inline-block font-semibold text-leaf underline">Titip lewat WhatsApp</a>
+          </div>
         ) : (
           <div className="grid grid-cols-2 gap-3 lg:grid-cols-4">
             {shown.map((p) => <ProductCard key={p.id} p={p} qty={cart[p.id] || 0} onChange={setQty} />)}
@@ -143,6 +164,7 @@ export default function Buyer() {
         </button>
       )}
 
+      {guide && <GuideModal regions={active} onClose={closeGuide} />}
       {open && <CartDrawer lines={lines} regionTitles={regionTitles} waNumber={WA_NUMBER} onChange={setQty} onClose={() => setOpen(false)} />}
     </div>
   );
