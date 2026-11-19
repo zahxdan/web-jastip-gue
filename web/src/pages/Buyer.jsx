@@ -22,6 +22,7 @@ export default function Buyer() {
   const [tab, setTab] = useState('ALL');
   const [q, setQ] = useState('');
   const [brand, setBrand] = useState('Semua');
+  const [jenis, setJenis] = useState('Semua');
   const [open, setOpen] = useState(false);
   const [guide, setGuide] = useState(false);
   const [cart, setCart] = useState(() => {
@@ -62,12 +63,24 @@ export default function Buyer() {
     return ['Semua', ...Object.keys(count).sort((a, b) => count[b] - count[a])];
   }, [inScope]);
 
+  // Jenis menu (kolom `category`), dihitung dari produk brand yang sedang dipilih
+  const jenisList = useMemo(() => {
+    const count = {};
+    inScope.forEach((p) => {
+      if (p.category && (brand === 'Semua' || p.brand === brand)) count[p.category] = (count[p.category] || 0) + 1;
+    });
+    return ['Semua', ...Object.keys(count).sort((a, b) => count[b] - count[a])];
+  }, [inScope, brand]);
+  // kalau jenis terpilih tidak ada di brand baru, otomatis kembali ke "Semua"
+  const jenisAktif = jenisList.includes(jenis) ? jenis : 'Semua';
+
   const shown = useMemo(() => {
     const s = q.trim().toLowerCase();
     return inScope.filter((p) =>
       (brand === 'Semua' || p.brand === brand) &&
+      (jenisAktif === 'Semua' || p.category === jenisAktif) &&
       (!s || `${p.name} ${p.brand} ${p.category}`.toLowerCase().includes(s)));
-  }, [inScope, brand, q]);
+  }, [inScope, brand, jenisAktif, q]);
 
   const setQty = (id, n) =>
     setCart((c) => { const next = { ...c }; if (n <= 0) delete next[id]; else next[id] = n; return next; });
@@ -77,7 +90,7 @@ export default function Buyer() {
   const count = lines.reduce((s, l) => s + l.qty, 0);
   const total = lines.reduce((s, l) => s + l.p.price * l.qty, 0);
 
-  const chooseTab = (t) => { setTab(t); setBrand('Semua'); };
+  const chooseTab = (t) => { setTab(t); setBrand('Semua'); setJenis('Semua'); };
 
   if (error) {
     return (
@@ -139,6 +152,12 @@ export default function Buyer() {
           {brands.map((b) => (
             <button key={b} onClick={() => setBrand(b)}
               className={`shrink-0 rounded-full border px-3.5 py-1.5 text-sm font-semibold ${brand === b ? 'border-ink bg-ink text-white' : 'border-line bg-white'}`}>{b}</button>
+          ))}
+        </div>
+        <div className="no-scrollbar -mx-4 flex gap-2 overflow-x-auto px-4 sm:mx-0 sm:px-0">
+          {jenisList.map((j) => (
+            <button key={j} onClick={() => setJenis(j)}
+              className={`shrink-0 rounded-full border px-3 py-1 text-xs font-semibold ${jenisAktif === j ? 'border-leaf bg-leaf text-white' : 'border-line bg-white text-ink/80'}`}>{j === 'Semua' ? 'Semua jenis' : j}</button>
           ))}
         </div>
       </div>
