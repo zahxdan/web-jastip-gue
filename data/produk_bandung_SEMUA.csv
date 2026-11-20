@@ -1,331 +1,325 @@
 ﻿id,region,name,brand,category,price,shelf_life,image_url,is_available
-PRD-PR-001,BANDUNG,Brownies Coklat Almond (425 gr),Prima Rasa,Brownies,110000,Tahan 9 Hari (Luar) / 11 Hari (Kulkas),,TRUE
-PRD-PR-002,BANDUNG,Brownies Coklat Almond (Kecil) (300 gr),Prima Rasa,Brownies,85000,Tahan 9 Hari (Luar) / 11 Hari (Kulkas),,TRUE
-PRD-PR-003,BANDUNG,Brownies Coklat Mede (450 gr),Prima Rasa,Brownies,120000,Tahan 9 Hari (Luar) / 11 Hari (Kulkas),,TRUE
-PRD-PR-004,BANDUNG,Brownies Panggang Keju (560 gr),Prima Rasa,Brownies,130000,Tahan 6 Hari (Luar) / 8 Hari (Kulkas),,TRUE
-PRD-PR-005,BANDUNG,Brownies Panggang Tiramizu (600 gr),Prima Rasa,Brownies,125000,Tahan 6 Hari (Luar) / 8 Hari (Kulkas),,TRUE
-PRD-PR-006,BANDUNG,Brownies Panggang Chocochip (475 gr),Prima Rasa,Brownies,110000,Tahan 9 Hari (Luar) / 11 Hari (Kulkas),,TRUE
-PRD-PR-007,BANDUNG,Brownies Panggang Chocochip (Kecil) (300 gr),Prima Rasa,Brownies,85000,Tahan 9 Hari (Luar) / 11 Hari (Kulkas),,TRUE
-PRD-PR-008,BANDUNG,Brownies Panggang Mocca (590 gr),Prima Rasa,Brownies,125000,Tahan 6 Hari (Luar) / 8 Hari (Kulkas),,TRUE
-PRD-PR-009,BANDUNG,Brownies Panggang Raisin (590 gr),Prima Rasa,Brownies,125000,Tahan 6 Hari (Luar) / 8 Hari (Kulkas),,TRUE
-PRD-PR-010,BANDUNG,Brownies Panggang Ketan Hitam (560 gr),Prima Rasa,Brownies,120000,Tahan 9 Hari (Luar) / 11 Hari (Kulkas),,TRUE
-PRD-PR-011,BANDUNG,Brownies Panggang Blueberry (590 gr),Prima Rasa,Brownies,140000,Tahan 9 Hari (Luar) / 11 Hari (Kulkas),,TRUE
-PRD-PR-012,BANDUNG,Brownies Panggang Kacang (500 gr),Prima Rasa,Brownies,110000,Tahan 9 Hari (Luar) / 11 Hari (Kulkas),,TRUE
-PRD-PR-013,BANDUNG,Brownies Panggang Oreo,Prima Rasa,Brownies,60000,Tahan 7 Hari (Luar) / 9 Hari (Kulkas),,TRUE
-PRD-PR-014,BANDUNG,Brownies Panggang Expresso,Prima Rasa,Brownies,90000,Tahan 7 Hari (Luar) / 9 Hari (Kulkas),,TRUE
-PRD-PR-015,BANDUNG,Brownies Almond Panjang,Prima Rasa,Brownies,90000,Tahan 7 Hari (Luar) / 9 Hari (Kulkas),,TRUE
-PRD-PR-016,BANDUNG,Brownies Red Velvet,Prima Rasa,Brownies,75000,Tahan 4 Hari (Luar),,TRUE
-PRD-PR-017,BANDUNG,Brownies Matcha Cream Cheese,Prima Rasa,Brownies,80000,Tahan 4 Hari (Luar),,TRUE
-PRD-PR-018,BANDUNG,Brownies Marmer Panjang,Prima Rasa,Brownies,75000,Tahan 4 Hari (Luar),,TRUE
-PRD-PR-019,BANDUNG,Brownies Kunafa Pistachio,Prima Rasa,Brownies,145000,Tahan 10 Hari (Luar) / 11 Hari (Kulkas),,TRUE
-PRD-PR-020,BANDUNG,Mixbro,Prima Rasa,Brownies,268000,Tahan 10 Hari (Luar) / 11 Hari (Kulkas),,TRUE
-PRD-PR-021,BANDUNG,Brownies Kukus Original Coklat PR,Prima Rasa,Brownies,85000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
-PRD-PR-022,BANDUNG,Brownies Kukus Keju-Coklat,Prima Rasa,Brownies,72000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
-PRD-PR-023,BANDUNG,Brownies Kukus Ketan Hitam Pandan,Prima Rasa,Brownies,65000,Tahan 2 Hari (Luar) / 4 Hari (Kulkas),,TRUE
-PRD-PR-024,BANDUNG,Brownies Kukus Coklat Dus,Prima Rasa,Brownies,55000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
-PRD-PR-025,BANDUNG,Brownies Kukus Pandan Coklat Dus,Prima Rasa,Brownies,60000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
-PRD-PR-026,BANDUNG,Rolltart Buah,Prima Rasa,Cake,92000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
-PRD-PR-027,BANDUNG,Roll Tart Selai Strawberry / Mocca,Prima Rasa,Cake,87000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
-PRD-PR-028,BANDUNG,Roll Tart Mocca Raisin,Prima Rasa,Cake,92000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
-PRD-PR-029,BANDUNG,Roll Tart Selai Nanas,Prima Rasa,Cake,87000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
-PRD-PR-030,BANDUNG,Roll Tart Pandan Keju,Prima Rasa,Cake,92000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
-PRD-PR-031,BANDUNG,Roll Tart Coklat,Prima Rasa,Cake,90000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
-PRD-PR-032,BANDUNG,Roll Tart Kacang,Prima Rasa,Cake,92000,Wajib Kulkas / Tahan 3 Hari,,TRUE
-PRD-PR-033,BANDUNG,Roll Tart Taiwan,Prima Rasa,Cake,135000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
-PRD-PR-034,BANDUNG,Roll Tart Ketan Hitam,Prima Rasa,Cake,60000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
-PRD-PR-035,BANDUNG,Commersy Madeleines,Prima Rasa,Cake,90000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
-PRD-PR-036,BANDUNG,Cake Tape Kotak (Kecil) (Almond/Keju),Prima Rasa,Cake,45000,Wajib Kulkas / Tahan 3 Hari,,TRUE
-PRD-PR-037,BANDUNG,Cake Tape Bulat,Prima Rasa,Cake,125000,Wajib Kulkas / Tahan 3 Hari,,TRUE
-PRD-PR-038,BANDUNG,Blueberry Cake Besar,Prima Rasa,Cake,75000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
-PRD-PR-039,BANDUNG,Marmer Kukus Coklat,Prima Rasa,Cake,46000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
-PRD-PR-040,BANDUNG,Banana Cake Primarasa,Prima Rasa,Cake,42000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
-PRD-PR-041,BANDUNG,Chiffon Ketan Hitam,Prima Rasa,Cake,75000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
-PRD-PR-042,BANDUNG,Bolu Pelangi,Prima Rasa,Cake,35000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
-PRD-PR-043,BANDUNG,Banana Roll (Coklat/Keju/Pandan),Prima Rasa,Cake,58000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
-PRD-PR-044,BANDUNG,Bolu Gulung Warna,Prima Rasa,Cake,39000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
-PRD-PR-045,BANDUNG,Bolu Caramel Loyang Mini,Prima Rasa,Cake,58000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
-PRD-PR-046,BANDUNG,Marmer Cake Bunga,Prima Rasa,Cake,160000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
-PRD-PR-047,BANDUNG,Marmer Cake Panjang,Prima Rasa,Cake,85000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
-PRD-PR-048,BANDUNG,Tart Kombinasi,Prima Rasa,Cake,90000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
-PRD-PR-049,BANDUNG,Kue Balok (Pandan/Coklat),Prima Rasa,Cake,35000,Tahan 2 Hari (Luar),,TRUE
-PRD-PR-050,BANDUNG,Lapis Philipine,Prima Rasa,Cake,110000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
-PRD-PR-051,BANDUNG,Lapis Philipine Prunes,Prima Rasa,Cake,115000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
-PRD-PR-052,BANDUNG,"Lapis Legit (Original, Pandan)",Prima Rasa,Cake,275000,Tahan 7 Hari (Luar) / 9 Hari (Kulkas),,TRUE
-PRD-PR-053,BANDUNG,Lapis Legit Coklat,Prima Rasa,Cake,290000,Tahan 7 Hari (Luar) / 9 Hari (Kulkas),,TRUE
-PRD-PR-054,BANDUNG,Lapis Legit Prunes,Prima Rasa,Cake,290000,Tahan 7 Hari (Luar) / 9 Hari (Kulkas),,TRUE
-PRD-PR-055,BANDUNG,Bolen Pisang Keju (520 gr),Prima Rasa,Bolen,70000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
-PRD-PR-056,BANDUNG,Bolen Pisang Coklat (520 gr),Prima Rasa,Bolen,70000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
-PRD-PR-057,BANDUNG,Bolen Pisang Coklat Keju (525 gr),Prima Rasa,Bolen,73000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
-PRD-PR-058,BANDUNG,Bolen Tape – Peuyeum (520 gr),Prima Rasa,Bolen,68000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
-PRD-PR-059,BANDUNG,Bolen Apel (525 gr),Prima Rasa,Bolen,68000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
-PRD-PR-060,BANDUNG,Bolen Durian (530 gr),Prima Rasa,Bolen,73000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
-PRD-PR-061,BANDUNG,Banana Crispy,Prima Rasa,Pastry,70000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
-PRD-PR-062,BANDUNG,Pisang Lilit Kecil Polos,Prima Rasa,Pastry,48000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
-PRD-PR-063,BANDUNG,Pisang Lilit Kecil Coklat/Keju,Prima Rasa,Pastry,52000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
-PRD-PR-064,BANDUNG,Picnic Roll Ayam Besar (800 gr),Prima Rasa,Pastry,90000,Tahan 1 Hari (Luar) / 2 Hari (Kulkas),,TRUE
-PRD-PR-065,BANDUNG,Picnic Roll Sapi Besar (820 gr),Prima Rasa,Pastry,90000,Tahan 1 Hari (Luar) / 2 Hari (Kulkas),,TRUE
-PRD-PR-066,BANDUNG,Picnic Roll Ayam Kecil (400 gr),Prima Rasa,Pastry,60000,Tahan 1 Hari (Luar) / 2 Hari (Kulkas),,TRUE
-PRD-PR-067,BANDUNG,Picnic Roll Sapi Kecil (500 gr),Prima Rasa,Pastry,60000,Tahan 1 Hari (Luar) / 2 Hari (Kulkas),,TRUE
-PRD-PR-068,BANDUNG,Picnic Bolen Ayam,Prima Rasa,Bolen,60000,Tahan 1 Hari (Luar) / 2 Hari (Kulkas),,TRUE
-PRD-PR-069,BANDUNG,Picnic Bolen Sapi,Prima Rasa,Bolen,62000,Tahan 1 Hari (Luar) / 2 Hari (Kulkas),,TRUE
-PRD-PR-070,BANDUNG,Sausage Brood Spesial,Prima Rasa,Pastry,36500,Tahan 2 Hari (Luar) / 3 Hari (Kulkas),,TRUE
-PRD-PR-071,BANDUNG,Pastry Raugout Ayam,Prima Rasa,Pastry,35000,Tahan 2 Hari (Luar) / 3 Hari (Kulkas),,TRUE
-PRD-PR-072,BANDUNG,Cheese Roll (330 gr),Prima Rasa,Pastry,65000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
-PRD-PR-073,BANDUNG,Choco Roll,Prima Rasa,Pastry,67000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
-PRD-PR-074,BANDUNG,Cheese Choco Roll,Prima Rasa,Pastry,68000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
-PRD-PR-075,BANDUNG,Cheese Stick Puff,Prima Rasa,Pastry,72000,Tahan 7 Hari (Luar) / 10 Hari (Kulkas),,TRUE
-PRD-PR-076,BANDUNG,Pastry Coklat,Prima Rasa,Pastry,67000,Tahan 7 Hari (Luar) / 10 Hari (Kulkas),,TRUE
-PRD-PR-077,BANDUNG,Apple Pie Kecil,Prima Rasa,Pastry,98000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
-PRD-PR-078,BANDUNG,Apple Pie Besar,Prima Rasa,Pastry,135000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
-PRD-PR-079,BANDUNG,Apple Strudle,Prima Rasa,Pastry,50000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
-PRD-PR-080,BANDUNG,Aneka Pie Primarasa,Prima Rasa,Pastry,25000,Tahan 7 Hari (Luar) / 10 Hari (Kulkas),,TRUE
-PRD-PR-081,BANDUNG,Pie Susu Primarasa,Prima Rasa,Pastry,45000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
-PRD-PR-082,BANDUNG,Bagelan Manis (Dus 300 gr),Prima Rasa,Kue Kering,99000,Tahan 2 Bulan,,TRUE
-PRD-PR-083,BANDUNG,Bagelan Manis (Toples 270 gr),Prima Rasa,Kue Kering,96000,Tahan 2 Bulan,,TRUE
-PRD-PR-084,BANDUNG,Bagelan Manis (Tabung 185 gr),Prima Rasa,Kue Kering,69000,Tahan 2 Bulan,,TRUE
-PRD-PR-085,BANDUNG,Bagelan Keju (Dus 300 gr),Prima Rasa,Kue Kering,101000,Tahan 2 Bulan,,TRUE
-PRD-PR-086,BANDUNG,Bagelan Keju (Toples 265 gr),Prima Rasa,Kue Kering,101000,Tahan 2 Bulan,,TRUE
-PRD-PR-087,BANDUNG,Bagelan Keju (Tabung 190 gr),Prima Rasa,Kue Kering,73000,Tahan 2 Bulan,,TRUE
-PRD-PR-088,BANDUNG,Bagelan Garlic (190 gr),Prima Rasa,Kue Kering,79000,Tahan 2 Bulan,,TRUE
-PRD-PR-089,BANDUNG,Bagelan Mocca (260 gr),Prima Rasa,Kue Kering,96000,Tahan 2 Bulan,,TRUE
-PRD-PR-090,BANDUNG,Bagelen Pistachio,Prima Rasa,Kue Kering,72000,Tahan 1-2 Bulan,,TRUE
-PRD-PR-091,BANDUNG,Pastry Almond (Toples 290 gr),Prima Rasa,Kue Kering,121000,Tahan 2 Bulan,,TRUE
-PRD-PR-092,BANDUNG,Pastry Almond (Tabung 185 gr),Prima Rasa,Kue Kering,86000,Tahan 2 Bulan,,TRUE
-PRD-PR-093,BANDUNG,Pastry Keju (Toples 315 gr),Prima Rasa,Kue Kering,137500,Tahan 2 Bulan,,TRUE
-PRD-PR-094,BANDUNG,Pastry Keju (Tabung 185 gr),Prima Rasa,Kue Kering,97000,Tahan 2 Bulan,,TRUE
-PRD-PR-095,BANDUNG,Pastry Coklat Keju (Toples 320 gr),Prima Rasa,Kue Kering,148500,Tahan 2 Bulan,,TRUE
-PRD-PR-096,BANDUNG,Pastry Coklat Keju (Tabung 185 gr),Prima Rasa,Kue Kering,97000,Tahan 2 Bulan,,TRUE
-PRD-PR-097,BANDUNG,Pastry Choco Almond,Prima Rasa,Kue Kering,100000,Tahan 2 Bulan,,TRUE
-PRD-PR-098,BANDUNG,"Almond Slice (Ori, Coklat) (160 gr)",Prima Rasa,Kue Kering,66000,Tahan 2 Bulan,,TRUE
-PRD-PR-099,BANDUNG,Almond Slice (Greentea) (160 gr),Prima Rasa,Kue Kering,70000,Tahan 2 Bulan,,TRUE
-PRD-PR-100,BANDUNG,Finger Stick (145 gr),Prima Rasa,Kue Kering,71500,Tahan 2 Bulan,,TRUE
-PRD-PR-101,BANDUNG,Sweet Stick (175 gr),Prima Rasa,Kue Kering,75000,Tahan 2 Bulan,,TRUE
-PRD-PR-102,BANDUNG,Finger Cin-Cin (120 gr),Prima Rasa,Kue Kering,68000,Tahan 2 Bulan,,TRUE
-PRD-PR-103,BANDUNG,Cheese Stick Garlic (215 gr),Prima Rasa,Kue Kering,69000,Tahan 2 Bulan,,TRUE
-PRD-PR-104,BANDUNG,Soes Kering Tabung (140 gr),Prima Rasa,Kue Kering,66000,Tahan 2 Bulan,,TRUE
-PRD-PR-105,BANDUNG,Soes Kering Coklat Tabung,Prima Rasa,Kue Kering,97000,Tahan 2 Bulan,,TRUE
-PRD-PR-106,BANDUNG,Soes Stick Tabung (170 gr),Prima Rasa,Kue Kering,64000,Tahan 2 Bulan,,TRUE
-PRD-PR-107,BANDUNG,Soes Kering Pack,Prima Rasa,Kue Kering,40000,Tahan 2 Bulan,,TRUE
-PRD-PR-108,BANDUNG,Almond Biscoti (340 gr),Prima Rasa,Kue Kering,99000,Tahan 2 Bulan,,TRUE
-PRD-PR-109,BANDUNG,Bolu Stick (Kering) (190 gr),Prima Rasa,Kue Kering,66000,Tahan 2 Bulan,,TRUE
-PRD-PR-110,BANDUNG,Brownies Kering Almond (200 gr),Prima Rasa,Kue Kering,82500,Tahan 2 Bulan,,TRUE
-PRD-PR-111,BANDUNG,Bokkenpojtes Tabung (215 gr),Prima Rasa,Kue Kering,75000,Tahan 2 Bulan,,TRUE
-PRD-PR-112,BANDUNG,Lidah Kucing Keju (250 gr),Prima Rasa,Kue Kering,104500,Tahan 2 Bulan,,TRUE
-PRD-PR-113,BANDUNG,Cheese Twist,Prima Rasa,Kue Kering,66000,Tahan 2 Bulan,,TRUE
-PRD-PR-114,BANDUNG,Scumpyespink Putih,Prima Rasa,Kue Kering,52000,Tahan 2 Bulan,,TRUE
-PRD-PR-115,BANDUNG,Chocolate Wafel,Prima Rasa,Kue Kering,77000,Tahan 7 Hari (Luar) / 9 Hari (Kulkas),,TRUE
-PRD-PR-116,BANDUNG,Crofell,Prima Rasa,Kue Kering,73000,Tahan 14 Hari (Luar),,TRUE
-PRD-PR-117,BANDUNG,Putri Salju Putih Kecil,Prima Rasa,Kue Kering,104500,Tahan 2 Bulan,,TRUE
-PRD-PR-118,BANDUNG,Cheese Stick Spiral Besar,Prima Rasa,Kue Kering,115500,Tahan 2 Bulan,,TRUE
-PRD-PR-119,BANDUNG,Cheese Spiral 14 Cm,Prima Rasa,Kue Kering,80000,Tahan 2 Bulan,,TRUE
-PRD-PR-120,BANDUNG,Orange Biskoti,Prima Rasa,Kue Kering,82500,Tahan 2 Bulan,,TRUE
-PRD-PR-121,BANDUNG,Peanut Cookies,Prima Rasa,Kue Kering,62500,Tahan 2 Bulan,,TRUE
-PRD-PR-122,BANDUNG,Sultana Cookies,Prima Rasa,Kue Kering,75000,Tahan 2 Bulan,,TRUE
-PRD-PR-123,BANDUNG,Sagu Keju Sedang,Prima Rasa,Kue Kering,66000,Tahan 2 Bulan,,TRUE
-PRD-PR-124,BANDUNG,Nastar Polos PR (330 gr),Prima Rasa,Kue Kering,148500,Tahan 2 Bulan,,TRUE
-PRD-PR-125,BANDUNG,Nastar Kecil (190 gr),Prima Rasa,Kue Kering,86000,Tahan 2 Bulan,,TRUE
-PRD-PR-126,BANDUNG,Nastar Keju PR (310 gr),Prima Rasa,Kue Kering,154000,Tahan 2 Bulan,,TRUE
-PRD-PR-127,BANDUNG,Kastengel Toples,Prima Rasa,Kue Kering,192500,Tahan 2 Bulan,,TRUE
-PRD-PR-128,BANDUNG,Putri Salju PR,Prima Rasa,Kue Kering,192500,Tahan 2 Bulan,,TRUE
-PRD-PR-129,BANDUNG,Coffee Coklat PR,Prima Rasa,Kue Kering,121000,Tahan 2 Bulan,,TRUE
-PRD-PR-130,BANDUNG,Almond Crunchy,Prima Rasa,Kue Kering,64000,Tahan 2 Bulan,,TRUE
-PRD-PR-131,BANDUNG,Kacang Mede PR,Prima Rasa,Kue Kering,95000,Tahan 2 Bulan,,TRUE
-PRD-PR-132,BANDUNG,Lidah Kucing PR,Prima Rasa,Kue Kering,108000,Tahan 2 Bulan,,TRUE
-PRD-PR-133,BANDUNG,Nestum Mede Cookies,Prima Rasa,Kue Kering,71500,Tahan 2 Bulan,,TRUE
-PRD-PR-134,BANDUNG,Astor Tabung PR,Prima Rasa,Kue Kering,23000,Tahan 2 Bulan,,TRUE
-PRD-PR-135,BANDUNG,Semprit Cookies,Prima Rasa,Kue Kering,66000,Tahan 2 Bulan,,TRUE
-PRD-PR-136,BANDUNG,Basreng PR ( K640),Prima Rasa,Camilan,18500,Tahan 2 Bulan,,TRUE
-PRD-PR-137,BANDUNG,Samosa,Prima Rasa,Camilan,39000,Tahan 2 Bulan,,TRUE
-PRD-PR-138,BANDUNG,Kacang Bandung SPC,Prima Rasa,Camilan,26000,Tahan 2 Bulan,,TRUE
-PRD-PR-139,BANDUNG,Sumpia PR,Prima Rasa,Camilan,35000,Tahan 2 Bulan,,TRUE
-PRD-PR-140,BANDUNG,Macaroon PR,Prima Rasa,Kue Kering,55000,Tahan 2 Bulan,,TRUE
-PRD-PR-141,BANDUNG,Pisang Sale Manis (195 gr),Prima Rasa,Camilan,27500,Tahan 3 Bulan,,TRUE
-PRD-PR-142,BANDUNG,Tempe Goreng Ori (275 gr),Prima Rasa,Camilan,22500,Tahan 3 Bulan,,TRUE
-PRD-PR-143,BANDUNG,Tempe Oven (200 gr),Prima Rasa,Camilan,31500,Tahan 3 Bulan,,TRUE
-PRD-PR-144,BANDUNG,Basreng (200 gr),Prima Rasa,Camilan,21000,Tahan 2 Bulan,,TRUE
-PRD-PR-145,BANDUNG,Oncom Goreng,Prima Rasa,Camilan,51000,Tahan 3 Bulan,,TRUE
-PRD-PR-146,BANDUNG,Tempe Manis Pedas (375 gr),Prima Rasa,Camilan,28000,Tahan 3 Bulan,,TRUE
-PRD-PR-147,BANDUNG,Sale Pisang Keju (210 gr),Prima Rasa,Camilan,35500,Tahan 3 Bulan,,TRUE
-PRD-PR-148,BANDUNG,Telur Gabus Manis,Prima Rasa,Camilan,37500,Tahan 3 Bulan,,TRUE
-PRD-PR-149,BANDUNG,Telur Gabus Wijen,Prima Rasa,Camilan,30500,Tahan 3 Bulan,,TRUE
-PRD-PR-150,BANDUNG,Pia Lembang (Kc. Hijau),Prima Rasa,Kue Kering,79000,Tahan 1 Bulan,,TRUE
-PRD-PR-151,BANDUNG,Pia Lembang (Kombinasi),Prima Rasa,Kue Kering,82000,Tahan 1 Bulan,,TRUE
-PRD-PR-152,BANDUNG,Bagelan Basah Abadi,Prima Rasa,Kue Kering,51500,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
-PRD-PR-153,BANDUNG,Bagelan Kering Abadi,Prima Rasa,Kue Kering,75000,Tahan 3 Bulan,,TRUE
-PRD-PR-154,BANDUNG,Bagelan Merdeka,Prima Rasa,Kue Kering,49000,Tahan 3 Bulan,,TRUE
-PRD-PR-155,BANDUNG,Kerupuk Kulit (120 gr),Prima Rasa,Camilan,37500,Tahan 3 Bulan,,TRUE
-PRD-PR-156,BANDUNG,Kecimpring (300 gr),Prima Rasa,Camilan,27500,Tahan 3 Bulan,,TRUE
-PRD-PR-157,BANDUNG,Selondok (275 gr),Prima Rasa,Camilan,27500,Tahan 3 Bulan,,TRUE
-PRD-PR-158,BANDUNG,Keripik Ubi Ungu,Prima Rasa,Camilan,27500,Tahan 3 Bulan,,TRUE
-PRD-PR-159,BANDUNG,Keripik Usus,Prima Rasa,Camilan,30000,Tahan 3 Bulan,,TRUE
-PRD-PR-160,BANDUNG,Potato Chip Tabung,Prima Rasa,Camilan,38000,Tahan 1 Bulan,,TRUE
-PRD-PR-161,BANDUNG,Grisini Tabung,Prima Rasa,Camilan,62000,Tahan 2 Bulan,,TRUE
-PRD-PR-162,BANDUNG,Sale Pisang Original (200 gr),Prima Rasa,Camilan,35000,Tahan 2 Bulan,,TRUE
-PRD-PR-163,BANDUNG,Sumpia/Pastel/Pangsit Kecil (250 gr),Prima Rasa,Camilan,26000,Tahan 3 Bulan,,TRUE
-PRD-PR-164,BANDUNG,Sumpia/Pastel/Pangsit Besar (500 gr),Prima Rasa,Camilan,44000,Tahan 3 Bulan,,TRUE
-PRD-PR-165,BANDUNG,Sale Jari (400 gr),Prima Rasa,Camilan,35000,Tahan 2 Bulan,,TRUE
-PRD-PR-166,BANDUNG,Rengginang Terasi,Prima Rasa,Camilan,22500,Tahan 2 Bulan,,TRUE
-PRD-PR-167,BANDUNG,Kripik Bayam,Prima Rasa,Camilan,16500,Tahan 2 Bulan,,TRUE
-PRD-PR-168,BANDUNG,Pia Bandung,Prima Rasa,Kue Kering,45000,Tahan 2 Bulan,,TRUE
-PRD-PR-169,BANDUNG,Cheese Stick Pack,Prima Rasa,Kue Kering,36500,Tahan 2 Bulan,,TRUE
-PRD-PR-170,BANDUNG,Kentang Jempol (225 gr),Prima Rasa,Camilan,51500,Tahan 3 Bulan,,TRUE
-PRD-CC-001,BANDUNG,Cheesecuit Mochi Filling (Reguler),Bandung Cheesecuit,Cheesecuit,42000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/11/Reguler-Sukabumi.png,TRUE
-PRD-CC-002,BANDUNG,Cheesecuit Pink Berry (Reguler),Bandung Cheesecuit,Cheesecuit,42000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/11/Reguler-Majalengka.png,TRUE
-PRD-CC-003,BANDUNG,Cheesecuit Sale Pisang (Reguler),Bandung Cheesecuit,Cheesecuit,42000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/09/Cheesecuit_Sale_Pisang__2_-removebg-preview.png,TRUE
-PRD-CC-004,BANDUNG,Cheesecuit Dodol (Reguler),Bandung Cheesecuit,Cheesecuit,42000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/09/Cheesecuit_dodol__1_-removebg-preview.png,TRUE
-PRD-CC-005,BANDUNG,Cheesecuit Campolay (Reguler),Bandung Cheesecuit,Cheesecuit,42000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/09/Cheesecuit_Campolay-removebg-preview.png,TRUE
-PRD-CC-006,BANDUNG,Cheesecuit Mangga (Reguler),Bandung Cheesecuit,Cheesecuit,42000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/09/Cheesecuit_Mangga__1_-removebg-preview.png,TRUE
-PRD-CC-007,BANDUNG,Cheesecuit Talas (Reguler),Bandung Cheesecuit,Cheesecuit,42000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/09/Cheesecuit_talas_bogor-removebg-preview.png,TRUE
-PRD-CC-008,BANDUNG,Cheesecuit Blueberry (Reguler),Bandung Cheesecuit,Cheesecuit,42000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/12/blueberry-3.webp,TRUE
-PRD-CC-009,BANDUNG,Cheesecuit Tiramisu (Reguler),Bandung Cheesecuit,Cheesecuit,42000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/12/tiramisu-1.webp,TRUE
-PRD-CC-010,BANDUNG,Cheesecuit Strawberry (Reguler),Bandung Cheesecuit,Cheesecuit,42000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/12/straw-1.webp,TRUE
-PRD-CC-011,BANDUNG,Cheesecuit Red Velvet (Reguler),Bandung Cheesecuit,Cheesecuit,42000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/02/red-valvet.png,TRUE
-PRD-CC-012,BANDUNG,Cheesecuit Mix Fruit (Reguler),Bandung Cheesecuit,Cheesecuit,42000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/09/mix-fruit-1.1.png,TRUE
-PRD-CC-013,BANDUNG,Cheesecuit Lotus Biscoff (Reguler),Bandung Cheesecuit,Cheesecuit,42000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/12/lotus-fix.webp,TRUE
-PRD-CC-014,BANDUNG,Cheesecuit Greentea (Reguler),Bandung Cheesecuit,Cheesecuit,42000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/02/greentea.png,TRUE
-PRD-CC-015,BANDUNG,Cheesecuit Bogel Mochi Filling,Bandung Cheesecuit,Cheesecuit,18000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/11/Bogel-Sukabumi.png,TRUE
-PRD-CC-016,BANDUNG,Cheesecuit Bogel Pink Berry,Bandung Cheesecuit,Cheesecuit,18000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/11/Bogel-Majalengka.png,TRUE
-PRD-CC-017,BANDUNG,Cheesecuit Bogel Sale Pisang,Bandung Cheesecuit,Cheesecuit,18000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/09/Cheesecuit_Bogel_Sale_Pisang__1_-removebg-preview.png,TRUE
-PRD-CC-018,BANDUNG,Cheesecuit Bogel Dodol,Bandung Cheesecuit,Cheesecuit,18000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/09/Cheesecuit_Bogel_dodol__1_-removebg-preview.png,TRUE
-PRD-CC-019,BANDUNG,Cheesecuit Bogel Campolay,Bandung Cheesecuit,Cheesecuit,18000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/09/Cheesecuit_Bogel_Campolay-removebg-preview.png,TRUE
-PRD-CC-020,BANDUNG,Cheesecuit Bogel Mangga,Bandung Cheesecuit,Cheesecuit,18000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/09/Cheesecuit_Bogel_Mangga__1_-removebg-preview.png,TRUE
-PRD-CC-021,BANDUNG,Cheesecuit Bogel Talas,Bandung Cheesecuit,Cheesecuit,18000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/09/Cheesecuit_Bogel_talas_bogor-removebg-preview.png,TRUE
-PRD-CC-022,BANDUNG,Cheesecuit Bogel Matcha,Bandung Cheesecuit,Cheesecuit,18000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/12/Matcha.png,TRUE
-PRD-CC-023,BANDUNG,Cheesecuit Bogel Blueberry,Bandung Cheesecuit,Cheesecuit,18000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/12/blueberry-1.png,TRUE
-PRD-CC-024,BANDUNG,Cheesecuit Bogel Tiramisu,Bandung Cheesecuit,Cheesecuit,18000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/12/tiramisu.webp,TRUE
-PRD-CC-025,BANDUNG,Cheesecuit Bogel Strawberry,Bandung Cheesecuit,Cheesecuit,18000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/12/straw.webp,TRUE
-PRD-CC-026,BANDUNG,Cheesecuit Bogel Red Velvet,Bandung Cheesecuit,Cheesecuit,18000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/02/red-velvet.png,TRUE
-PRD-CC-027,BANDUNG,Cheesecuit Bogel Mix Fruit,Bandung Cheesecuit,Cheesecuit,18000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/02/mix-fruit.png,TRUE
-PRD-CC-028,BANDUNG,Cheesecuit Bogel Lotus Biscoff,Bandung Cheesecuit,Cheesecuit,18000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/12/lotus.webp,TRUE
-PRD-CC-029,BANDUNG,Pudding Lasagna Mixfruit,Bandung Cheesecuit,Dessert Box,23000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/02/Bandung-Cheescuit-Lasagna-Mixfruit.webp,TRUE
-PRD-CC-030,BANDUNG,Pudding Lasagna Marshmallow,Bandung Cheesecuit,Dessert Box,23000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/02/Bandung-Cheescuit-Lasagna-Marshmallow.webp,TRUE
-PRD-CC-031,BANDUNG,Pudding Lasagna Choco Berry,Bandung Cheesecuit,Dessert Box,23000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/02/Bandung-Cheescuit-Lasagna-Choco-berry.webp,TRUE
-PRD-CC-032,BANDUNG,Pudding Lasagna Black Crumble,Bandung Cheesecuit,Dessert Box,23000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/02/Bandung-Cheescuit-Lasagna-Black-crumble.webp,TRUE
-PRD-CC-033,BANDUNG,Bongsor Red Velvet,Bandung Cheesecuit,Cheesecuit,60000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/09/Bongsor_Redvelvet__1_-removebg-preview.png,TRUE
-PRD-CC-034,BANDUNG,Brownies Longsor,Bandung Cheesecuit,Brownies,60000,Tahan 5-7 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/06/Brownies-Longsor.png,TRUE
-PRD-KS-001,BANDUNG,Pisang Bolen isi 6 - Bollen Pisang Keju Special,Kartika Sari,Bolen,47500,Tahan 3-4 Hari,,TRUE
-PRD-KS-002,BANDUNG,Pisang Bolen isi 6 - Bollen Pisang Keju Coklat,Kartika Sari,Bolen,50000,Tahan 3-4 Hari,,TRUE
-PRD-KS-003,BANDUNG,Pisang Bolen - Keju Special - REGULAR,Kartika Sari,Bolen,72500,Tahan 3-4 Hari,,TRUE
-PRD-KS-004,BANDUNG,Pisang Bolen - Cokelat Keju - REGULAR,Kartika Sari,Bolen,75000,Tahan 3-4 Hari,,TRUE
-PRD-KS-005,BANDUNG,Durian Keju Bolen,Kartika Sari,Bolen,72500,Tahan 3-4 Hari,,TRUE
-PRD-KS-006,BANDUNG,Peyeum Keju Bolen,Kartika Sari,Bolen,70000,Tahan 3-4 Hari,,TRUE
-PRD-KS-007,BANDUNG,Brownies Kukus - Adinda,Kartika Sari,Brownies,75000,Tahan 5-7 Hari,,TRUE
-PRD-KS-008,BANDUNG,Brownies Kukus - Ketan Hitam,Kartika Sari,Brownies,77500,Tahan 5-7 Hari,,TRUE
-PRD-KS-009,BANDUNG,Brownies Kukus - Keju,Kartika Sari,Brownies,77500,Tahan 5-7 Hari,,TRUE
-PRD-KS-010,BANDUNG,Brownies Kukus - Pandan,Kartika Sari,Brownies,80000,Tahan 5-7 Hari,,TRUE
-PRD-KS-011,BANDUNG,Brownies Kukus - Marble,Kartika Sari,Brownies,77500,Tahan 5-7 Hari,,TRUE
-PRD-KS-012,BANDUNG,Brownies Kukus - Tiramisu,Kartika Sari,Brownies,77500,Tahan 5-7 Hari,,TRUE
-PRD-KS-013,BANDUNG,Brownies Gulung - Coklat,Kartika Sari,Brownies,52500,Tahan 5-7 Hari,,TRUE
-PRD-KS-014,BANDUNG,Brownies Gulung - Kacang,Kartika Sari,Brownies,52500,Tahan 5-7 Hari,,TRUE
-PRD-KS-015,BANDUNG,Brownies Gulung - Keju,Kartika Sari,Brownies,52500,Tahan 5-7 Hari,,TRUE
-PRD-KS-016,BANDUNG,Brownies Kunafa Pistachio,Kartika Sari,Brownies,165000,Tahan 5-7 Hari,,TRUE
-PRD-KS-017,BANDUNG,Brownies Panggang - Original,Kartika Sari,Brownies,105000,Tahan 5-7 Hari,,TRUE
-PRD-KS-018,BANDUNG,Brownies Panggang - Choco Chips,Kartika Sari,Brownies,110000,Tahan 5-7 Hari,,TRUE
-PRD-KS-019,BANDUNG,Brownies Panggang - Special Keju,Kartika Sari,Brownies,120000,Tahan 5-7 Hari,,TRUE
-PRD-KS-020,BANDUNG,Brownies Trio,Kartika Sari,Brownies,115000,Tahan 5-7 Hari,,TRUE
-PRD-KS-021,BANDUNG,Brownies Panggang - Special Tiramisu,Kartika Sari,Brownies,120000,Tahan 5-7 Hari,,TRUE
-PRD-KS-022,BANDUNG,Brownies Panggang - Raisin,Kartika Sari,Brownies,110000,Tahan 5-7 Hari,,TRUE
-PRD-KS-023,BANDUNG,Brownies Panggang - Mede,Kartika Sari,Brownies,120000,Tahan 5-7 Hari,,TRUE
-PRD-KS-024,BANDUNG,Brownies Panggang - Special Mocca,Kartika Sari,Brownies,110000,Tahan 5-7 Hari,,TRUE
-PRD-KS-025,BANDUNG,Banana Crispy,Kartika Sari,Pastry,75000,Tahan 3-4 Hari,,TRUE
-PRD-KS-026,BANDUNG,Banana Crispy Mini,Kartika Sari,Pastry,62500,Tahan 3-4 Hari,,TRUE
-PRD-KS-027,BANDUNG,Choco Roll,Kartika Sari,Pastry,65000,Tahan 3-4 Hari,,TRUE
-PRD-KS-028,BANDUNG,Cheese Roll,Kartika Sari,Pastry,75000,Tahan 3-4 Hari,,TRUE
-PRD-KS-029,BANDUNG,Choco Pastry,Kartika Sari,Pastry,67500,Tahan 3-4 Hari,,TRUE
-PRD-KS-030,BANDUNG,Cheese Stick,Kartika Sari,Pastry,75000,Tahan 3-4 Hari,,TRUE
-PRD-KS-031,BANDUNG,Banana Roll Pandan,Kartika Sari,Cake,60000,Tahan 5-7 Hari,,TRUE
-PRD-KS-032,BANDUNG,Proll Tape 1/3 LY,Kartika Sari,Cake,70000,Tahan 5-7 Hari,,TRUE
-PRD-KS-033,BANDUNG,Lapis Legit Prunes,Kartika Sari,Cake,334000,Tahan 5-7 Hari,,TRUE
-PRD-KS-034,BANDUNG,Lapis Legit Tikar,Kartika Sari,Cake,334000,Tahan 5-7 Hari,,TRUE
-PRD-KS-035,BANDUNG,Lapis Philipine Pandan,Kartika Sari,Cake,162500,Tahan 5-7 Hari,,TRUE
-PRD-KS-036,BANDUNG,Lapis Philipine Coklat,Kartika Sari,Cake,162500,Tahan 5-7 Hari,,TRUE
-PRD-KS-037,BANDUNG,Lapis Legit Roll Original,Kartika Sari,Cake,175000,Tahan 5-7 Hari,,TRUE
-PRD-KS-038,BANDUNG,Lapis Legit Prunes Roll,Kartika Sari,Cake,200000,Tahan 5-7 Hari,,TRUE
-PRD-KS-039,BANDUNG,Lapis Malang,Kartika Sari,Cake,183000,Tahan 5-7 Hari,,TRUE
-PRD-KS-040,BANDUNG,Marmer Cake 1/3,Kartika Sari,Cake,92000,Tahan 5-7 Hari,,TRUE
-PRD-KS-041,BANDUNG,Banana Cake Original,Kartika Sari,Cake,85000,Tahan 5-7 Hari,,TRUE
-PRD-KS-042,BANDUNG,Banana Cake Coklat,Kartika Sari,Cake,85000,Tahan 5-7 Hari,,TRUE
-PRD-KS-043,BANDUNG,Rolltart Vanilla,Kartika Sari,Cake,90000,Tahan 5-7 Hari,,TRUE
-PRD-KS-044,BANDUNG,Rolltart Strawberry,Kartika Sari,Cake,90000,Tahan 5-7 Hari,,TRUE
-PRD-KS-045,BANDUNG,Rolltart Mocha,Kartika Sari,Cake,90000,Tahan 5-7 Hari,,TRUE
-PRD-KS-046,BANDUNG,Chiffon Cake - Ketan Hitam,Kartika Sari,Cake,80000,Tahan 5-7 Hari,,TRUE
-PRD-KS-047,BANDUNG,Pie Susu Keju,Kartika Sari,Pastry,50000,Tahan 3-4 Hari,,TRUE
-PRD-KS-048,BANDUNG,Pie Susu Tiramisu,Kartika Sari,Pastry,50000,Tahan 3-4 Hari,,TRUE
-PRD-KS-049,BANDUNG,Pineapple Pie Cup,Kartika Sari,Pastry,40000,Tahan 3-4 Hari,,TRUE
-PRD-KS-050,BANDUNG,Apple Pie Cup,Kartika Sari,Pastry,40000,Tahan 3-4 Hari,,TRUE
-PRD-KS-051,BANDUNG,Bagelen Assorted Flavors 155 Gram,Kartika Sari,Kue Kering,74000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-052,BANDUNG,Bagelen Butter,Kartika Sari,Kue Kering,70000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-053,BANDUNG,Bagelen Cheese,Kartika Sari,Kue Kering,72000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-054,BANDUNG,Bagelen Almond,Kartika Sari,Kue Kering,72000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-055,BANDUNG,Bagelen Mocha,Kartika Sari,Kue Kering,70000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-056,BANDUNG,Soes Kering Keju,Kartika Sari,Kue Kering,48000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-057,BANDUNG,Soes Cream Cokelat Hazel Pouch,Kartika Sari,Kue Kering,38000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-058,BANDUNG,Soes Cream Cheese Pouch,Kartika Sari,Kue Kering,28000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-059,BANDUNG,Soes Cream Yogurt Strawberry Pouch,Kartika Sari,Kue Kering,28000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-060,BANDUNG,Soes Cream Chocolate Hazel Tin,Kartika Sari,Kue Kering,60000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-061,BANDUNG,Soes Cream Cheese Tin,Kartika Sari,Kue Kering,45000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-062,BANDUNG,Soes Cream Yogurt Strawberry Can,Kartika Sari,Kue Kering,45000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-063,BANDUNG,Toast Bread Butter 142.4 Gram,Kartika Sari,Kue Kering,48000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-064,BANDUNG,Toast Bread Chocolate 201.2 Gram,Kartika Sari,Kue Kering,58000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-065,BANDUNG,"Almond Cookies 120,4 Gram",Kartika Sari,Kue Kering,60000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-066,BANDUNG,Cheese Bites 90 Gram,Kartika Sari,Kue Kering,60000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-067,BANDUNG,Crispy Toast Vanilla Tabung,Kartika Sari,Kue Kering,48000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-068,BANDUNG,Choco Stick,Kartika Sari,Kue Kering,65000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-069,BANDUNG,Wafer Coklat Kartika Sari,Kartika Sari,Kue Kering,80000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-070,BANDUNG,Naastart Cookies,Kartika Sari,Kue Kering,215000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-071,BANDUNG,Naastart Keju Cookies,Kartika Sari,Kue Kering,215000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-072,BANDUNG,Kaastengels Cookies,Kartika Sari,Kue Kering,235000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-073,BANDUNG,Lidah Kucing,Kartika Sari,Kue Kering,180000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-074,BANDUNG,Almond Cookies,Kartika Sari,Kue Kering,205000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-075,BANDUNG,Cinnamon Stick,Kartika Sari,Kue Kering,70000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-076,BANDUNG,Naastart Original 10x10,Kartika Sari,Kue Kering,140000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-077,BANDUNG,Kaastengel Kotak 10x10,Kartika Sari,Kue Kering,140000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-078,BANDUNG,Kartika Sari Hampers Can,Kartika Sari,Hampers,140000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-079,BANDUNG,Kartika Sari Hampers 3s,Kartika Sari,Hampers,180000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-080,BANDUNG,Kartika Sari Hampers 4S,Kartika Sari,Hampers,240000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-081,BANDUNG,Kartika Sari Hampers 5s,Kartika Sari,Hampers,290000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-082,BANDUNG,Kartika Sari Hampers Platinum A,Kartika Sari,Hampers,615000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-083,BANDUNG,Kartika Sari Hampers Platinum B,Kartika Sari,Hampers,515000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-084,BANDUNG,Bandrek Bandung Braga Extra Hot,Kartika Sari,Camilan,37000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-085,BANDUNG,Bandrek Bandung Braga Regular,Kartika Sari,Camilan,34000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-086,BANDUNG,Seblak Instan Sehati,Kartika Sari,Camilan,15000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-087,BANDUNG,Cuanki Express,Kartika Sari,Camilan,26000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-088,BANDUNG,Mie Seblak Geprek Sami Raos,Kartika Sari,Camilan,35000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-089,BANDUNG,Dodol Picnic SP,Kartika Sari,Camilan,48000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-090,BANDUNG,Dodol Susu SPC TK,Kartika Sari,Camilan,31000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-091,BANDUNG,Dodol Wijen Bestory,Kartika Sari,Camilan,23000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-092,BANDUNG,Telur Gabus Keju Tabung,Kartika Sari,Camilan,77000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-093,BANDUNG,Telur Gabus Keju TDY,Kartika Sari,Camilan,39000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-094,BANDUNG,Telur Gabus Aaa,Kartika Sari,Camilan,71000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-095,BANDUNG,Seblak Koin,Kartika Sari,Camilan,23000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-096,BANDUNG,Stick Kentang NET,Kartika Sari,Camilan,18500,Tahan 1-2 Bulan,,TRUE
-PRD-KS-097,BANDUNG,Kerupuk Jaat,Kartika Sari,Camilan,23000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-098,BANDUNG,Kerupuk Paru SS,Kartika Sari,Camilan,74000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-099,BANDUNG,Kerupuk Sumpia Udang SS,Kartika Sari,Camilan,36000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-100,BANDUNG,Keripik Belut Indorasa,Kartika Sari,Camilan,51000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-101,BANDUNG,Kentang Putih Cap Jempol,Kartika Sari,Camilan,77000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-102,BANDUNG,Kentang Putih B SS,Kartika Sari,Camilan,69000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-103,BANDUNG,Kentang Putih Sari Rasa,Kartika Sari,Camilan,77000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-104,BANDUNG,Kerupuk Basreng Original - Sari Rasa,Kartika Sari,Camilan,41000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-105,BANDUNG,Kerupuk Basreng Pedas - Sari Rasa,Kartika Sari,Camilan,44000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-106,BANDUNG,Kerupuk Basreng VS,Kartika Sari,Camilan,34000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-107,BANDUNG,Tempe Kotak SS,Kartika Sari,Camilan,59000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-108,BANDUNG,Tempe Kotak Manis Pedas SS,Kartika Sari,Camilan,53000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-109,BANDUNG,Tempe Sagu SS,Kartika Sari,Camilan,49000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-110,BANDUNG,Keripik Tempe Original Kotak - Sari Rasa,Kartika Sari,Camilan,44000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-111,BANDUNG,Keripik Tempe Pedas Manis - Sari Rasa,Kartika Sari,Camilan,44000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-112,BANDUNG,Keripik Tempe Original Bulat - Sari Rasa,Kartika Sari,Camilan,44000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-113,BANDUNG,Keripik Tempe Mentega - Sari Rasa,Kartika Sari,Camilan,40000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-114,BANDUNG,Sale Pisang Jari YY,Kartika Sari,Camilan,42000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-115,BANDUNG,Sale Pisang Keju SS,Kartika Sari,Camilan,47000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-116,BANDUNG,Sale Pisang Lidah YY,Kartika Sari,Camilan,27000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-117,BANDUNG,Sale Pisang Crispy VS,Kartika Sari,Camilan,37000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-118,BANDUNG,Sale Pisang Suka Senang,Kartika Sari,Camilan,29000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-119,BANDUNG,Pisang Bolen - Keju Special - BESAR,Kartika Sari,Bolen,90000,Tahan 3-4 Hari,,TRUE
-PRD-KS-120,BANDUNG,Pisang Bolen - Cokelat Keju - BESAR,Kartika Sari,Bolen,92500,Tahan 3-4 Hari,,TRUE
-PRD-KS-121,BANDUNG,Banana Roll Keju,Kartika Sari,Cake,60000,Tahan 5-7 Hari,,TRUE
-PRD-KS-122,BANDUNG,Pie Susu Strawberry Chocolate,Kartika Sari,Pastry,50000,Tahan 3-4 Hari,,TRUE
-PRD-KS-123,BANDUNG,Keripik Cimpring Bawang Original,Kartika Sari,Camilan,29000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-124,BANDUNG,Sale Pisang Lidah Super SS,Kartika Sari,Camilan,38000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-125,BANDUNG,Sale Pisang Lidah SS,Kartika Sari,Camilan,35000,Tahan 1-2 Bulan,,TRUE
-PRD-KS-126,BANDUNG,Keripik Pisang Madu,Kartika Sari,Camilan,36000,Tahan 1-2 Bulan,,TRUE
+PRD-PR-001,BANDUNG,Brownies Coklat Almond (425 gr),Prima Rasa,Brownies,129000,Tahan 9 Hari (Luar) / 11 Hari (Kulkas),/img/primarasa/PRD-PR-001.jpg,TRUE
+PRD-PR-002,BANDUNG,Brownies Coklat Almond (Kecil) (300 gr),Prima Rasa,Brownies,109000,Tahan 9 Hari (Luar) / 11 Hari (Kulkas),/img/primarasa/PRD-PR-002.jpg,TRUE
+PRD-PR-003,BANDUNG,Brownies Coklat Mede (450 gr),Prima Rasa,Brownies,139000,Tahan 9 Hari (Luar) / 11 Hari (Kulkas),/img/primarasa/PRD-PR-003.jpg,TRUE
+PRD-PR-004,BANDUNG,Brownies Panggang Keju (560 gr),Prima Rasa,Brownies,149000,Tahan 6 Hari (Luar) / 8 Hari (Kulkas),/img/primarasa/PRD-PR-004.jpg,TRUE
+PRD-PR-005,BANDUNG,Brownies Panggang Tiramizu (600 gr),Prima Rasa,Brownies,149000,Tahan 6 Hari (Luar) / 8 Hari (Kulkas),/img/primarasa/PRD-PR-005.jpg,TRUE
+PRD-PR-006,BANDUNG,Brownies Panggang Chocochip (475 gr),Prima Rasa,Brownies,129000,Tahan 9 Hari (Luar) / 11 Hari (Kulkas),/img/primarasa/PRD-PR-006.jpg,TRUE
+PRD-PR-007,BANDUNG,Brownies Panggang Chocochip (Kecil) (300 gr),Prima Rasa,Brownies,109000,Tahan 9 Hari (Luar) / 11 Hari (Kulkas),/img/primarasa/PRD-PR-007.jpg,TRUE
+PRD-PR-008,BANDUNG,Brownies Panggang Mocca (590 gr),Prima Rasa,Brownies,149000,Tahan 6 Hari (Luar) / 8 Hari (Kulkas),/img/primarasa/PRD-PR-008.jpg,TRUE
+PRD-PR-009,BANDUNG,Brownies Panggang Raisin (590 gr),Prima Rasa,Brownies,149000,Tahan 6 Hari (Luar) / 8 Hari (Kulkas),/img/primarasa/PRD-PR-009.jpg,TRUE
+PRD-PR-010,BANDUNG,Brownies Panggang Ketan Hitam (560 gr),Prima Rasa,Brownies,139000,Tahan 9 Hari (Luar) / 11 Hari (Kulkas),/img/primarasa/PRD-PR-010.jpg,TRUE
+PRD-PR-011,BANDUNG,Brownies Panggang Blueberry (590 gr),Prima Rasa,Brownies,169000,Tahan 9 Hari (Luar) / 11 Hari (Kulkas),/img/primarasa/PRD-PR-011.jpg,TRUE
+PRD-PR-012,BANDUNG,Brownies Panggang Kacang (500 gr),Prima Rasa,Brownies,129000,Tahan 9 Hari (Luar) / 11 Hari (Kulkas),/img/primarasa/PRD-PR-012.jpg,TRUE
+PRD-PR-013,BANDUNG,Brownies Panggang Oreo,Prima Rasa,Brownies,79000,Tahan 7 Hari (Luar) / 9 Hari (Kulkas),/img/primarasa/PRD-PR-013.jpg,TRUE
+PRD-PR-014,BANDUNG,Brownies Panggang Expresso,Prima Rasa,Brownies,109000,Tahan 7 Hari (Luar) / 9 Hari (Kulkas),/img/primarasa/PRD-PR-014.jpg,TRUE
+PRD-PR-015,BANDUNG,Brownies Almond Panjang,Prima Rasa,Brownies,109000,Tahan 7 Hari (Luar) / 9 Hari (Kulkas),/img/primarasa/PRD-PR-015.jpg,TRUE
+PRD-PR-016,BANDUNG,Brownies Red Velvet,Prima Rasa,Brownies,89000,Tahan 4 Hari (Luar),/img/primarasa/PRD-PR-016.jpg,TRUE
+PRD-PR-017,BANDUNG,Brownies Matcha Cream Cheese,Prima Rasa,Brownies,99000,Tahan 4 Hari (Luar),/img/primarasa/PRD-PR-017.jpg,TRUE
+PRD-PR-018,BANDUNG,Brownies Marmer Panjang,Prima Rasa,Brownies,89000,Tahan 4 Hari (Luar),/img/primarasa/PRD-PR-018.jpg,TRUE
+PRD-PR-019,BANDUNG,Brownies Kunafa Pistachio,Prima Rasa,Brownies,169000,Tahan 10 Hari (Luar) / 11 Hari (Kulkas),,TRUE
+PRD-PR-020,BANDUNG,Mixbro,Prima Rasa,Brownies,309000,Tahan 10 Hari (Luar) / 11 Hari (Kulkas),/img/primarasa/PRD-PR-020.jpg,TRUE
+PRD-PR-021,BANDUNG,Brownies Kukus Original Coklat PR,Prima Rasa,Brownies,109000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-021.jpg,TRUE
+PRD-PR-022,BANDUNG,Brownies Kukus Keju-Coklat,Prima Rasa,Brownies,89000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-022.jpg,TRUE
+PRD-PR-023,BANDUNG,Brownies Kukus Ketan Hitam Pandan,Prima Rasa,Brownies,79000,Tahan 2 Hari (Luar) / 4 Hari (Kulkas),/img/primarasa/PRD-PR-023.jpg,TRUE
+PRD-PR-024,BANDUNG,Brownies Kukus Coklat Dus,Prima Rasa,Brownies,69000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-024.jpg,TRUE
+PRD-PR-025,BANDUNG,Brownies Kukus Pandan Coklat Dus,Prima Rasa,Brownies,79000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-025.jpg,TRUE
+PRD-PR-026,BANDUNG,Rolltart Buah,Prima Rasa,Cake,119000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
+PRD-PR-027,BANDUNG,Roll Tart Selai Strawberry / Mocca,Prima Rasa,Cake,109000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-027.jpg,TRUE
+PRD-PR-028,BANDUNG,Roll Tart Mocca Raisin,Prima Rasa,Cake,119000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
+PRD-PR-029,BANDUNG,Roll Tart Selai Nanas,Prima Rasa,Cake,109000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-029.jpg,TRUE
+PRD-PR-030,BANDUNG,Roll Tart Pandan Keju,Prima Rasa,Cake,119000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-030.jpg,TRUE
+PRD-PR-031,BANDUNG,Roll Tart Coklat,Prima Rasa,Cake,109000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
+PRD-PR-032,BANDUNG,Roll Tart Kacang,Prima Rasa,Cake,119000,Wajib Kulkas / Tahan 3 Hari,,TRUE
+PRD-PR-033,BANDUNG,Roll Tart Taiwan,Prima Rasa,Cake,159000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
+PRD-PR-034,BANDUNG,Roll Tart Ketan Hitam,Prima Rasa,Cake,79000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-034.jpg,TRUE
+PRD-PR-035,BANDUNG,Commersy Madeleines,Prima Rasa,Cake,109000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
+PRD-PR-036,BANDUNG,Cake Tape Kotak (Kecil) (Almond/Keju),Prima Rasa,Cake,59000,Wajib Kulkas / Tahan 3 Hari,/img/primarasa/PRD-PR-036.jpg,TRUE
+PRD-PR-037,BANDUNG,Cake Tape Bulat,Prima Rasa,Cake,149000,Wajib Kulkas / Tahan 3 Hari,,TRUE
+PRD-PR-038,BANDUNG,Blueberry Cake Besar,Prima Rasa,Cake,89000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-038.jpg,TRUE
+PRD-PR-039,BANDUNG,Marmer Kukus Coklat,Prima Rasa,Cake,59000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-039.jpg,TRUE
+PRD-PR-040,BANDUNG,Banana Cake Primarasa,Prima Rasa,Cake,59000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-040.jpg,TRUE
+PRD-PR-041,BANDUNG,Chiffon Ketan Hitam,Prima Rasa,Cake,89000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-041.jpg,TRUE
+PRD-PR-042,BANDUNG,Bolu Pelangi,Prima Rasa,Cake,46500,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-042.jpg,TRUE
+PRD-PR-043,BANDUNG,Banana Roll (Coklat/Keju/Pandan),Prima Rasa,Cake,69000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-043.jpg,TRUE
+PRD-PR-044,BANDUNG,Bolu Gulung Warna,Prima Rasa,Cake,49000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-044.jpg,TRUE
+PRD-PR-045,BANDUNG,Bolu Caramel Loyang Mini,Prima Rasa,Cake,69000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-045.jpg,TRUE
+PRD-PR-046,BANDUNG,Marmer Cake Bunga,Prima Rasa,Cake,189000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-046.jpg,TRUE
+PRD-PR-047,BANDUNG,Marmer Cake Panjang,Prima Rasa,Cake,109000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-047.jpg,TRUE
+PRD-PR-048,BANDUNG,Tart Kombinasi,Prima Rasa,Cake,109000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
+PRD-PR-049,BANDUNG,Kue Balok (Pandan/Coklat),Prima Rasa,Cake,46500,Tahan 2 Hari (Luar),/img/primarasa/PRD-PR-049.jpg,TRUE
+PRD-PR-050,BANDUNG,Lapis Philipine,Prima Rasa,Cake,129000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-050.jpg,TRUE
+PRD-PR-051,BANDUNG,Lapis Philipine Prunes,Prima Rasa,Cake,139000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-051.jpg,TRUE
+PRD-PR-052,BANDUNG,"Lapis Legit (Original, Pandan)",Prima Rasa,Cake,309000,Tahan 7 Hari (Luar) / 9 Hari (Kulkas),/img/primarasa/PRD-PR-052.jpg,TRUE
+PRD-PR-053,BANDUNG,Lapis Legit Coklat,Prima Rasa,Cake,329000,Tahan 7 Hari (Luar) / 9 Hari (Kulkas),/img/primarasa/PRD-PR-053.jpg,TRUE
+PRD-PR-054,BANDUNG,Lapis Legit Prunes,Prima Rasa,Cake,329000,Tahan 7 Hari (Luar) / 9 Hari (Kulkas),/img/primarasa/PRD-PR-054.jpg,TRUE
+PRD-PR-055,BANDUNG,Bolen Pisang Keju (520 gr),Prima Rasa,Bolen,89000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-055.jpg,TRUE
+PRD-PR-056,BANDUNG,Bolen Pisang Coklat (520 gr),Prima Rasa,Bolen,89000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-056.jpg,TRUE
+PRD-PR-057,BANDUNG,Bolen Pisang Coklat Keju (525 gr),Prima Rasa,Bolen,89000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-057.jpg,TRUE
+PRD-PR-058,BANDUNG,Bolen Tape – Peuyeum (520 gr),Prima Rasa,Bolen,89000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-058.jpg,TRUE
+PRD-PR-059,BANDUNG,Bolen Apel (525 gr),Prima Rasa,Bolen,89000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-059.jpg,TRUE
+PRD-PR-060,BANDUNG,Bolen Durian (530 gr),Prima Rasa,Bolen,89000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-060.jpg,TRUE
+PRD-PR-061,BANDUNG,Banana Crispy,Prima Rasa,Pastry,89000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-061.jpg,TRUE
+PRD-PR-062,BANDUNG,Pisang Lilit Kecil Polos,Prima Rasa,Pastry,59000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
+PRD-PR-063,BANDUNG,Pisang Lilit Kecil Coklat/Keju,Prima Rasa,Pastry,69000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
+PRD-PR-064,BANDUNG,Picnic Roll Ayam Besar (800 gr),Prima Rasa,Pastry,109000,Tahan 1 Hari (Luar) / 2 Hari (Kulkas),/img/primarasa/PRD-PR-064.jpg,TRUE
+PRD-PR-065,BANDUNG,Picnic Roll Sapi Besar (820 gr),Prima Rasa,Pastry,109000,Tahan 1 Hari (Luar) / 2 Hari (Kulkas),/img/primarasa/PRD-PR-065.jpg,TRUE
+PRD-PR-066,BANDUNG,Picnic Roll Ayam Kecil (400 gr),Prima Rasa,Pastry,79000,Tahan 1 Hari (Luar) / 2 Hari (Kulkas),/img/primarasa/PRD-PR-066.jpg,TRUE
+PRD-PR-067,BANDUNG,Picnic Roll Sapi Kecil (500 gr),Prima Rasa,Pastry,79000,Tahan 1 Hari (Luar) / 2 Hari (Kulkas),/img/primarasa/PRD-PR-067.jpg,TRUE
+PRD-PR-068,BANDUNG,Picnic Bolen Ayam,Prima Rasa,Bolen,79000,Tahan 1 Hari (Luar) / 2 Hari (Kulkas),/img/primarasa/PRD-PR-068.jpg,TRUE
+PRD-PR-069,BANDUNG,Picnic Bolen Sapi,Prima Rasa,Bolen,79000,Tahan 1 Hari (Luar) / 2 Hari (Kulkas),/img/primarasa/PRD-PR-069.jpg,TRUE
+PRD-PR-070,BANDUNG,Sausage Brood Spesial,Prima Rasa,Pastry,48500,Tahan 2 Hari (Luar) / 3 Hari (Kulkas),/img/primarasa/PRD-PR-070.jpg,TRUE
+PRD-PR-071,BANDUNG,Pastry Raugout Ayam,Prima Rasa,Pastry,46500,Tahan 2 Hari (Luar) / 3 Hari (Kulkas),/img/primarasa/PRD-PR-071.jpg,TRUE
+PRD-PR-072,BANDUNG,Cheese Roll (330 gr),Prima Rasa,Pastry,79000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-072.jpg,TRUE
+PRD-PR-073,BANDUNG,Choco Roll,Prima Rasa,Pastry,79000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-073.jpg,TRUE
+PRD-PR-074,BANDUNG,Cheese Choco Roll,Prima Rasa,Pastry,89000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-074.jpg,TRUE
+PRD-PR-075,BANDUNG,Cheese Stick Puff,Prima Rasa,Pastry,89000,Tahan 7 Hari (Luar) / 10 Hari (Kulkas),/img/primarasa/PRD-PR-075.jpg,TRUE
+PRD-PR-076,BANDUNG,Pastry Coklat,Prima Rasa,Pastry,79000,Tahan 7 Hari (Luar) / 10 Hari (Kulkas),/img/primarasa/PRD-PR-076.jpg,TRUE
+PRD-PR-077,BANDUNG,Apple Pie Kecil,Prima Rasa,Pastry,119000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
+PRD-PR-078,BANDUNG,Apple Pie Besar,Prima Rasa,Pastry,159000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
+PRD-PR-079,BANDUNG,Apple Strudle,Prima Rasa,Pastry,59000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-079.jpg,TRUE
+PRD-PR-080,BANDUNG,Aneka Pie Primarasa,Prima Rasa,Pastry,33500,Tahan 7 Hari (Luar) / 10 Hari (Kulkas),/img/primarasa/PRD-PR-080.jpg,TRUE
+PRD-PR-081,BANDUNG,Pie Susu Primarasa,Prima Rasa,Pastry,59000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-081.jpg,TRUE
+PRD-PR-082,BANDUNG,Bagelan Manis (Dus 300 gr),Prima Rasa,Kue Kering,119000,Tahan 2 Bulan,/img/primarasa/PRD-PR-082.jpg,TRUE
+PRD-PR-083,BANDUNG,Bagelan Manis (Toples 270 gr),Prima Rasa,Kue Kering,119000,Tahan 2 Bulan,/img/primarasa/PRD-PR-083.jpg,TRUE
+PRD-PR-084,BANDUNG,Bagelan Manis (Tabung 185 gr),Prima Rasa,Kue Kering,89000,Tahan 2 Bulan,,TRUE
+PRD-PR-085,BANDUNG,Bagelan Keju (Dus 300 gr),Prima Rasa,Kue Kering,119000,Tahan 2 Bulan,/img/primarasa/PRD-PR-085.jpg,TRUE
+PRD-PR-086,BANDUNG,Bagelan Keju (Toples 265 gr),Prima Rasa,Kue Kering,119000,Tahan 2 Bulan,/img/primarasa/PRD-PR-086.jpg,TRUE
+PRD-PR-087,BANDUNG,Bagelan Keju (Tabung 190 gr),Prima Rasa,Kue Kering,89000,Tahan 2 Bulan,,TRUE
+PRD-PR-088,BANDUNG,Bagelan Garlic (190 gr),Prima Rasa,Kue Kering,99000,Tahan 2 Bulan,,TRUE
+PRD-PR-089,BANDUNG,Bagelan Mocca (260 gr),Prima Rasa,Kue Kering,119000,Tahan 2 Bulan,/img/primarasa/PRD-PR-089.jpg,TRUE
+PRD-PR-090,BANDUNG,Bagelen Pistachio,Prima Rasa,Kue Kering,89000,Tahan 1-2 Bulan,/img/primarasa/PRD-PR-090.jpg,TRUE
+PRD-PR-091,BANDUNG,Pastry Almond (Toples 290 gr),Prima Rasa,Kue Kering,139000,Tahan 2 Bulan,/img/primarasa/PRD-PR-091.jpg,TRUE
+PRD-PR-092,BANDUNG,Pastry Almond (Tabung 185 gr),Prima Rasa,Kue Kering,109000,Tahan 2 Bulan,/img/primarasa/PRD-PR-092.jpg,TRUE
+PRD-PR-093,BANDUNG,Pastry Keju (Toples 315 gr),Prima Rasa,Kue Kering,159000,Tahan 2 Bulan,/img/primarasa/PRD-PR-093.jpg,TRUE
+PRD-PR-094,BANDUNG,Pastry Keju (Tabung 185 gr),Prima Rasa,Kue Kering,119000,Tahan 2 Bulan,/img/primarasa/PRD-PR-094.jpg,TRUE
+PRD-PR-095,BANDUNG,Pastry Coklat Keju (Toples 320 gr),Prima Rasa,Kue Kering,179000,Tahan 2 Bulan,/img/primarasa/PRD-PR-095.jpg,TRUE
+PRD-PR-096,BANDUNG,Pastry Coklat Keju (Tabung 185 gr),Prima Rasa,Kue Kering,119000,Tahan 2 Bulan,/img/primarasa/PRD-PR-096.jpg,TRUE
+PRD-PR-097,BANDUNG,Pastry Choco Almond,Prima Rasa,Kue Kering,119000,Tahan 2 Bulan,/img/primarasa/PRD-PR-097.jpg,TRUE
+PRD-PR-098,BANDUNG,"Almond Slice (Ori, Coklat) (160 gr)",Prima Rasa,Kue Kering,79000,Tahan 2 Bulan,/img/primarasa/PRD-PR-098.jpg,TRUE
+PRD-PR-099,BANDUNG,Almond Slice (Greentea) (160 gr),Prima Rasa,Kue Kering,89000,Tahan 2 Bulan,/img/primarasa/PRD-PR-099.jpg,TRUE
+PRD-PR-100,BANDUNG,Finger Stick (145 gr),Prima Rasa,Kue Kering,89000,Tahan 2 Bulan,/img/primarasa/PRD-PR-100.jpg,TRUE
+PRD-PR-101,BANDUNG,Sweet Stick (175 gr),Prima Rasa,Kue Kering,89000,Tahan 2 Bulan,/img/primarasa/PRD-PR-101.jpg,TRUE
+PRD-PR-102,BANDUNG,Finger Cin-Cin (120 gr),Prima Rasa,Kue Kering,89000,Tahan 2 Bulan,/img/primarasa/PRD-PR-102.jpg,TRUE
+PRD-PR-103,BANDUNG,Cheese Stick Garlic (215 gr),Prima Rasa,Kue Kering,89000,Tahan 2 Bulan,/img/primarasa/PRD-PR-103.jpg,TRUE
+PRD-PR-104,BANDUNG,Soes Kering Tabung (140 gr),Prima Rasa,Kue Kering,79000,Tahan 2 Bulan,,TRUE
+PRD-PR-105,BANDUNG,Soes Kering Coklat Tabung,Prima Rasa,Kue Kering,119000,Tahan 2 Bulan,/img/primarasa/PRD-PR-105.jpg,TRUE
+PRD-PR-106,BANDUNG,Soes Stick Tabung (170 gr),Prima Rasa,Kue Kering,79000,Tahan 2 Bulan,/img/primarasa/PRD-PR-106.jpg,TRUE
+PRD-PR-107,BANDUNG,Soes Kering Pack,Prima Rasa,Kue Kering,49000,Tahan 2 Bulan,,TRUE
+PRD-PR-108,BANDUNG,Almond Biscoti (340 gr),Prima Rasa,Kue Kering,119000,Tahan 2 Bulan,/img/primarasa/PRD-PR-108.jpg,TRUE
+PRD-PR-109,BANDUNG,Bolu Stick (Kering) (190 gr),Prima Rasa,Kue Kering,79000,Tahan 2 Bulan,/img/primarasa/PRD-PR-109.jpg,TRUE
+PRD-PR-110,BANDUNG,Brownies Kering Almond (200 gr),Prima Rasa,Kue Kering,99000,Tahan 2 Bulan,/img/primarasa/PRD-PR-110.jpg,TRUE
+PRD-PR-111,BANDUNG,Bokkenpojtes Tabung (215 gr),Prima Rasa,Kue Kering,89000,Tahan 2 Bulan,/img/primarasa/PRD-PR-111.jpg,TRUE
+PRD-PR-112,BANDUNG,Lidah Kucing Keju (250 gr),Prima Rasa,Kue Kering,119000,Tahan 2 Bulan,,TRUE
+PRD-PR-113,BANDUNG,Cheese Twist,Prima Rasa,Kue Kering,79000,Tahan 2 Bulan,/img/primarasa/PRD-PR-113.jpg,TRUE
+PRD-PR-114,BANDUNG,Scumpyespink Putih,Prima Rasa,Kue Kering,69000,Tahan 2 Bulan,/img/primarasa/PRD-PR-114.jpg,TRUE
+PRD-PR-115,BANDUNG,Chocolate Wafel,Prima Rasa,Kue Kering,99000,Tahan 7 Hari (Luar) / 9 Hari (Kulkas),/img/primarasa/PRD-PR-115.jpg,TRUE
+PRD-PR-116,BANDUNG,Crofell,Prima Rasa,Kue Kering,89000,Tahan 14 Hari (Luar),/img/primarasa/PRD-PR-116.jpg,TRUE
+PRD-PR-117,BANDUNG,Putri Salju Putih Kecil,Prima Rasa,Kue Kering,119000,Tahan 2 Bulan,,TRUE
+PRD-PR-118,BANDUNG,Cheese Stick Spiral Besar,Prima Rasa,Kue Kering,139000,Tahan 2 Bulan,/img/primarasa/PRD-PR-118.jpg,TRUE
+PRD-PR-119,BANDUNG,Cheese Spiral 14 Cm,Prima Rasa,Kue Kering,99000,Tahan 2 Bulan,,TRUE
+PRD-PR-120,BANDUNG,Orange Biskoti,Prima Rasa,Kue Kering,99000,Tahan 2 Bulan,/img/primarasa/PRD-PR-120.jpg,TRUE
+PRD-PR-121,BANDUNG,Peanut Cookies,Prima Rasa,Kue Kering,79000,Tahan 2 Bulan,,TRUE
+PRD-PR-122,BANDUNG,Sultana Cookies,Prima Rasa,Kue Kering,89000,Tahan 2 Bulan,/img/primarasa/PRD-PR-122.jpg,TRUE
+PRD-PR-123,BANDUNG,Sagu Keju Sedang,Prima Rasa,Kue Kering,79000,Tahan 2 Bulan,/img/primarasa/PRD-PR-123.jpg,TRUE
+PRD-PR-124,BANDUNG,Nastar Polos PR (330 gr),Prima Rasa,Kue Kering,179000,Tahan 2 Bulan,/img/primarasa/PRD-PR-124.jpg,TRUE
+PRD-PR-125,BANDUNG,Nastar Kecil (190 gr),Prima Rasa,Kue Kering,109000,Tahan 2 Bulan,,TRUE
+PRD-PR-126,BANDUNG,Nastar Keju PR (310 gr),Prima Rasa,Kue Kering,179000,Tahan 2 Bulan,/img/primarasa/PRD-PR-126.jpg,TRUE
+PRD-PR-127,BANDUNG,Kastengel Toples,Prima Rasa,Kue Kering,229000,Tahan 2 Bulan,/img/primarasa/PRD-PR-127.jpg,TRUE
+PRD-PR-128,BANDUNG,Putri Salju PR,Prima Rasa,Kue Kering,229000,Tahan 2 Bulan,/img/primarasa/PRD-PR-128.jpg,TRUE
+PRD-PR-129,BANDUNG,Coffee Coklat PR,Prima Rasa,Kue Kering,139000,Tahan 2 Bulan,/img/primarasa/PRD-PR-129.jpg,TRUE
+PRD-PR-130,BANDUNG,Almond Crunchy,Prima Rasa,Kue Kering,79000,Tahan 2 Bulan,/img/primarasa/PRD-PR-130.jpg,TRUE
+PRD-PR-131,BANDUNG,Kacang Mede PR,Prima Rasa,Kue Kering,119000,Tahan 2 Bulan,,TRUE
+PRD-PR-132,BANDUNG,Lidah Kucing PR,Prima Rasa,Kue Kering,129000,Tahan 2 Bulan,,TRUE
+PRD-PR-133,BANDUNG,Nestum Mede Cookies,Prima Rasa,Kue Kering,89000,Tahan 2 Bulan,/img/primarasa/PRD-PR-133.jpg,TRUE
+PRD-PR-134,BANDUNG,Astor Tabung PR,Prima Rasa,Kue Kering,32500,Tahan 2 Bulan,/img/primarasa/PRD-PR-134.jpg,TRUE
+PRD-PR-135,BANDUNG,Semprit Cookies,Prima Rasa,Kue Kering,79000,Tahan 2 Bulan,,TRUE
+PRD-PR-136,BANDUNG,Basreng PR ( K640),Prima Rasa,Camilan,26000,Tahan 2 Bulan,,TRUE
+PRD-PR-137,BANDUNG,Samosa,Prima Rasa,Camilan,49000,Tahan 2 Bulan,,TRUE
+PRD-PR-138,BANDUNG,Kacang Bandung SPC,Prima Rasa,Camilan,34500,Tahan 2 Bulan,,TRUE
+PRD-PR-139,BANDUNG,Sumpia PR,Prima Rasa,Camilan,46500,Tahan 2 Bulan,,TRUE
+PRD-PR-140,BANDUNG,Macaroon PR,Prima Rasa,Kue Kering,69000,Tahan 2 Bulan,/img/primarasa/PRD-PR-140.jpg,TRUE
+PRD-PR-141,BANDUNG,Pisang Sale Manis (195 gr),Prima Rasa,Camilan,36500,Tahan 3 Bulan,,TRUE
+PRD-PR-142,BANDUNG,Tempe Goreng Ori (275 gr),Prima Rasa,Camilan,32000,Tahan 3 Bulan,,TRUE
+PRD-PR-143,BANDUNG,Tempe Oven (200 gr),Prima Rasa,Camilan,42000,Tahan 3 Bulan,,TRUE
+PRD-PR-144,BANDUNG,Basreng (200 gr),Prima Rasa,Camilan,30000,Tahan 2 Bulan,,TRUE
+PRD-PR-145,BANDUNG,Oncom Goreng,Prima Rasa,Camilan,59000,Tahan 3 Bulan,,TRUE
+PRD-PR-146,BANDUNG,Tempe Manis Pedas (375 gr),Prima Rasa,Camilan,37500,Tahan 3 Bulan,,TRUE
+PRD-PR-147,BANDUNG,Sale Pisang Keju (210 gr),Prima Rasa,Camilan,47500,Tahan 3 Bulan,,TRUE
+PRD-PR-148,BANDUNG,Telur Gabus Manis,Prima Rasa,Camilan,49000,Tahan 3 Bulan,,TRUE
+PRD-PR-149,BANDUNG,Telur Gabus Wijen,Prima Rasa,Camilan,40500,Tahan 3 Bulan,,TRUE
+PRD-PR-150,BANDUNG,Pia Lembang (Kc. Hijau),Prima Rasa,Kue Kering,99000,Tahan 1 Bulan,,TRUE
+PRD-PR-151,BANDUNG,Pia Lembang (Kombinasi),Prima Rasa,Kue Kering,99000,Tahan 1 Bulan,,TRUE
+PRD-PR-152,BANDUNG,Bagelan Basah Abadi,Prima Rasa,Kue Kering,69000,Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
+PRD-PR-153,BANDUNG,Bagelan Kering Abadi,Prima Rasa,Kue Kering,89000,Tahan 3 Bulan,,TRUE
+PRD-PR-154,BANDUNG,Bagelan Merdeka,Prima Rasa,Kue Kering,69000,Tahan 3 Bulan,,TRUE
+PRD-PR-155,BANDUNG,Kerupuk Kulit (120 gr),Prima Rasa,Camilan,49000,Tahan 3 Bulan,,TRUE
+PRD-PR-156,BANDUNG,Kecimpring (300 gr),Prima Rasa,Camilan,36500,Tahan 3 Bulan,,TRUE
+PRD-PR-157,BANDUNG,Selondok (275 gr),Prima Rasa,Camilan,36500,Tahan 3 Bulan,,TRUE
+PRD-PR-158,BANDUNG,Keripik Ubi Ungu,Prima Rasa,Camilan,36500,Tahan 3 Bulan,,TRUE
+PRD-PR-159,BANDUNG,Keripik Usus,Prima Rasa,Camilan,40000,Tahan 3 Bulan,,TRUE
+PRD-PR-160,BANDUNG,Potato Chip Tabung,Prima Rasa,Camilan,49000,Tahan 1 Bulan,,TRUE
+PRD-PR-161,BANDUNG,Grisini Tabung,Prima Rasa,Camilan,79000,Tahan 2 Bulan,,TRUE
+PRD-PR-162,BANDUNG,Sale Pisang Original (200 gr),Prima Rasa,Camilan,46500,Tahan 2 Bulan,,TRUE
+PRD-PR-163,BANDUNG,Sumpia/Pastel/Pangsit Kecil (250 gr),Prima Rasa,Camilan,34500,Tahan 3 Bulan,,TRUE
+PRD-PR-164,BANDUNG,Sumpia/Pastel/Pangsit Besar (500 gr),Prima Rasa,Camilan,59000,Tahan 3 Bulan,,TRUE
+PRD-PR-165,BANDUNG,Sale Jari (400 gr),Prima Rasa,Camilan,46500,Tahan 2 Bulan,,TRUE
+PRD-PR-166,BANDUNG,Rengginang Terasi,Prima Rasa,Camilan,32000,Tahan 2 Bulan,,TRUE
+PRD-PR-167,BANDUNG,Kripik Bayam,Prima Rasa,Camilan,23500,Tahan 2 Bulan,,TRUE
+PRD-PR-168,BANDUNG,Pia Bandung,Prima Rasa,Kue Kering,59000,Tahan 2 Bulan,,TRUE
+PRD-PR-169,BANDUNG,Cheese Stick Pack,Prima Rasa,Kue Kering,48500,Tahan 2 Bulan,,TRUE
+PRD-PR-170,BANDUNG,Kentang Jempol (225 gr),Prima Rasa,Camilan,69000,Tahan 3 Bulan,,TRUE
+PRD-CC-001,BANDUNG,Cheesecuit Mochi Filling (Reguler),Bandung Cheesecuit,Cheesecuit,59000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/11/Reguler-Sukabumi.png,TRUE
+PRD-CC-002,BANDUNG,Cheesecuit Pink Berry (Reguler),Bandung Cheesecuit,Cheesecuit,59000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/11/Reguler-Majalengka.png,TRUE
+PRD-CC-003,BANDUNG,Cheesecuit Sale Pisang (Reguler),Bandung Cheesecuit,Cheesecuit,59000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/09/Cheesecuit_Sale_Pisang__2_-removebg-preview.png,TRUE
+PRD-CC-004,BANDUNG,Cheesecuit Dodol (Reguler),Bandung Cheesecuit,Cheesecuit,59000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/09/Cheesecuit_dodol__1_-removebg-preview.png,TRUE
+PRD-CC-005,BANDUNG,Cheesecuit Campolay (Reguler),Bandung Cheesecuit,Cheesecuit,59000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/09/Cheesecuit_Campolay-removebg-preview.png,TRUE
+PRD-CC-006,BANDUNG,Cheesecuit Mangga (Reguler),Bandung Cheesecuit,Cheesecuit,59000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/09/Cheesecuit_Mangga__1_-removebg-preview.png,TRUE
+PRD-CC-007,BANDUNG,Cheesecuit Talas (Reguler),Bandung Cheesecuit,Cheesecuit,59000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/09/Cheesecuit_talas_bogor-removebg-preview.png,TRUE
+PRD-CC-008,BANDUNG,Cheesecuit Blueberry (Reguler),Bandung Cheesecuit,Cheesecuit,59000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/12/blueberry-3.webp,TRUE
+PRD-CC-009,BANDUNG,Cheesecuit Tiramisu (Reguler),Bandung Cheesecuit,Cheesecuit,59000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/12/tiramisu-1.webp,TRUE
+PRD-CC-010,BANDUNG,Cheesecuit Strawberry (Reguler),Bandung Cheesecuit,Cheesecuit,59000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/12/straw-1.webp,TRUE
+PRD-CC-011,BANDUNG,Cheesecuit Red Velvet (Reguler),Bandung Cheesecuit,Cheesecuit,59000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/02/red-valvet.png,TRUE
+PRD-CC-012,BANDUNG,Cheesecuit Mix Fruit (Reguler),Bandung Cheesecuit,Cheesecuit,59000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/09/mix-fruit-1.1.png,TRUE
+PRD-CC-013,BANDUNG,Cheesecuit Lotus Biscoff (Reguler),Bandung Cheesecuit,Cheesecuit,59000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/12/lotus-fix.webp,TRUE
+PRD-CC-014,BANDUNG,Cheesecuit Greentea (Reguler),Bandung Cheesecuit,Cheesecuit,59000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/02/greentea.png,TRUE
+PRD-CC-015,BANDUNG,Cheesecuit Bogel Mochi Filling,Bandung Cheesecuit,Cheesecuit,25500,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/11/Bogel-Sukabumi.png,TRUE
+PRD-CC-016,BANDUNG,Cheesecuit Bogel Pink Berry,Bandung Cheesecuit,Cheesecuit,25500,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/11/Bogel-Majalengka.png,TRUE
+PRD-CC-017,BANDUNG,Cheesecuit Bogel Sale Pisang,Bandung Cheesecuit,Cheesecuit,25500,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/09/Cheesecuit_Bogel_Sale_Pisang__1_-removebg-preview.png,TRUE
+PRD-CC-018,BANDUNG,Cheesecuit Bogel Dodol,Bandung Cheesecuit,Cheesecuit,25500,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/09/Cheesecuit_Bogel_dodol__1_-removebg-preview.png,TRUE
+PRD-CC-019,BANDUNG,Cheesecuit Bogel Campolay,Bandung Cheesecuit,Cheesecuit,25500,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/09/Cheesecuit_Bogel_Campolay-removebg-preview.png,TRUE
+PRD-CC-020,BANDUNG,Cheesecuit Bogel Mangga,Bandung Cheesecuit,Cheesecuit,25500,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/09/Cheesecuit_Bogel_Mangga__1_-removebg-preview.png,TRUE
+PRD-CC-021,BANDUNG,Cheesecuit Bogel Talas,Bandung Cheesecuit,Cheesecuit,25500,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/09/Cheesecuit_Bogel_talas_bogor-removebg-preview.png,TRUE
+PRD-CC-022,BANDUNG,Cheesecuit Bogel Matcha,Bandung Cheesecuit,Cheesecuit,25500,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/12/Matcha.png,TRUE
+PRD-CC-023,BANDUNG,Cheesecuit Bogel Blueberry,Bandung Cheesecuit,Cheesecuit,25500,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/12/blueberry-1.png,TRUE
+PRD-CC-024,BANDUNG,Cheesecuit Bogel Tiramisu,Bandung Cheesecuit,Cheesecuit,25500,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/12/tiramisu.webp,TRUE
+PRD-CC-025,BANDUNG,Cheesecuit Bogel Strawberry,Bandung Cheesecuit,Cheesecuit,25500,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/12/straw.webp,TRUE
+PRD-CC-026,BANDUNG,Cheesecuit Bogel Red Velvet,Bandung Cheesecuit,Cheesecuit,25500,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/02/red-velvet.png,TRUE
+PRD-CC-027,BANDUNG,Cheesecuit Bogel Mix Fruit,Bandung Cheesecuit,Cheesecuit,25500,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/02/mix-fruit.png,TRUE
+PRD-CC-028,BANDUNG,Cheesecuit Bogel Lotus Biscoff,Bandung Cheesecuit,Cheesecuit,25500,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/12/lotus.webp,TRUE
+PRD-CC-029,BANDUNG,Pudding Lasagna Mixfruit,Bandung Cheesecuit,Dessert Box,32500,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/02/Bandung-Cheescuit-Lasagna-Mixfruit.webp,TRUE
+PRD-CC-030,BANDUNG,Pudding Lasagna Marshmallow,Bandung Cheesecuit,Dessert Box,32500,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/02/Bandung-Cheescuit-Lasagna-Marshmallow.webp,TRUE
+PRD-CC-031,BANDUNG,Pudding Lasagna Choco Berry,Bandung Cheesecuit,Dessert Box,32500,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/02/Bandung-Cheescuit-Lasagna-Choco-berry.webp,TRUE
+PRD-CC-032,BANDUNG,Pudding Lasagna Black Crumble,Bandung Cheesecuit,Dessert Box,32500,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/02/Bandung-Cheescuit-Lasagna-Black-crumble.webp,TRUE
+PRD-CC-033,BANDUNG,Bongsor Red Velvet,Bandung Cheesecuit,Cheesecuit,79000,Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/09/Bongsor_Redvelvet__1_-removebg-preview.png,TRUE
+PRD-CC-034,BANDUNG,Brownies Longsor,Bandung Cheesecuit,Brownies,79000,Tahan 5-7 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/06/Brownies-Longsor.png,TRUE
+PRD-KS-001,BANDUNG,Pisang Bolen isi 6 - Bollen Pisang Keju Special,Kartika Sari,Bolen,59000,Tahan 3-4 Hari,,TRUE
+PRD-KS-002,BANDUNG,Pisang Bolen isi 6 - Bollen Pisang Keju Coklat,Kartika Sari,Bolen,59000,Tahan 3-4 Hari,,TRUE
+PRD-KS-003,BANDUNG,Pisang Bolen - Keju Special - REGULAR,Kartika Sari,Bolen,89000,Tahan 3-4 Hari,,TRUE
+PRD-KS-004,BANDUNG,Pisang Bolen - Cokelat Keju - REGULAR,Kartika Sari,Bolen,89000,Tahan 3-4 Hari,,TRUE
+PRD-KS-005,BANDUNG,Durian Keju Bolen,Kartika Sari,Bolen,89000,Tahan 3-4 Hari,,TRUE
+PRD-KS-006,BANDUNG,Peyeum Keju Bolen,Kartika Sari,Bolen,89000,Tahan 3-4 Hari,,TRUE
+PRD-KS-007,BANDUNG,Brownies Kukus - Adinda,Kartika Sari,Brownies,89000,Tahan 5-7 Hari,,TRUE
+PRD-KS-008,BANDUNG,Brownies Kukus - Ketan Hitam,Kartika Sari,Brownies,99000,Tahan 5-7 Hari,,TRUE
+PRD-KS-009,BANDUNG,Brownies Kukus - Keju,Kartika Sari,Brownies,99000,Tahan 5-7 Hari,,TRUE
+PRD-KS-010,BANDUNG,Brownies Kukus - Pandan,Kartika Sari,Brownies,99000,Tahan 5-7 Hari,,TRUE
+PRD-KS-011,BANDUNG,Brownies Kukus - Marble,Kartika Sari,Brownies,99000,Tahan 5-7 Hari,,TRUE
+PRD-KS-012,BANDUNG,Brownies Kukus - Tiramisu,Kartika Sari,Brownies,99000,Tahan 5-7 Hari,,TRUE
+PRD-KS-013,BANDUNG,Brownies Gulung - Coklat,Kartika Sari,Brownies,69000,Tahan 5-7 Hari,,TRUE
+PRD-KS-014,BANDUNG,Brownies Gulung - Kacang,Kartika Sari,Brownies,69000,Tahan 5-7 Hari,,TRUE
+PRD-KS-015,BANDUNG,Brownies Gulung - Keju,Kartika Sari,Brownies,69000,Tahan 5-7 Hari,,TRUE
+PRD-KS-016,BANDUNG,Brownies Kunafa Pistachio,Kartika Sari,Brownies,199000,Tahan 5-7 Hari,,TRUE
+PRD-KS-017,BANDUNG,Brownies Panggang - Original,Kartika Sari,Brownies,119000,Tahan 5-7 Hari,,TRUE
+PRD-KS-018,BANDUNG,Brownies Panggang - Choco Chips,Kartika Sari,Brownies,129000,Tahan 5-7 Hari,,TRUE
+PRD-KS-019,BANDUNG,Brownies Panggang - Special Keju,Kartika Sari,Brownies,139000,Tahan 5-7 Hari,,TRUE
+PRD-KS-020,BANDUNG,Brownies Trio,Kartika Sari,Brownies,139000,Tahan 5-7 Hari,,TRUE
+PRD-KS-021,BANDUNG,Brownies Panggang - Special Tiramisu,Kartika Sari,Brownies,139000,Tahan 5-7 Hari,,TRUE
+PRD-KS-022,BANDUNG,Brownies Panggang - Raisin,Kartika Sari,Brownies,129000,Tahan 5-7 Hari,,TRUE
+PRD-KS-023,BANDUNG,Brownies Panggang - Mede,Kartika Sari,Brownies,139000,Tahan 5-7 Hari,,TRUE
+PRD-KS-024,BANDUNG,Brownies Panggang - Special Mocca,Kartika Sari,Brownies,129000,Tahan 5-7 Hari,,TRUE
+PRD-KS-025,BANDUNG,Banana Crispy,Kartika Sari,Pastry,89000,Tahan 3-4 Hari,,TRUE
+PRD-KS-026,BANDUNG,Banana Crispy Mini,Kartika Sari,Pastry,79000,Tahan 3-4 Hari,,TRUE
+PRD-KS-027,BANDUNG,Choco Roll,Kartika Sari,Pastry,79000,Tahan 3-4 Hari,,TRUE
+PRD-KS-028,BANDUNG,Cheese Roll,Kartika Sari,Pastry,89000,Tahan 3-4 Hari,,TRUE
+PRD-KS-029,BANDUNG,Choco Pastry,Kartika Sari,Pastry,89000,Tahan 3-4 Hari,,TRUE
+PRD-KS-030,BANDUNG,Cheese Stick,Kartika Sari,Pastry,89000,Tahan 3-4 Hari,,TRUE
+PRD-KS-031,BANDUNG,Banana Roll Pandan,Kartika Sari,Cake,79000,Tahan 5-7 Hari,,TRUE
+PRD-KS-032,BANDUNG,Proll Tape 1/3 LY,Kartika Sari,Cake,89000,Tahan 5-7 Hari,,TRUE
+PRD-KS-033,BANDUNG,Lapis Legit Prunes,Kartika Sari,Cake,379000,Tahan 5-7 Hari,,TRUE
+PRD-KS-034,BANDUNG,Lapis Legit Tikar,Kartika Sari,Cake,379000,Tahan 5-7 Hari,,TRUE
+PRD-KS-035,BANDUNG,Lapis Philipine Pandan,Kartika Sari,Cake,189000,Tahan 5-7 Hari,,TRUE
+PRD-KS-036,BANDUNG,Lapis Philipine Coklat,Kartika Sari,Cake,189000,Tahan 5-7 Hari,,TRUE
+PRD-KS-037,BANDUNG,Lapis Legit Roll Original,Kartika Sari,Cake,209000,Tahan 5-7 Hari,,TRUE
+PRD-KS-038,BANDUNG,Lapis Legit Prunes Roll,Kartika Sari,Cake,229000,Tahan 5-7 Hari,,TRUE
+PRD-KS-039,BANDUNG,Lapis Malang,Kartika Sari,Cake,219000,Tahan 5-7 Hari,,TRUE
+PRD-KS-040,BANDUNG,Marmer Cake 1/3,Kartika Sari,Cake,119000,Tahan 5-7 Hari,,TRUE
+PRD-KS-041,BANDUNG,Banana Cake Original,Kartika Sari,Cake,109000,Tahan 5-7 Hari,,TRUE
+PRD-KS-042,BANDUNG,Banana Cake Coklat,Kartika Sari,Cake,109000,Tahan 5-7 Hari,,TRUE
+PRD-KS-043,BANDUNG,Rolltart Vanilla,Kartika Sari,Cake,109000,Tahan 5-7 Hari,,TRUE
+PRD-KS-044,BANDUNG,Rolltart Strawberry,Kartika Sari,Cake,109000,Tahan 5-7 Hari,,TRUE
+PRD-KS-045,BANDUNG,Rolltart Mocha,Kartika Sari,Cake,109000,Tahan 5-7 Hari,,TRUE
+PRD-KS-046,BANDUNG,Chiffon Cake - Ketan Hitam,Kartika Sari,Cake,99000,Tahan 5-7 Hari,,TRUE
+PRD-KS-047,BANDUNG,Pie Susu Keju,Kartika Sari,Pastry,59000,Tahan 3-4 Hari,,TRUE
+PRD-KS-048,BANDUNG,Pie Susu Tiramisu,Kartika Sari,Pastry,59000,Tahan 3-4 Hari,,TRUE
+PRD-KS-049,BANDUNG,Pineapple Pie Cup,Kartika Sari,Pastry,49000,Tahan 3-4 Hari,,TRUE
+PRD-KS-050,BANDUNG,Apple Pie Cup,Kartika Sari,Pastry,49000,Tahan 3-4 Hari,,TRUE
+PRD-KS-051,BANDUNG,Bagelen Assorted Flavors 155 Gram,Kartika Sari,Kue Kering,89000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-052,BANDUNG,Bagelen Butter,Kartika Sari,Kue Kering,89000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-053,BANDUNG,Bagelen Cheese,Kartika Sari,Kue Kering,89000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-054,BANDUNG,Bagelen Almond,Kartika Sari,Kue Kering,89000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-055,BANDUNG,Bagelen Mocha,Kartika Sari,Kue Kering,89000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-056,BANDUNG,Soes Kering Keju,Kartika Sari,Kue Kering,59000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-057,BANDUNG,Soes Cream Cokelat Hazel Pouch,Kartika Sari,Kue Kering,49000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-058,BANDUNG,Soes Cream Cheese Pouch,Kartika Sari,Kue Kering,37500,Tahan 1-2 Bulan,,TRUE
+PRD-KS-059,BANDUNG,Soes Cream Yogurt Strawberry Pouch,Kartika Sari,Kue Kering,37500,Tahan 1-2 Bulan,,TRUE
+PRD-KS-060,BANDUNG,Soes Cream Chocolate Hazel Tin,Kartika Sari,Kue Kering,79000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-061,BANDUNG,Soes Cream Cheese Tin,Kartika Sari,Kue Kering,59000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-062,BANDUNG,Soes Cream Yogurt Strawberry Can,Kartika Sari,Kue Kering,59000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-063,BANDUNG,Toast Bread Butter 142.4 Gram,Kartika Sari,Kue Kering,59000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-064,BANDUNG,Toast Bread Chocolate 201.2 Gram,Kartika Sari,Kue Kering,69000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-065,BANDUNG,"Almond Cookies 120,4 Gram",Kartika Sari,Kue Kering,79000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-066,BANDUNG,Cheese Bites 90 Gram,Kartika Sari,Kue Kering,79000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-067,BANDUNG,Crispy Toast Vanilla Tabung,Kartika Sari,Kue Kering,59000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-068,BANDUNG,Choco Stick,Kartika Sari,Kue Kering,79000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-069,BANDUNG,Wafer Coklat Kartika Sari,Kartika Sari,Kue Kering,99000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-070,BANDUNG,Naastart Cookies,Kartika Sari,Kue Kering,249000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-071,BANDUNG,Naastart Keju Cookies,Kartika Sari,Kue Kering,249000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-072,BANDUNG,Kaastengels Cookies,Kartika Sari,Kue Kering,269000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-073,BANDUNG,Lidah Kucing,Kartika Sari,Kue Kering,209000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-074,BANDUNG,Almond Cookies,Kartika Sari,Kue Kering,229000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-075,BANDUNG,Cinnamon Stick,Kartika Sari,Kue Kering,89000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-076,BANDUNG,Naastart Original 10x10,Kartika Sari,Kue Kering,169000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-077,BANDUNG,Kaastengel Kotak 10x10,Kartika Sari,Kue Kering,169000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-084,BANDUNG,Bandrek Bandung Braga Extra Hot,Kartika Sari,Camilan,49500,Tahan 1-2 Bulan,,TRUE
+PRD-KS-085,BANDUNG,Bandrek Bandung Braga Regular,Kartika Sari,Camilan,45500,Tahan 1-2 Bulan,,TRUE
+PRD-KS-086,BANDUNG,Seblak Instan Sehati,Kartika Sari,Camilan,21000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-087,BANDUNG,Cuanki Express,Kartika Sari,Camilan,34500,Tahan 1-2 Bulan,,TRUE
+PRD-KS-088,BANDUNG,Mie Seblak Geprek Sami Raos,Kartika Sari,Camilan,46500,Tahan 1-2 Bulan,,TRUE
+PRD-KS-089,BANDUNG,Dodol Picnic SP,Kartika Sari,Camilan,59000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-090,BANDUNG,Dodol Susu SPC TK,Kartika Sari,Camilan,41500,Tahan 1-2 Bulan,,TRUE
+PRD-KS-091,BANDUNG,Dodol Wijen Bestory,Kartika Sari,Camilan,32500,Tahan 1-2 Bulan,,TRUE
+PRD-KS-092,BANDUNG,Telur Gabus Keju Tabung,Kartika Sari,Camilan,99000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-093,BANDUNG,Telur Gabus Keju TDY,Kartika Sari,Camilan,49000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-094,BANDUNG,Telur Gabus Aaa,Kartika Sari,Camilan,89000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-095,BANDUNG,Seblak Koin,Kartika Sari,Camilan,32500,Tahan 1-2 Bulan,,TRUE
+PRD-KS-096,BANDUNG,Stick Kentang NET,Kartika Sari,Camilan,26000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-097,BANDUNG,Kerupuk Jaat,Kartika Sari,Camilan,32500,Tahan 1-2 Bulan,,TRUE
+PRD-KS-098,BANDUNG,Kerupuk Paru SS,Kartika Sari,Camilan,89000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-099,BANDUNG,Kerupuk Sumpia Udang SS,Kartika Sari,Camilan,48000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-100,BANDUNG,Keripik Belut Indorasa,Kartika Sari,Camilan,59000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-101,BANDUNG,Kentang Putih Cap Jempol,Kartika Sari,Camilan,99000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-102,BANDUNG,Kentang Putih B SS,Kartika Sari,Camilan,89000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-103,BANDUNG,Kentang Putih Sari Rasa,Kartika Sari,Camilan,99000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-104,BANDUNG,Kerupuk Basreng Original - Sari Rasa,Kartika Sari,Camilan,49000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-105,BANDUNG,Kerupuk Basreng Pedas - Sari Rasa,Kartika Sari,Camilan,59000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-106,BANDUNG,Kerupuk Basreng VS,Kartika Sari,Camilan,45500,Tahan 1-2 Bulan,,TRUE
+PRD-KS-107,BANDUNG,Tempe Kotak SS,Kartika Sari,Camilan,69000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-108,BANDUNG,Tempe Kotak Manis Pedas SS,Kartika Sari,Camilan,69000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-109,BANDUNG,Tempe Sagu SS,Kartika Sari,Camilan,69000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-110,BANDUNG,Keripik Tempe Original Kotak - Sari Rasa,Kartika Sari,Camilan,59000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-111,BANDUNG,Keripik Tempe Pedas Manis - Sari Rasa,Kartika Sari,Camilan,59000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-112,BANDUNG,Keripik Tempe Original Bulat - Sari Rasa,Kartika Sari,Camilan,59000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-113,BANDUNG,Keripik Tempe Mentega - Sari Rasa,Kartika Sari,Camilan,49000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-114,BANDUNG,Sale Pisang Jari YY,Kartika Sari,Camilan,59000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-115,BANDUNG,Sale Pisang Keju SS,Kartika Sari,Camilan,59000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-116,BANDUNG,Sale Pisang Lidah YY,Kartika Sari,Camilan,36000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-117,BANDUNG,Sale Pisang Crispy VS,Kartika Sari,Camilan,49500,Tahan 1-2 Bulan,,TRUE
+PRD-KS-118,BANDUNG,Sale Pisang Suka Senang,Kartika Sari,Camilan,38500,Tahan 1-2 Bulan,,TRUE
+PRD-KS-119,BANDUNG,Pisang Bolen - Keju Special - BESAR,Kartika Sari,Bolen,109000,Tahan 3-4 Hari,,TRUE
+PRD-KS-120,BANDUNG,Pisang Bolen - Cokelat Keju - BESAR,Kartika Sari,Bolen,119000,Tahan 3-4 Hari,,TRUE
+PRD-KS-121,BANDUNG,Banana Roll Keju,Kartika Sari,Cake,79000,Tahan 5-7 Hari,,TRUE
+PRD-KS-122,BANDUNG,Pie Susu Strawberry Chocolate,Kartika Sari,Pastry,59000,Tahan 3-4 Hari,,TRUE
+PRD-KS-123,BANDUNG,Keripik Cimpring Bawang Original,Kartika Sari,Camilan,38500,Tahan 1-2 Bulan,,TRUE
+PRD-KS-124,BANDUNG,Sale Pisang Lidah Super SS,Kartika Sari,Camilan,49000,Tahan 1-2 Bulan,,TRUE
+PRD-KS-125,BANDUNG,Sale Pisang Lidah SS,Kartika Sari,Camilan,46500,Tahan 1-2 Bulan,,TRUE
+PRD-KS-126,BANDUNG,Keripik Pisang Madu,Kartika Sari,Camilan,48000,Tahan 1-2 Bulan,,TRUE
