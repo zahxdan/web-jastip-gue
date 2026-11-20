@@ -1,4 +1,4 @@
-﻿id,region,name,brand,category,price,shelf_life,image_url,is_available
+id,region,name,brand,category,price,shelf_life,image_url,is_available
 PRD-PR-001,BANDUNG,Brownies Coklat Almond (425 gr),Prima Rasa,Brownies,129000,Tahan 9 Hari (Luar) / 11 Hari (Kulkas),/img/primarasa/PRD-PR-001.jpg,TRUE
 PRD-PR-002,BANDUNG,Brownies Coklat Almond (Kecil) (300 gr),Prima Rasa,Brownies,109000,Tahan 9 Hari (Luar) / 11 Hari (Kulkas),/img/primarasa/PRD-PR-002.jpg,TRUE
 PRD-PR-003,BANDUNG,Brownies Coklat Mede (450 gr),Prima Rasa,Brownies,139000,Tahan 9 Hari (Luar) / 11 Hari (Kulkas),/img/primarasa/PRD-PR-003.jpg,TRUE
@@ -218,7 +218,7 @@ PRD-KS-012,BANDUNG,Brownies Kukus - Tiramisu,Kartika Sari,Brownies,99000,Tahan 5
 PRD-KS-013,BANDUNG,Brownies Gulung - Coklat,Kartika Sari,Brownies,69000,Tahan 5-7 Hari,,TRUE
 PRD-KS-014,BANDUNG,Brownies Gulung - Kacang,Kartika Sari,Brownies,69000,Tahan 5-7 Hari,,TRUE
 PRD-KS-015,BANDUNG,Brownies Gulung - Keju,Kartika Sari,Brownies,69000,Tahan 5-7 Hari,,TRUE
-PRD-KS-016,BANDUNG,Brownies Kunafa Pistachio,Kartika Sari,Brownies,199000,Tahan 5-7 Hari,,TRUE
+PRD-KS-016,BANDUNG,Brownies Kunafa Pistachio,Kartika Sari,Brownies,169000,Tahan 5-7 Hari,,TRUE
 PRD-KS-017,BANDUNG,Brownies Panggang - Original,Kartika Sari,Brownies,119000,Tahan 5-7 Hari,,TRUE
 PRD-KS-018,BANDUNG,Brownies Panggang - Choco Chips,Kartika Sari,Brownies,129000,Tahan 5-7 Hari,,TRUE
 PRD-KS-019,BANDUNG,Brownies Panggang - Special Keju,Kartika Sari,Brownies,139000,Tahan 5-7 Hari,,TRUE
@@ -235,7 +235,7 @@ PRD-KS-029,BANDUNG,Choco Pastry,Kartika Sari,Pastry,89000,Tahan 3-4 Hari,,TRUE
 PRD-KS-030,BANDUNG,Cheese Stick,Kartika Sari,Pastry,89000,Tahan 3-4 Hari,,TRUE
 PRD-KS-031,BANDUNG,Banana Roll Pandan,Kartika Sari,Cake,79000,Tahan 5-7 Hari,,TRUE
 PRD-KS-032,BANDUNG,Proll Tape 1/3 LY,Kartika Sari,Cake,89000,Tahan 5-7 Hari,,TRUE
-PRD-KS-033,BANDUNG,Lapis Legit Prunes,Kartika Sari,Cake,379000,Tahan 5-7 Hari,,TRUE
+PRD-KS-033,BANDUNG,Lapis Legit Prunes,Kartika Sari,Cake,329000,Tahan 5-7 Hari,,TRUE
 PRD-KS-034,BANDUNG,Lapis Legit Tikar,Kartika Sari,Cake,379000,Tahan 5-7 Hari,,TRUE
 PRD-KS-035,BANDUNG,Lapis Philipine Pandan,Kartika Sari,Cake,189000,Tahan 5-7 Hari,,TRUE
 PRD-KS-036,BANDUNG,Lapis Philipine Coklat,Kartika Sari,Cake,189000,Tahan 5-7 Hari,,TRUE
