@@ -1,0 +1,224 @@
+﻿id,region,name,brand,category,price,shelf_life,image_url,is_available
+PRD-PR-001,BANDUNG,Picnic Roll Sapi,Prima Rasa,Pastry,35000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/img/produk/picnic_roll_sapi.JPG,TRUE
+PRD-PR-002,BANDUNG,Banana Crispy,Prima Rasa,Pastry,63000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/BANANA_CRISPY_2.jpg,TRUE
+PRD-PR-003,BANDUNG,Bolen Pisang Coklat,Prima Rasa,Bolen,65000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/AMB00194.jpg,TRUE
+PRD-PR-004,BANDUNG,Bolen Pisang Keju,Prima Rasa,Bolen,65000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/AMB00152.jpg,TRUE
+PRD-PR-005,BANDUNG,Cheese Roll,Prima Rasa,Pastry,62000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/CHEESE_ROLL_2.jpg,TRUE
+PRD-PR-006,BANDUNG,Cheese Stick,Prima Rasa,Pastry,70000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/AMB00031.jpg,TRUE
+PRD-PR-007,BANDUNG,Pastry Coklat,Prima Rasa,Pastry,62000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/PASTRY_COKLAT.jpg,TRUE
+PRD-PR-008,BANDUNG,Bolen Picnic Sapi,Prima Rasa,Bolen,62000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/BOLEN_DAGING.JPG,TRUE
+PRD-PR-009,BANDUNG,Picnic Roll Ayam,Prima Rasa,Pastry,80000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/PICNIC_ROLL_AYAM2.png,TRUE
+PRD-PR-010,BANDUNG,Sausage Brood Cup,Prima Rasa,Pastry,36500,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/SAUSAGE_BROOD.JPG,TRUE
+PRD-PR-011,BANDUNG,Sweet Cheese Roll,Prima Rasa,Pastry,62000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/SWEET_CHEESE_ROLL.jpg,TRUE
+PRD-PR-012,BANDUNG,Brownies Kukus Coklat,Prima Rasa,Brownies,75000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/BROWNIES_KUKUS_COKLAT.JPG,TRUE
+PRD-PR-013,BANDUNG,Pie Brownies,Prima Rasa,Brownies,32000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/PIE_BROWNIES.jpg,TRUE
+PRD-PR-014,BANDUNG,Brownies Kukus Keju Coklat,Prima Rasa,Brownies,65000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/BROWNIES_KUKUS_KEJU_COKLAT.JPG,TRUE
+PRD-PR-015,BANDUNG,Brownies Kukus Ketan Hitam Pandan,Prima Rasa,Brownies,60000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/BROWNIES_KUKUS_KETAN_HITAM_PANDAN.JPG,TRUE
+PRD-PR-016,BANDUNG,Brownies Panggang Tiramisu,Prima Rasa,Brownies,133000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/BROWNIES_PANGGANG_TIRAMIZU.jpg,TRUE
+PRD-PR-017,BANDUNG,Brownies Panggang Almond,Prima Rasa,Brownies,116500,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/BROWNIES_PANGGANG_ALMOND.jpg,TRUE
+PRD-PR-018,BANDUNG,Brownies Panggang Blueberry,Prima Rasa,Brownies,133000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/BROWNIES_PANGGANG_BLUEBERRY.jpg,TRUE
+PRD-PR-019,BANDUNG,Brownies Panggang Chocochips,Prima Rasa,Brownies,122000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/BROWNIES_PANGGANG_CHOCOCHIP.jpg,TRUE
+PRD-PR-020,BANDUNG,Brownies Panggang Espresso,Prima Rasa,Brownies,89000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/DSC00911.JPG,TRUE
+PRD-PR-021,BANDUNG,Brownies Panggang Keju,Prima Rasa,Brownies,133000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/BROWNIES_PANGGANG_KEJU.jpg,TRUE
+PRD-PR-022,BANDUNG,Brownies Panggang Ketan Hitam,Prima Rasa,Brownies,133000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/BROWNIES_PANGGANG_KETAN_HITAM_2.JPG,TRUE
+PRD-PR-023,BANDUNG,Brownies Panggang Ketan Hitam (Kecil),Prima Rasa,Brownies,89000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/BROWNIES_PANGGANG_MINI_KETAN_HITAM.jpg,TRUE
+PRD-PR-024,BANDUNG,Brownies Panggang Marmer (Kecil),Prima Rasa,Brownies,73000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/BROWNIES_MARMER_2.JPG,TRUE
+PRD-PR-025,BANDUNG,Brownies Panggang Matcha Cream Cheese (Kecil),Prima Rasa,Brownies,75000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/BROWNIES_MATCHA_CREAM_CHEESE.jpg,TRUE
+PRD-PR-026,BANDUNG,Brownies Panggang Mede,Prima Rasa,Brownies,133000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/BROWNIES_PANGGANG_MEDE.JPG,TRUE
+PRD-PR-027,BANDUNG,Brownies Panggang Almond (Kecil),Prima Rasa,Brownies,89000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/BROWNIES_PANGGANG_MINI_ALMOND.JPG,TRUE
+PRD-PR-028,BANDUNG,Brownies Panggang Chocochips (Kecil),Prima Rasa,Brownies,89000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/BROWNIES_PANGGANG_MINI_CHOCOCHIPS.JPG,TRUE
+PRD-PR-029,BANDUNG,Brownies Panggang Keju (Kecil),Prima Rasa,Brownies,94000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/BROWNIES_PANGGANG_MINI_KEJU.JPG,TRUE
+PRD-PR-030,BANDUNG,Brownies Panggang Mocca,Prima Rasa,Brownies,133000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/BROWNIES_PANGGANG_MOCCA.jpg,TRUE
+PRD-PR-031,BANDUNG,Brownies Oreo,Prima Rasa,Brownies,61000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/DSC05715.JPG,TRUE
+PRD-PR-032,BANDUNG,Brownies Panggang 2 Rasa,Prima Rasa,Brownies,122000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/BROWNIES_PANGGANG_2_RASA.jpg,TRUE
+PRD-PR-033,BANDUNG,Brownies Kukus Kentang,Prima Rasa,Brownies,50000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/BROWNIES_KUKUS_KENTANG.jpg,TRUE
+PRD-PR-034,BANDUNG,Brownies Panggang Peanut,Prima Rasa,Brownies,116500,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/BROWNIES_PANGGANG_COKLAT_KACANG.jpg,TRUE
+PRD-PR-035,BANDUNG,Brownies Panggang Redvelvet (Kecil),Prima Rasa,Brownies,83000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/BROWNIES_REDVELVET2_Copy.JPG,TRUE
+PRD-PR-036,BANDUNG,Brownies Panggang Raisin,Prima Rasa,Brownies,133000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/BROWNIES_PANGGANG_RHUM_RAISIN1.jpg,TRUE
+PRD-PR-037,BANDUNG,Mixbro,Prima Rasa,Brownies,297000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/MIXBRO_5X5.JPG,TRUE
+PRD-PR-038,BANDUNG,Bolen Durian,Prima Rasa,Bolen,67500,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/AMB00198.jpg,TRUE
+PRD-PR-039,BANDUNG,Aneka Roll Tart,Prima Rasa,Cake,45000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/ANEKA_ROLL_TART.jpg,TRUE
+PRD-PR-040,BANDUNG,Apple Pie Special,Prima Rasa,Pastry,130000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/APPLE_PIE_BESAR.jpg,TRUE
+PRD-PR-041,BANDUNG,Bolen Picnic Ayam,Prima Rasa,Bolen,60000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/BOLEN_PICNIC_AYAM.JPG,TRUE
+PRD-PR-042,BANDUNG,Bolen Pisang Coklat Keju,Prima Rasa,Bolen,67500,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/AMB00174.jpg,TRUE
+PRD-PR-043,BANDUNG,Bolen Peuyeum / Tape,Prima Rasa,Bolen,63000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/AMB00211.jpg,TRUE
+PRD-PR-044,BANDUNG,Brownies Panggang Almond (Panjang),Prima Rasa,Brownies,77000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/DSC00904_1_.JPG,TRUE
+PRD-PR-045,BANDUNG,Double Chocolate,Prima Rasa,Pastry,60000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/DSC06130.jpg,TRUE
+PRD-PR-046,BANDUNG,Apple Pie (Bulat),Prima Rasa,Pastry,38000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/APPLE_PIE_BULAT.JPG,TRUE
+PRD-PR-047,BANDUNG,Apple Pie (Sedang),Prima Rasa,Pastry,95000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/APPLE_PIE_SEDANG.jpg,TRUE
+PRD-PR-048,BANDUNG,Banana Cake Bali,Prima Rasa,Cake,45000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/BANANA_BALI_CAKE.JPG,TRUE
+PRD-PR-049,BANDUNG,Banana Cheese Cake,Prima Rasa,Cake,50000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/BANANA_CAKE_PR.jpg,TRUE
+PRD-PR-050,BANDUNG,Banana Roll Coklat,Prima Rasa,Cake,55000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/BANANA_ROLL_COKLAT.JPG,TRUE
+PRD-PR-051,BANDUNG,Banana Roll Keju,Prima Rasa,Cake,55000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/BANANA_ROLL_KEJU.JPG,TRUE
+PRD-PR-052,BANDUNG,Banana Roll Pandan,Prima Rasa,Cake,55000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/BANANA_ROLL_PANDAN.JPG,TRUE
+PRD-PR-053,BANDUNG,Blueberry Cake,Prima Rasa,Cake,68000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/BLUEBERRY_CAKE2.JPG,TRUE
+PRD-PR-054,BANDUNG,Bolu Gulung Warna,Prima Rasa,Cake,35000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/BOLU_GULUNG_WARNA.JPG,TRUE
+PRD-PR-055,BANDUNG,Bolu Keju,Prima Rasa,Cake,75000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/BOLU_KEJU_PANJANG1.jpg,TRUE
+PRD-PR-056,BANDUNG,Bolu Marmer Bunga,Prima Rasa,Cake,140000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/BOLU_MARMER_BUNGA.JPG,TRUE
+PRD-PR-057,BANDUNG,Bolu Marmer Kukus,Prima Rasa,Cake,45000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/BOLU_MARMER_KUKUS.JPG,TRUE
+PRD-PR-058,BANDUNG,Bolu Pandan Tape,Prima Rasa,Cake,43000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/BOLU_PANDAN_TAPE.JPG,TRUE
+PRD-PR-059,BANDUNG,Bolu Pelangi,Prima Rasa,Cake,35000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/BOLU_PELANGI.JPG,TRUE
+PRD-PR-060,BANDUNG,Cake Tape Keju,Prima Rasa,Cake,45000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/CAKE_TAPE_KEJU.jpg,TRUE
+PRD-PR-061,BANDUNG,Cake Tape Kismis,Prima Rasa,Cake,70000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/CAKE_TAPE_KISMIS_BESAR.JPG,TRUE
+PRD-PR-062,BANDUNG,Chocolate Granola,Prima Rasa,Pastry,60000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/CHOCOLATE_GRANOLA.JPG,TRUE
+PRD-PR-063,BANDUNG,Bolu Caramel (Bulat),Prima Rasa,Cake,53000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/DSC06165_1.jpg,TRUE
+PRD-PR-064,BANDUNG,Kue Balok Coklat,Prima Rasa,Cake,28000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/KUE_BALOK_COKLAT_2.jpg,TRUE
+PRD-PR-065,BANDUNG,Kue Balok Pandan,Prima Rasa,Cake,28000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/KUE_BALOK_PANDAN.jpg,TRUE
+PRD-PR-066,BANDUNG,Ontbijtkoek,Prima Rasa,Pastry,65000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/ONBIJKOEK_CUP.JPG,TRUE
+PRD-PR-067,BANDUNG,Pie Susu,Prima Rasa,Pastry,45000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/PIE_SUSU1.JPG,TRUE
+PRD-PR-068,BANDUNG,Roll Tart Ketan Pandan,Prima Rasa,Cake,60000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/ROLL_TART_KETAN_HITAM.jpg,TRUE
+PRD-PR-069,BANDUNG,Roll Tart Nanas,Prima Rasa,Cake,87000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/ROLL_TART_NANAS.JPG,TRUE
+PRD-PR-070,BANDUNG,Roll Tart Ovomaltine,Prima Rasa,Cake,92000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/ROLL_TART_OVOMALTINE.JPG,TRUE
+PRD-PR-071,BANDUNG,Roll Tart Mocca,Prima Rasa,Cake,90000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/ROLLTART_MOCCA.jpg,TRUE
+PRD-PR-072,BANDUNG,Roll Tart Pandan Keju,Prima Rasa,Cake,92000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/ROLLTART_PANDAN_KEJU.jpg,TRUE
+PRD-PR-073,BANDUNG,Roll Tart Strawberry,Prima Rasa,Cake,87000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/ROLLTART_STRAWBERRY.jpg,TRUE
+PRD-PR-074,BANDUNG,Wafer Coklat,Prima Rasa,Kue Kering,75500,Tahan 1-2 Bulan,https://www.primarasabakery.co.id/public/storage/thumbnails/DSC08319.JPG,TRUE
+PRD-PR-075,BANDUNG,Nastar Keju,Prima Rasa,Kue Kering,140000,Tahan 1-2 Bulan,https://www.primarasabakery.co.id/public/storage/thumbnails/NASTAR_KEJU.JPG,TRUE
+PRD-PR-076,BANDUNG,Nastar Polos,Prima Rasa,Kue Kering,135000,Tahan 1-2 Bulan,https://www.primarasabakery.co.id/public/storage/thumbnails/NASTAR_POLOS.JPG,TRUE
+PRD-PR-077,BANDUNG,Peanut Cookies,Prima Rasa,Kue Kering,105000,Tahan 1-2 Bulan,https://www.primarasabakery.co.id/public/storage/thumbnails/AMB01946.JPG,TRUE
+PRD-PR-078,BANDUNG,Putri Salju,Prima Rasa,Kue Kering,175000,Tahan 1-2 Bulan,https://www.primarasabakery.co.id/public/storage/thumbnails/DSC00834.JPG,TRUE
+PRD-PR-079,BANDUNG,Kaastangel,Prima Rasa,Pastry,175000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/plann_download_7_.png,TRUE
+PRD-PR-080,BANDUNG,Almond Crunchy,Prima Rasa,Pastry,58000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/ALMOND_CRUNCHY_Copy.jpg,TRUE
+PRD-PR-081,BANDUNG,Sultana Cookies,Prima Rasa,Kue Kering,68000,Tahan 1-2 Bulan,https://www.primarasabakery.co.id/public/storage/thumbnails/sultana.jpg,TRUE
+PRD-PR-082,BANDUNG,Semprit Biscoff,Prima Rasa,Kue Kering,68000,Tahan 1-2 Bulan,https://www.primarasabakery.co.id/public/storage/thumbnails/SEMPRIT_BISCOFF_Copy.jpg,TRUE
+PRD-PR-083,BANDUNG,Havermout,Prima Rasa,Pastry,37000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/AMB01902.JPG,TRUE
+PRD-PR-084,BANDUNG,Arem-arem,Prima Rasa,Pastry,4500,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/arem_arem.png,TRUE
+PRD-PR-085,BANDUNG,Bakso Ikan Goreng,Prima Rasa,Pastry,7500,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/bakso_ikan_goreng.png,TRUE
+PRD-PR-086,BANDUNG,Cente Manis,Prima Rasa,Pastry,3000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/cente_manis.png,TRUE
+PRD-PR-087,BANDUNG,Crakers,Prima Rasa,Pastry,5000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/cracker_pr.png,TRUE
+PRD-PR-088,BANDUNG,Croquette Ayam,Prima Rasa,Pastry,6000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/croquette_ayam.png,TRUE
+PRD-PR-089,BANDUNG,Croquette Keju,Prima Rasa,Pastry,5000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/croquette_keju.png,TRUE
+PRD-PR-090,BANDUNG,Dadar Gulung,Prima Rasa,Pastry,3500,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/dadar_gulung.png,TRUE
+PRD-PR-091,BANDUNG,Hunkwe Pisang Coklat,Prima Rasa,Pastry,3500,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/honkue_pisang_coklat.png,TRUE
+PRD-PR-092,BANDUNG,Hunkwe Pisang Strawberry,Prima Rasa,Pastry,3500,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/honkue_pisang_strawberry.png,TRUE
+PRD-PR-093,BANDUNG,Lapis Beras,Prima Rasa,Cake,3000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/lapis_beras.png,TRUE
+PRD-PR-094,BANDUNG,Lemper Ayam,Prima Rasa,Pastry,4000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/lemper_ayam_pr.png,TRUE
+PRD-PR-095,BANDUNG,Lontong Ayam Special,Prima Rasa,Pastry,5500,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/lontong_ayam.JPG,TRUE
+PRD-PR-096,BANDUNG,Lontong Oncom,Prima Rasa,Camilan,4500,Tahan 1-2 Bulan,https://www.primarasabakery.co.id/public/storage/thumbnails/lontong_oncom.JPG,TRUE
+PRD-PR-097,BANDUNG,Macaroni Goreng,Prima Rasa,Pastry,4000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/macaroni_goreng.png,TRUE
+PRD-PR-098,BANDUNG,Macaroni Schotel Kecil,Prima Rasa,Pastry,7500,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/macaroni_schotel.jpg,TRUE
+PRD-PR-099,BANDUNG,Martabak Ayam,Prima Rasa,Pastry,4000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/martabak_sapi.png,TRUE
+PRD-PR-100,BANDUNG,Onde Prima,Prima Rasa,Pastry,3000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/onde_pr.png,TRUE
+PRD-PR-101,BANDUNG,Ongol Prima,Prima Rasa,Pastry,3000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/ongol.png,TRUE
+PRD-PR-102,BANDUNG,Panekuk Coklat,Prima Rasa,Pastry,3500,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/panekuk_coklat.png,TRUE
+PRD-PR-103,BANDUNG,Pastel Sayur,Prima Rasa,Camilan,5000,Tahan 1-2 Bulan,https://www.primarasabakery.co.id/public/storage/thumbnails/pastel_sayur_pr.png,TRUE
+PRD-PR-104,BANDUNG,Risoles Jagung Special,Prima Rasa,Pastry,4500,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/risoles_jagung_manis_.png,TRUE
+PRD-PR-105,BANDUNG,Risoles Mayones,Prima Rasa,Pastry,5500,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/risoles_mayo_smokedbeef.png,TRUE
+PRD-PR-106,BANDUNG,Risoles Sayur,Prima Rasa,Pastry,4000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/risoles_sayur_pr.png,TRUE
+PRD-PR-107,BANDUNG,Risoles Smokedbeef Special,Prima Rasa,Pastry,6000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/risoles_special_smokedbeef.png,TRUE
+PRD-PR-108,BANDUNG,Risoles Vla Keju,Prima Rasa,Pastry,4500,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/risoles_vla_keju.png,TRUE
+PRD-PR-109,BANDUNG,Risoles Special,Prima Rasa,Pastry,8500,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/risoles_special.png,TRUE
+PRD-PR-110,BANDUNG,Sosis Solo,Prima Rasa,Pastry,4500,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/sosis_solo.png,TRUE
+PRD-PR-111,BANDUNG,Risoles Smokedbeef Kornet,Prima Rasa,Pastry,4000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/risoles_smokedbeef.png,TRUE
+PRD-PR-112,BANDUNG,Risoles Smokedbeef Keju Mayo Special,Prima Rasa,Pastry,7000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/risoles_keju_smokedbeef.png,TRUE
+PRD-PR-113,BANDUNG,Lumpia Kering Ayam,Prima Rasa,Kue Kering,5000,Tahan 1-2 Bulan,https://www.primarasabakery.co.id/public/storage/thumbnails/lumpia_ayam_bengkuang.png,TRUE
+PRD-PR-114,BANDUNG,Tahu Isi,Prima Rasa,Pastry,3500,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/tahu_isi.png,TRUE
+PRD-PR-115,BANDUNG,Tahu Isi Pedas PR,Prima Rasa,Pastry,3500,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/tahu_isi_pedas.png,TRUE
+PRD-PR-116,BANDUNG,Soes Vla,Prima Rasa,Kue Kering,4500,Tahan 1-2 Bulan,https://www.primarasabakery.co.id/public/storage/thumbnails/soes_vla.png,TRUE
+PRD-PR-117,BANDUNG,Soes Tiramisu,Prima Rasa,Kue Kering,4500,Tahan 1-2 Bulan,https://www.primarasabakery.co.id/public/storage/thumbnails/soes_tiramisu.png,TRUE
+PRD-PR-118,BANDUNG,Siomay Goreng (Satuan),Prima Rasa,Pastry,6500,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/siomay_pr.png,TRUE
+PRD-PR-119,BANDUNG,Combro,Prima Rasa,Pastry,2500,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/combro.png,TRUE
+PRD-PR-120,BANDUNG,Bika Ambon Prima,Prima Rasa,Pastry,5000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/bika_ambon_pr.png,TRUE
+PRD-PR-121,BANDUNG,Lapis Philippines Coklat,Prima Rasa,Cake,110000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/LAPIS_FILIPHINE_COKLAT2_Copy.JPG,TRUE
+PRD-PR-122,BANDUNG,Lapis Philippines Pandan,Prima Rasa,Cake,110000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/LAPIS_FILIPHINE_PANDAN_Copy.JPG,TRUE
+PRD-PR-123,BANDUNG,Lapis Legit Coklat,Prima Rasa,Cake,290000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/LAPIS_LEGIT_COKLAT_Copy.jpg,TRUE
+PRD-PR-124,BANDUNG,Lapis Legit Original,Prima Rasa,Cake,275000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/LAPIS_LEGIT_ORIGINAL_Copy.jpg,TRUE
+PRD-PR-125,BANDUNG,Lapis Legit Prunes,Prima Rasa,Cake,290000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/LAPIS_LEGIT_PRUNES_Copy.jpg,TRUE
+PRD-PR-126,BANDUNG,Lapis Legit Pandan,Prima Rasa,Cake,275000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/LAPIS_LEGIT_PANDAN_Copy.jpg,TRUE
+PRD-PR-127,BANDUNG,Pepe Panggang Buah,Prima Rasa,Pastry,100000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/PEPE_PANGGANG_BUAH.jpg,TRUE
+PRD-PR-128,BANDUNG,Pepe Panggang Coklat,Prima Rasa,Pastry,95000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/PEPE_PANGGANG_COKLAT.jpg,TRUE
+PRD-PR-129,BANDUNG,Pepe Panggang Pandan,Prima Rasa,Pastry,95000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/PEPE_PANGGANG_PANDAN.jpg,TRUE
+PRD-PR-130,BANDUNG,Blackforest Dark Cherry,Prima Rasa,Pastry,100000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/BLACKFOREST_DARK_CHERRY.jpg,TRUE
+PRD-PR-131,BANDUNG,Blackforest Oreo,Prima Rasa,Pastry,175000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/BLACKFOREST_OREO.jpg,TRUE
+PRD-PR-132,BANDUNG,Blackforest,Prima Rasa,Pastry,175000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/BLACKFOREST.JPG,TRUE
+PRD-PR-133,BANDUNG,Chocolate Caramel,Prima Rasa,Pastry,250000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/CHOCOLATE_CARAMEL.jpg,TRUE
+PRD-PR-134,BANDUNG,Chocolate Crate,Prima Rasa,Pastry,90000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/CHOCOLATE_CRATE.JPG,TRUE
+PRD-PR-135,BANDUNG,Chocolate Devil,Prima Rasa,Pastry,350000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/CHOCOLATE_DEVIL.jpg,TRUE
+PRD-PR-136,BANDUNG,Chocolate Royal,Prima Rasa,Pastry,250000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/CHOCOLATE_ROYAL.JPG,TRUE
+PRD-PR-137,BANDUNG,Chocolate Salted Caramel,Prima Rasa,Pastry,185000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/CHOCOLATE_SALTED_CARAMEL.JPG,TRUE
+PRD-PR-138,BANDUNG,Chocolate Truffle Cheese,Prima Rasa,Pastry,250000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/CHOCOLATE_TRUFFLE_CHEESE.jpg,TRUE
+PRD-PR-139,BANDUNG,Dome Tart Mini,Prima Rasa,Pastry,31000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/DOME_TART_MINI.jpg,TRUE
+PRD-PR-140,BANDUNG,Wooden Chocolate Cake,Prima Rasa,Cake,175000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/WOODEN_CHOCOLATE_CAKE_2.JPG,TRUE
+PRD-PR-141,BANDUNG,Strawberry Fashion,Prima Rasa,Pastry,250000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/STRAWBERRY_PASSION_2.JPG,TRUE
+PRD-PR-142,BANDUNG,Red Velvet Almond,Prima Rasa,Pastry,280000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/RED_VELVET.jpg,TRUE
+PRD-PR-143,BANDUNG,Red Velvet Slice,Prima Rasa,Pastry,27000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/RED_VELVET_SLICE.jpg,TRUE
+PRD-PR-144,BANDUNG,Pudding Gelas,Prima Rasa,Pastry,18000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/PUDDING_GELAS.jpg,TRUE
+PRD-PR-145,BANDUNG,Oreo Slice,Prima Rasa,Pastry,28000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/ORO_SLICE.jpg,TRUE
+PRD-PR-146,BANDUNG,Mille Crepes Greentea,Prima Rasa,Pastry,39000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/MILLE_CREPES_GREEN_TEA.jpg,TRUE
+PRD-PR-147,BANDUNG,Marmer Mocca,Prima Rasa,Cake,170000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/marmer_mocca.jpg,TRUE
+PRD-PR-148,BANDUNG,Marmer Mocca Glaze,Prima Rasa,Cake,170000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/MARMER_MOCCA_CAKE.jpg,TRUE
+PRD-PR-149,BANDUNG,Tart Hias Durian,Prima Rasa,Pastry,150000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/DSC07285.jpg,TRUE
+PRD-PR-150,BANDUNG,Tart Hias Mie,Prima Rasa,Camilan,250000,Tahan 1-2 Bulan,https://www.primarasabakery.co.id/public/storage/thumbnails/DSC05740_Edit.jpg,TRUE
+PRD-PR-151,BANDUNG,Rainbow Cake,Prima Rasa,Cake,175000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/rainbow_cake.jpg,TRUE
+PRD-PR-152,BANDUNG,Labubu Cake,Prima Rasa,Cake,200000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/labubu_cake.jpg,TRUE
+PRD-PR-153,BANDUNG,Lapis Malang Cake,Prima Rasa,Cake,180000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/lapis_malang_cake.jpg,TRUE
+PRD-PR-154,BANDUNG,Mini Cake Cinnamorol,Prima Rasa,Cake,75000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/mini_cake_cinnamorol.jpg,TRUE
+PRD-PR-155,BANDUNG,Mini Cake Kuromi,Prima Rasa,Cake,75000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/mini_cake_kuromi.jpg,TRUE
+PRD-PR-156,BANDUNG,Mini Cake Labubu,Prima Rasa,Cake,75000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/mini_cake_labubu.jpg,TRUE
+PRD-PR-157,BANDUNG,Mini Cake Melody,Prima Rasa,Cake,75000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/mini_cake_melody.jpg,TRUE
+PRD-PR-158,BANDUNG,Mini Tart Hias (Blue),Prima Rasa,Pastry,60000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/mini_tart_hias_blue.jpg,TRUE
+PRD-PR-159,BANDUNG,Mini Tart Hias Boba,Prima Rasa,Pastry,75000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/mini_tart_hias_boba.jpg,TRUE
+PRD-PR-160,BANDUNG,Mini Tart Hias Cartoon,Prima Rasa,Pastry,75000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/mini_tart_hias_cartoon.jpg,TRUE
+PRD-PR-161,BANDUNG,Mini Tart Hias (Green),Prima Rasa,Pastry,60000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/mini_tart_hias_green.jpg,TRUE
+PRD-PR-162,BANDUNG,Mini Tart Hias Pink,Prima Rasa,Pastry,60000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/mini_tart_hias_pink.jpg,TRUE
+PRD-PR-163,BANDUNG,Mini Tart Hias (Purple),Prima Rasa,Pastry,60000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/mini_tart_hias_purple.jpg,TRUE
+PRD-PR-164,BANDUNG,Tart Hias Prima Bunga,Prima Rasa,Pastry,150000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/tart_hias_prima_bunga.jpg,TRUE
+PRD-PR-165,BANDUNG,Tart Hias Prima Lotus,Prima Rasa,Pastry,130000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/tart_hias_prima_lotus.jpg,TRUE
+PRD-PR-166,BANDUNG,Tart Hias Prima Pink Love,Prima Rasa,Pastry,130000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/tart_hias_prima_pink_love.jpg,TRUE
+PRD-PR-167,BANDUNG,Blackforest Special,Prima Rasa,Pastry,185000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/blackforest_special.jpg,TRUE
+PRD-PR-168,BANDUNG,Brownies Cheese Cake,Prima Rasa,Brownies,250000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/brownies_cheese_cake.JPG,TRUE
+PRD-PR-169,BANDUNG,Chocolate Tiramisu,Prima Rasa,Pastry,230000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/chocolate_tiramisu.png,TRUE
+PRD-PR-170,BANDUNG,Chocolate Truffle,Prima Rasa,Pastry,250000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/chocolate_truffle.JPG,TRUE
+PRD-PR-171,BANDUNG,Exotic Greentea,Prima Rasa,Pastry,140000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/exotic_greentea.jpg,TRUE
+PRD-PR-172,BANDUNG,Fresh Cappuccino,Prima Rasa,Pastry,250000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/fresh_cappuccino.JPG,TRUE
+PRD-PR-173,BANDUNG,Kaastangel Cake,Prima Rasa,Cake,260000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/kaastangel_cake.JPG,TRUE
+PRD-PR-174,BANDUNG,Klepon Cake,Prima Rasa,Cake,175000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/klepon_cake.JPG,TRUE
+PRD-PR-175,BANDUNG,Mille Crepes,Prima Rasa,Pastry,39000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/DSC03452.png,TRUE
+PRD-PR-176,BANDUNG,Mini Blackforest Simple Cream,Prima Rasa,Pastry,48000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/mini_blackforest_simple_cream.jpg,TRUE
+PRD-PR-177,BANDUNG,Mini Espresso,Prima Rasa,Pastry,100000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/mini_espresso.JPG,TRUE
+PRD-PR-178,BANDUNG,Mini Kaastangel Cake,Prima Rasa,Cake,55000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/mini_kaastangel_cake.jpg,TRUE
+PRD-PR-179,BANDUNG,Mini Nastar Cake,Prima Rasa,Cake,45000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/mini_nastar_cake.jpg,TRUE
+PRD-PR-180,BANDUNG,Mini Red Velvet,Prima Rasa,Pastry,40000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/mini_red_velvet.JPG,TRUE
+PRD-PR-181,BANDUNG,Mix Fruit Cake,Prima Rasa,Cake,250000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/mix_fruit_cake.jpg,TRUE
+PRD-PR-182,BANDUNG,Mocca Cake Special,Prima Rasa,Cake,175000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/mocca_cake_special.jpg,TRUE
+PRD-PR-183,BANDUNG,Tiramisu Cake,Prima Rasa,Cake,235000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/tiramisu_cake.JPG,TRUE
+PRD-PR-184,BANDUNG,Tart Hias Glaze,Prima Rasa,Pastry,150000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/tart_hias_glaze.jpg,TRUE
+PRD-PR-185,BANDUNG,Strawberry Whipping Cream,Prima Rasa,Pastry,235000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/strawberry_whipping_cream.JPG,TRUE
+PRD-PR-186,BANDUNG,Tart Cat,Prima Rasa,Pastry,150000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/tart_cake.jpg,TRUE
+PRD-PR-187,BANDUNG,Ogura Chocolate Cake,Prima Rasa,Cake,130000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/ogura_chocolate_cake.jpg,TRUE
+PRD-PR-188,BANDUNG,Peanut Cake,Prima Rasa,Cake,140000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/peanut_cake.jpg,TRUE
+PRD-PR-189,BANDUNG,Mini Chocolate Truffle Cheese,Prima Rasa,Pastry,160000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/CHOCOLATE_TRUFFLE_CHEESE.jpg,TRUE
+PRD-PR-190,BANDUNG,Mini Klepon Cake,Prima Rasa,Cake,30000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/DSC03433_Copy.JPG,TRUE
+PRD-PR-191,BANDUNG,Mini Es Teler Cake,Prima Rasa,Cake,31000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/DSC03433_Copy_2_.JPG,TRUE
+PRD-PR-192,BANDUNG,Almond Biscotti,Prima Rasa,Kue Kering,90000,Tahan 1-2 Bulan,https://www.primarasabakery.co.id/public/storage/thumbnails/ALMOND_BISKOTI2.JPG,TRUE
+PRD-PR-193,BANDUNG,Almond Slice Coklat,Prima Rasa,Kue Kering,60000,Tahan 1-2 Bulan,https://www.primarasabakery.co.id/public/storage/thumbnails/ALMOND_SLICE_COKLAT.JPG,TRUE
+PRD-PR-194,BANDUNG,Almond Slice Greentea,Prima Rasa,Kue Kering,60000,Tahan 1-2 Bulan,https://www.primarasabakery.co.id/public/storage/thumbnails/ALMOND_SLICE_MATCHA.JPG,TRUE
+PRD-PR-195,BANDUNG,Almond Slice Original,Prima Rasa,Kue Kering,60000,Tahan 1-2 Bulan,https://www.primarasabakery.co.id/public/storage/thumbnails/ALMOND_SLICE_ORIGINAL3.JPG,TRUE
+PRD-PR-196,BANDUNG,Astor Coklat Tabung,Prima Rasa,Kue Kering,22000,Tahan 1-2 Bulan,https://www.primarasabakery.co.id/public/storage/thumbnails/ASTOR_COKLAT_TABUNG.JPG,TRUE
+PRD-PR-197,BANDUNG,Astor Vanila Tabung,Prima Rasa,Kue Kering,22000,Tahan 1-2 Bulan,https://www.primarasabakery.co.id/public/storage/thumbnails/ASTOR_VANILA_TABUNG.JPG,TRUE
+PRD-PR-198,BANDUNG,Bagelen Keju Dus,Prima Rasa,Kue Kering,92000,Tahan 1-2 Bulan,https://www.primarasabakery.co.id/public/storage/thumbnails/bagelen_keju_dus.jpg,TRUE
+PRD-PR-199,BANDUNG,Bagelen Manis Dus,Prima Rasa,Kue Kering,90000,Tahan 1-2 Bulan,https://www.primarasabakery.co.id/public/storage/thumbnails/bagelen_manis_dus.jpg,TRUE
+PRD-PR-200,BANDUNG,Bagelen Manis Toples,Prima Rasa,Kue Kering,87000,Tahan 1-2 Bulan,https://www.primarasabakery.co.id/public/storage/thumbnails/BAGELEN_MANIS_TOPLES.JPG,TRUE
+PRD-PR-201,BANDUNG,Bolu Stick Tabung,Prima Rasa,Cake,60000,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/BOLU_STICK.JPG,TRUE
+PRD-PR-202,BANDUNG,Cheese Stick Almond Spiral,Prima Rasa,Pastry,105000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/CHEESE_STICK_ALMOND_SPIRAL.JPG,TRUE
+PRD-PR-203,BANDUNG,Cheese Stick Garlic,Prima Rasa,Pastry,62500,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/CHEESE_STICK_GARLIC.JPG,TRUE
+PRD-PR-204,BANDUNG,Cheese Twist,Prima Rasa,Pastry,60000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/cheese_twist.jpg,TRUE
+PRD-PR-205,BANDUNG,Finger Cincin,Prima Rasa,Kue Kering,62000,Tahan 1-2 Bulan,https://www.primarasabakery.co.id/public/storage/thumbnails/FINGER_CINCIN.JPG,TRUE
+PRD-PR-206,BANDUNG,Finger Stick,Prima Rasa,Kue Kering,65000,Tahan 1-2 Bulan,https://www.primarasabakery.co.id/public/storage/thumbnails/FINGER_STICK.JPG,TRUE
+PRD-PR-207,BANDUNG,Orange Biscotti,Prima Rasa,Kue Kering,75000,Tahan 1-2 Bulan,https://www.primarasabakery.co.id/public/storage/thumbnails/ORANGE_BISCOTI.jpg,TRUE
+PRD-PR-208,BANDUNG,Pastry Almond Toples,Prima Rasa,Pastry,110000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/pastry_almond.JPG,TRUE
+PRD-PR-209,BANDUNG,Pastry Coklat Keju Toples,Prima Rasa,Pastry,130000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/pastry_coklat_keju.JPG,TRUE
+PRD-PR-210,BANDUNG,Scumpyes,Prima Rasa,Pastry,47000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/SCUMPYES.JPG,TRUE
+PRD-PR-211,BANDUNG,Soes Strawberry Tabung,Prima Rasa,Kue Kering,85000,Tahan 1-2 Bulan,https://www.primarasabakery.co.id/public/storage/thumbnails/SOES_KERING_STRAWBERY.JPG,TRUE
+PRD-PR-212,BANDUNG,Stick Coklat Tabung,Prima Rasa,Pastry,100000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/STICK_COKLAT.JPG,TRUE
+PRD-PR-213,BANDUNG,Sweet Stick,Prima Rasa,Kue Kering,68000,Tahan 1-2 Bulan,https://www.primarasabakery.co.id/public/storage/thumbnails/SWEET_STICK2.JPG,TRUE
+PRD-PR-214,BANDUNG,Almond Havermouth,Prima Rasa,Pastry,37000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/ALMOND_HAVERMOUTH.JPG,TRUE
+PRD-PR-215,BANDUNG,Bokkenpootjes Toples,Prima Rasa,Pastry,130000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/BOKKENPOOTJES_TOPLES.JPG,TRUE
+PRD-PR-216,BANDUNG,Tart Hias Eskrim,Prima Rasa,Pastry,140000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/TART_HIAS_ICE_CREAM.jpg,TRUE
+PRD-PR-217,BANDUNG,Blackforest Fresh Cream,Prima Rasa,Pastry,170000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/blackforest_fresh_cream.png,TRUE
+PRD-PR-218,BANDUNG,Bagelen Keju Toples,Prima Rasa,Kue Kering,92000,Tahan 1-2 Bulan,https://www.primarasabakery.co.id/public/storage/thumbnails/BAGELEN_KEJU_TOPLES.JPG,TRUE
+PRD-PR-219,BANDUNG,Pastry Keju Toples,Prima Rasa,Pastry,125000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/pastry_keju_toples.JPG,TRUE
+PRD-PR-220,BANDUNG,Macaron,Prima Rasa,Pastry,68000,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/DSC07210.jpg,TRUE
+PRD-PR-221,BANDUNG,Lapis Legit Mini,Prima Rasa,Cake,137500,Tahan 5-7 Hari,https://www.primarasabakery.co.id/public/storage/thumbnails/LAPIS_LEGIT_MINI.JPG,TRUE
+PRD-PR-222,BANDUNG,Daftar Newsletter sekarang,Prima Rasa,Pastry,0,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/img/img_footer.png,TRUE
+PRD-PR-223,BANDUNG,Ikuti kami juga di,Prima Rasa,Pastry,0,Tahan 3-4 Hari,https://www.primarasabakery.co.id/public/img/medsos/insta.png,TRUE
