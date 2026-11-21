@@ -25,6 +25,8 @@ export default function Buyer() {
   const [jenis, setJenis] = useState('Semua');
   const [open, setOpen] = useState(false);
   const [guide, setGuide] = useState(false);
+  const [scrolled, setScrolled] = useState(false);
+  const [filterOpen, setFilterOpen] = useState(false);
   const [cart, setCart] = useState(() => {
     try { return JSON.parse(sessionStorage.getItem('po_cart') || '{}'); } catch { return {}; }
   });
@@ -32,6 +34,23 @@ export default function Buyer() {
   const load = () => { setError(''); getCatalog().then(setData).catch((e) => setError(e.message)); };
   useEffect(load, []);
   useEffect(() => { try { sessionStorage.setItem('po_cart', JSON.stringify(cart)); } catch { /* abaikan */ } }, [cart]);
+
+  // Kecilkan sticky header saat discroll ke bawah (dengan batas atas/bawah berbeda agar tidak berkedip)
+  useEffect(() => {
+    const onScroll = () => {
+      const y = window.scrollY;
+      setScrolled((prev) => {
+        if (!prev && y > 150) return true;
+        if (prev && y < 70) {
+          setFilterOpen(false);
+          return false;
+        }
+        return prev;
+      });
+    };
+    window.addEventListener('scroll', onScroll, { passive: true });
+    return () => window.removeEventListener('scroll', onScroll);
+  }, []);
 
   const active = useMemo(() => (data ? data.regions.filter((r) => r.is_active) : []), [data]);
   const activeIds = active.map((r) => r.region_id);
@@ -73,6 +92,8 @@ export default function Buyer() {
   }, [inScope, brand]);
   // kalau jenis terpilih tidak ada di brand baru, otomatis kembali ke "Semua"
   const jenisAktif = jenisList.includes(jenis) ? jenis : 'Semua';
+  const activeFilterCount = (brand !== 'Semua' ? 1 : 0) + (jenisAktif !== 'Semua' ? 1 : 0);
+  const showPills = !scrolled || filterOpen;
 
   const shown = useMemo(() => {
     const s = q.trim().toLowerCase();
@@ -137,29 +158,47 @@ export default function Buyer() {
         </div>
       </header>
 
-      <div className="sticky top-0 z-30 space-y-2 border-b border-line bg-mist/95 px-4 py-3 backdrop-blur sm:px-6">
-        {both && (
-          <div className="grid grid-cols-3 gap-1 rounded-xl bg-white p-1 text-sm font-semibold">
-            {[['ALL', 'Semua Menu'], ['BANDUNG', 'PO Bandung'], ['HOMEMADE', 'Homemade']].map(([id, label]) => (
-              <button key={id} onClick={() => chooseTab(id)}
-                className={`rounded-lg py-2 ${tab === id ? 'bg-leaf text-white' : 'text-ink/70'}`}>{label}</button>
-            ))}
+      <div className={`sticky top-0 z-30 border-b border-line bg-mist/95 px-4 backdrop-blur transition-all duration-200 sm:px-6 ${scrolled ? 'space-y-1.5 py-2 shadow-sm' : 'space-y-2 py-3'}`}>
+        <div className={scrolled ? 'flex flex-col gap-1.5 sm:flex-row sm:items-center' : 'space-y-2'}>
+          {both && (
+            <div className={`grid grid-cols-3 gap-1 bg-white font-semibold transition-all ${scrolled ? 'shrink-0 rounded-lg p-0.5 text-xs sm:w-72' : 'rounded-xl p-1 text-sm'}`}>
+              {[['ALL', 'Semua Menu'], ['BANDUNG', 'PO Bandung'], ['HOMEMADE', 'Homemade']].map(([id, label]) => (
+                <button key={id} onClick={() => chooseTab(id)}
+                  className={`transition-all ${scrolled ? 'rounded-md py-1.5' : 'rounded-lg py-2'} ${tab === id ? 'bg-leaf text-white' : 'text-ink/70'}`}>{label}</button>
+              ))}
+            </div>
+          )}
+          <div className="flex flex-1 items-center gap-1.5">
+            <input value={q} onChange={(e) => setQ(e.target.value)} placeholder="Cari menu, brand, atau kategori"
+              className={`w-full border border-line bg-white outline-none transition-all focus:border-leaf ${scrolled ? 'rounded-lg px-3 py-1.5 text-sm' : 'rounded-xl px-4 py-2.5'}`} />
+            {scrolled && (
+              <button
+                type="button"
+                onClick={() => setFilterOpen((v) => !v)}
+                className={`shrink-0 rounded-lg border px-3 py-1.5 text-xs font-semibold transition-colors ${filterOpen || activeFilterCount > 0 ? 'border-leaf bg-leaf text-white' : 'border-line bg-white text-ink/80'}`}
+              >
+                {filterOpen ? 'Tutup' : activeFilterCount > 0 ? `Filter (${activeFilterCount})` : 'Filter'}
+              </button>
+            )}
           </div>
+        </div>
+
+        {showPills && (
+          <>
+            <div className="no-scrollbar -mx-4 flex gap-2 overflow-x-auto px-4 sm:mx-0 sm:px-0">
+              {brands.map((b) => (
+                <button key={b} onClick={() => setBrand(b)}
+                  className={`shrink-0 rounded-full border font-semibold transition-all ${scrolled ? 'px-3 py-1 text-xs' : 'px-3.5 py-1.5 text-sm'} ${brand === b ? 'border-ink bg-ink text-white' : 'border-line bg-white'}`}>{b}</button>
+              ))}
+            </div>
+            <div className="no-scrollbar -mx-4 flex gap-2 overflow-x-auto px-4 sm:mx-0 sm:px-0">
+              {jenisList.map((j) => (
+                <button key={j} onClick={() => setJenis(j)}
+                  className={`shrink-0 rounded-full border px-3 py-1 text-xs font-semibold ${jenisAktif === j ? 'border-leaf bg-leaf text-white' : 'border-line bg-white text-ink/80'}`}>{j === 'Semua' ? 'Semua jenis' : j}</button>
+              ))}
+            </div>
+          </>
         )}
-        <input value={q} onChange={(e) => setQ(e.target.value)} placeholder="Cari menu, brand, atau kategori"
-          className="w-full rounded-xl border border-line bg-white px-4 py-2.5 outline-none focus:border-leaf" />
-        <div className="no-scrollbar -mx-4 flex gap-2 overflow-x-auto px-4 sm:mx-0 sm:px-0">
-          {brands.map((b) => (
-            <button key={b} onClick={() => setBrand(b)}
-              className={`shrink-0 rounded-full border px-3.5 py-1.5 text-sm font-semibold ${brand === b ? 'border-ink bg-ink text-white' : 'border-line bg-white'}`}>{b}</button>
-          ))}
-        </div>
-        <div className="no-scrollbar -mx-4 flex gap-2 overflow-x-auto px-4 sm:mx-0 sm:px-0">
-          {jenisList.map((j) => (
-            <button key={j} onClick={() => setJenis(j)}
-              className={`shrink-0 rounded-full border px-3 py-1 text-xs font-semibold ${jenisAktif === j ? 'border-leaf bg-leaf text-white' : 'border-line bg-white text-ink/80'}`}>{j === 'Semua' ? 'Semua jenis' : j}</button>
-          ))}
-        </div>
       </div>
 
       <main className="px-4 pt-4 sm:px-6">
