@@ -10,7 +10,7 @@ export default function ProductCard({ p, qty, onChange }) {
     <article className="flex flex-col overflow-hidden rounded-2xl border border-line bg-white">
       <div className="relative aspect-square bg-leaf-soft">
         {p.image_url && !broken ? (
-          <img src={p.image_url} alt={p.name} loading="lazy" onError={() => setBroken(true)} className="h-full w-full object-cover" />
+          <img src={p.image_url} alt={p.name} loading="lazy" decoding="async" referrerPolicy="no-referrer" onError={() => setBroken(true)} className="h-full w-full object-cover" />
         ) : (
           <div className="grid h-full place-items-center px-3 text-center font-display text-sm font-semibold text-leaf/60">{p.brand}</div>
         )}

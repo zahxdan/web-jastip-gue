@@ -1,4 +1,4 @@
-import { useEffect } from 'react';
+import { useEffect, useRef } from 'react';
 import { fmtDate } from '../lib/format';
 
 export const GUIDE_KEY = 'po_guide_seen_v1';
@@ -12,23 +12,25 @@ const STEPS = [
 ];
 
 export default function GuideModal({ regions, onClose }) {
+  // <dialog> bawaan browser: Esc, fokus terkunci di dalam dialog, dan latar belakang tidak bisa diklik
+  const ref = useRef(null);
   useEffect(() => {
-    const onKey = (e) => { if (e.key === 'Escape') onClose(); };
-    window.addEventListener('keydown', onKey);
-    return () => window.removeEventListener('keydown', onKey);
-  }, [onClose]);
+    const d = ref.current;
+    if (d && !d.open) d.showModal();
+    return () => { if (d && d.open) d.close(); };
+  }, []);
 
   const withDate = regions.filter((r) => r.close_date);
 
   return (
-    <div className="fixed inset-0 z-50 grid place-items-end bg-ink/60 sm:place-items-center" onClick={onClose}>
-      <div
-        role="dialog"
-        aria-modal="true"
-        aria-labelledby="guide-title"
-        className="max-h-[92vh] w-full overflow-y-auto rounded-t-3xl bg-white p-6 sm:max-w-md sm:rounded-3xl"
-        onClick={(e) => e.stopPropagation()}
-      >
+    <dialog
+      ref={ref}
+      aria-labelledby="guide-title"
+      onClose={onClose}
+      onClick={(e) => { if (e.target === e.currentTarget) onClose(); }}
+      className="m-0 mt-auto w-full max-w-none overflow-hidden rounded-t-3xl bg-white p-0 text-ink backdrop:bg-ink/60 sm:m-auto sm:max-w-md sm:rounded-3xl"
+    >
+      <div className="max-h-[92vh] overflow-y-auto p-6">
         <h2 id="guide-title" className="font-display text-2xl font-extrabold">Cara Pesan</h2>
         <ol className="mt-4 space-y-3">
           {STEPS.map(([title, body], i) => (
@@ -50,6 +52,6 @@ export default function GuideModal({ regions, onClose }) {
         )}
         <button onClick={onClose} className="mt-5 w-full rounded-2xl bg-leaf py-3.5 font-bold text-white">Mengerti, lihat menu</button>
       </div>
-    </div>
+    </dialog>
   );
 }
