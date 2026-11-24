@@ -1,9 +1,11 @@
 import { useMemo, useState } from 'react';
 import { rupiah } from '../lib/format';
 
+// Tujuan pengiriman tunggal. Ganti teks di sini kalau lokasinya berubah.
+const DELIVERY = 'Diantar ke Kantor Liebra 121';
+
 export default function CartDrawer({ lines, regionTitles, waNumber, onChange, onClose }) {
   const [name, setName] = useState('');
-  const [delivery, setDelivery] = useState('');
   const [note, setNote] = useState('');
   const [error, setError] = useState('');
 
@@ -22,8 +24,7 @@ export default function CartDrawer({ lines, regionTitles, waNumber, onChange, on
 
   const send = () => {
     if (!name.trim()) return setError('Isi nama pemesan dulu.');
-    if (!delivery) return setError('Pilih pengiriman atau pickup.');
-    const msg = [`*PESANAN PO*`, `Nama: ${name.trim()}`, `Pengiriman: ${delivery}`, ''];
+    const msg = [`*PESANAN PO*`, `Nama: ${name.trim()}`, `Pengiriman: ${DELIVERY}`, ''];
     for (const [region, brands] of Object.entries(groups)) {
       msg.push(`*${regionTitles[region] || region}*`);
       for (const [brand, items] of Object.entries(brands)) {
@@ -77,21 +78,14 @@ export default function CartDrawer({ lines, regionTitles, waNumber, onChange, on
                 Nama pemesan
                 <input value={name} onChange={(e) => setName(e.target.value)} placeholder="Nama kamu" className="mt-1 w-full rounded-xl border border-line px-3 py-2.5 font-normal outline-none focus:border-leaf" />
               </label>
-              <fieldset>
-                <legend className="text-sm font-semibold">Pengiriman</legend>
-                <div className="mt-1 grid grid-cols-2 gap-2">
-                  {['Pengiriman', 'Pickup'].map((o) => (
-                    <button key={o} type="button" onClick={() => setDelivery(o)}
-                      className={`rounded-xl border py-2.5 text-sm font-semibold ${delivery === o ? 'border-leaf bg-leaf text-white' : 'border-line'}`}>
-                      {o}
-                    </button>
-                  ))}
-                </div>
-              </fieldset>
+              <div className="rounded-xl bg-leaf-soft px-3 py-2.5 text-sm">
+                <p className="font-semibold">Pengiriman</p>
+                <p className="text-ink/80">{DELIVERY}</p>
+              </div>
               <label className="block text-sm font-semibold">
                 Request produk lainnya / catatan
                 <textarea value={note} onChange={(e) => setNote(e.target.value)} rows={3}
-                  placeholder="Mau titip barang di luar menu? Tulis di sini. Alamat pengiriman juga boleh."
+                  placeholder="Mau titip barang di luar menu? Tulis di sini."
                   className="mt-1 w-full rounded-xl border border-line px-3 py-2.5 font-normal outline-none focus:border-leaf" />
               </label>
             </div>

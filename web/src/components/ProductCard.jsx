@@ -1,50 +1,55 @@
-import { useState } from 'react';
-import { rupiah } from '../lib/format';
+import { useEffect } from 'react';
+import { fmtDate } from '../lib/format';
 
-export default function ProductCard({ p, qty, onChange }) {
-  const [broken, setBroken] = useState(false);
-  const soldOut = !p.is_available;
-  const blocked = soldOut || p.price <= 0;
+export const GUIDE_KEY = 'po_guide_seen_v1';
+
+// Ubah isi langkah di sini kalau aturan PO-mu berubah (mis. DP, jam pickup, minimal order)
+const STEPS = [
+  ['Pilih menu', 'Tekan + Tambah pada produk yang kamu mau, lalu atur jumlahnya.'],
+  ['Buka keranjang', 'Cek pesananmu dan isi nama. Pesanan diantar ke Kantor Liebra 121.'],
+  ['Kirim lewat WhatsApp', 'Tekan Pesan via WhatsApp. Rekap pesanan terisi otomatis, tinggal kirim.'],
+  ['Mau titip barang lain?', 'Pakai tombol Request / titip barang lain di bagian atas. Kamu langsung diarahkan ke chat WhatsApp.'],
+];
+
+export default function GuideModal({ regions, onClose }) {
+  useEffect(() => {
+    const onKey = (e) => { if (e.key === 'Escape') onClose(); };
+    window.addEventListener('keydown', onKey);
+    return () => window.removeEventListener('keydown', onKey);
+  }, [onClose]);
+
+  const withDate = regions.filter((r) => r.close_date);
 
   return (
-    <article className="flex flex-col overflow-hidden rounded-2xl border border-line bg-white">
-      <div className="relative aspect-square bg-leaf-soft">
-        {p.image_url && !broken ? (
-          <img src={p.image_url} alt={p.name} loading="lazy" decoding="async" referrerPolicy="no-referrer" onError={() => setBroken(true)} className="h-full w-full object-cover" />
-        ) : (
-          <div className="grid h-full place-items-center px-3 text-center font-display text-sm font-semibold text-leaf/60">{p.brand}</div>
-        )}
-        <span className="absolute left-2 top-2 max-w-[85%] truncate rounded-full bg-white/95 px-2 py-0.5 text-[11px] font-semibold text-leaf-dark">{p.brand}</span>
-        {blocked && (
-          <div className="absolute inset-0 grid place-items-center bg-white/75 text-sm font-bold">
-            {soldOut ? 'Habis' : 'Harga menyusul'}
+    <div className="fixed inset-0 z-50 grid place-items-end bg-ink/60 sm:place-items-center" onClick={onClose}>
+      <div
+        role="dialog"
+        aria-modal="true"
+        aria-labelledby="guide-title"
+        className="max-h-[92vh] w-full overflow-y-auto rounded-t-3xl bg-white p-6 sm:max-w-md sm:rounded-3xl"
+        onClick={(e) => e.stopPropagation()}
+      >
+        <h2 id="guide-title" className="font-display text-2xl font-extrabold">Cara Pesan</h2>
+        <ol className="mt-4 space-y-3">
+          {STEPS.map(([title, body], i) => (
+            <li key={title} className="flex gap-3">
+              <span className="grid h-7 w-7 shrink-0 place-items-center rounded-full bg-leaf text-sm font-bold text-white">{i + 1}</span>
+              <div>
+                <p className="font-semibold">{title}</p>
+                <p className="text-sm text-ink/70">{body}</p>
+              </div>
+            </li>
+          ))}
+        </ol>
+        {withDate.length > 0 && (
+          <div className="mt-4 rounded-2xl bg-saffron-soft p-3 text-sm">
+            {withDate.map((r) => (
+              <p key={r.region_id}><b>{r.title || r.region_id}</b> tutup {fmtDate(r.close_date)}</p>
+            ))}
           </div>
         )}
+        <button onClick={onClose} className="mt-5 w-full rounded-2xl bg-leaf py-3.5 font-bold text-white">Mengerti, lihat menu</button>
       </div>
-      <div className="flex flex-1 flex-col gap-1.5 p-3">
-        <h3 className="line-clamp-2 text-sm font-semibold leading-snug">{p.name}</h3>
-        {p.shelf_life && (
-          <span className="w-fit rounded-md bg-saffron-soft px-1.5 py-0.5 text-[11px] font-medium text-[#7A5600]">{p.shelf_life}</span>
-        )}
-        <div className="mt-auto pt-1">
-          <p className="font-display text-base font-extrabold text-leaf-dark">{rupiah(p.price)}</p>
-          {qty > 0 ? (
-            <div className="mt-2 flex items-center justify-between rounded-xl bg-leaf px-1 py-1 text-white">
-              <button onClick={() => onChange(p.id, qty - 1)} aria-label="Kurangi" className="h-8 w-8 rounded-lg text-lg font-bold active:bg-leaf-dark">−</button>
-              <span className="min-w-6 text-center text-sm font-bold">{qty}</span>
-              <button onClick={() => onChange(p.id, qty + 1)} aria-label="Tambah" className="h-8 w-8 rounded-lg text-lg font-bold active:bg-leaf-dark">+</button>
-            </div>
-          ) : (
-            <button
-              disabled={blocked}
-              onClick={() => onChange(p.id, 1)}
-              className="mt-2 w-full rounded-xl border border-leaf py-2 text-sm font-semibold text-leaf transition active:bg-leaf-soft disabled:cursor-not-allowed disabled:border-line disabled:text-ink/40"
-            >
-              + Tambah
-            </button>
-          )}
-        </div>
-      </div>
-    </article>
+    </div>
   );
 }
