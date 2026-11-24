@@ -80,7 +80,7 @@ export default function CartDrawer({ lines, regionTitles, waNumber, onChange, on
               <fieldset>
                 <legend className="text-sm font-semibold">Pengiriman</legend>
                 <div className="mt-1 grid grid-cols-2 gap-2">
-                  {['Pengiriman', 'Pickup'].map((o) => (
+                  {['Liebra 121', 'Pickup di Teluk Gong'].map((o) => (
                     <button key={o} type="button" onClick={() => setDelivery(o)}
                       className={`rounded-xl border py-2.5 text-sm font-semibold ${delivery === o ? 'border-leaf bg-leaf text-white' : 'border-line'}`}>
                       {o}
