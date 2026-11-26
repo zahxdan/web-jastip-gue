@@ -1,0 +1,91 @@
+﻿id,region,name,brand,category,price,shelf_life,image_url,is_available
+PRD-HM-001,HOMEMADE,Batagor Super Asin & Pedas (150 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-001.jpg,TRUE
+PRD-HM-002,HOMEMADE,Talas Sapi Panggang (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-002.jpg,TRUE
+PRD-HM-003,HOMEMADE,Usus Ayam Pedas & Asin (150 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-003.jpg,TRUE
+PRD-HM-004,HOMEMADE,Singkong Keju Balado (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-004.jpg,TRUE
+PRD-HM-005,HOMEMADE,Singkong Bumbu Ayam Lada Hitam & Sambal Jeruk Balado (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-005.jpg,TRUE
+PRD-HM-006,HOMEMADE,Basreng Stik Balado & Asin Jeruk (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-006.jpg,TRUE
+PRD-HM-007,HOMEMADE,Tempe Sagu (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-007.jpg,TRUE
+PRD-HM-008,HOMEMADE,Cimol Jeruk Asin & Pedas Cikruh (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-008.jpg,TRUE
+PRD-HM-009,HOMEMADE,Basreng Sambal Jeruk (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-009.jpg,TRUE
+PRD-HM-010,HOMEMADE,Makaroni Bantat Jeruk Balado & Asin (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-010.jpg,TRUE
+PRD-HM-011,HOMEMADE,Snack Terompet Balado & Keju (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-011.jpg,TRUE
+PRD-HM-012,HOMEMADE,Sale Lidah Keju (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-012.jpg,TRUE
+PRD-HM-013,HOMEMADE,Kacang Koro Balado & Asin (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-013.jpg,TRUE
+PRD-HM-014,HOMEMADE,Kentang Iris Keju & Jagung Bakar,Homemade,Camilan,15000,,/img/homemade/PRD-HM-014.jpg,TRUE
+PRD-HM-015,HOMEMADE,Pisang Manis (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-015.jpg,TRUE
+PRD-HM-016,HOMEMADE,Noga Kacang (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-016.jpg,TRUE
+PRD-HM-017,HOMEMADE,"Agar Jelly Inaco (300 gr, 20 pcs)",Homemade,Camilan,15000,,/img/homemade/PRD-HM-017.jpg,TRUE
+PRD-HM-018,HOMEMADE,Sumpiah Udang (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-018.jpg,TRUE
+PRD-HM-019,HOMEMADE,"Bolu Kering Rege, Mangkok & Smile (200 gr)",Homemade,Camilan,15000,,/img/homemade/PRD-HM-019.jpg,TRUE
+PRD-HM-020,HOMEMADE,Kolontong Ketan Manis (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-020.jpg,TRUE
+PRD-HM-021,HOMEMADE,Seblak Bantat Rafael (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-021.jpg,TRUE
+PRD-HM-022,HOMEMADE,Sale Lumpia (Pisang Aroma) (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-022.jpg,TRUE
+PRD-HM-023,HOMEMADE,Astor Long Valeo (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-023.jpg,TRUE
+PRD-HM-024,HOMEMADE,Soes Coklat Micky (150 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-024.jpg,TRUE
+PRD-HM-025,HOMEMADE,Seblak Mie Kuning (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-025.jpg,TRUE
+PRD-HM-026,HOMEMADE,Makaroni Cikruh Siput Cikruh (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-026.jpg,TRUE
+PRD-HM-027,HOMEMADE,Pang Pang (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-027.jpg,TRUE
+PRD-HM-028,HOMEMADE,Keripik Kaca Bulat (150 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-028.jpg,TRUE
+PRD-HM-029,HOMEMADE,Sistik Bawang (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-029.jpg,TRUE
+PRD-HM-030,HOMEMADE,Kacang Polong Tepung Kacang Campur (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-030.jpg,TRUE
+PRD-HM-031,HOMEMADE,Kacang Bandung (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-031.jpg,TRUE
+PRD-HM-032,HOMEMADE,Kacang Bawang & Atom Bima (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-032.jpg,TRUE
+PRD-HM-033,HOMEMADE,Simping Kencur (150 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-033.jpg,TRUE
+PRD-HM-034,HOMEMADE,Kacang Sukro Sanghai (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-034.jpg,TRUE
+PRD-HM-035,HOMEMADE,Pangsit Bawang (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-035.jpg,TRUE
+PRD-HM-036,HOMEMADE,Tiktak Mini Kencur (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-036.jpg,TRUE
+PRD-HM-037,HOMEMADE,Opak Singkong Asin & Pedas (150 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-037.jpg,TRUE
+PRD-HM-038,HOMEMADE,Stik Sukun (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-038.jpg,TRUE
+PRD-HM-039,HOMEMADE,Mie Gulung (150 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-039.jpg,TRUE
+PRD-HM-040,HOMEMADE,Siomay Pedas Jeruk (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-040.jpg,TRUE
+PRD-HM-041,HOMEMADE,Singkong Lengket Sambal Jeruk & Balado (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-041.jpg,TRUE
+PRD-HM-042,HOMEMADE,Jagung Marning (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-042.jpg,TRUE
+PRD-HM-043,HOMEMADE,Comring Mini Pedas (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-043.jpg,TRUE
+PRD-HM-044,HOMEMADE,Singkong Kriwil Sultan Pedas Jeruk Cikruh (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-044.jpg,TRUE
+PRD-HM-045,HOMEMADE,Stik Keju Indosari (150 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-045.jpg,TRUE
+PRD-HM-046,HOMEMADE,Tahu Mini Special Asin & Pedas (150 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-046.jpg,TRUE
+PRD-HM-047,HOMEMADE,Makaroni Rujak Mini (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-047.jpg,TRUE
+PRD-HM-048,HOMEMADE,Gabus Keju DD (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-048.jpg,TRUE
+PRD-HM-049,HOMEMADE,Stik Wijen Indosari (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-049.jpg,TRUE
+PRD-HM-050,HOMEMADE,Opak Ketan Bakar Kotak & Bulat (150 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-050.jpg,TRUE
+PRD-HM-051,HOMEMADE,Basreng Bulat Asin Jeruk & Balado (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-051.jpg,TRUE
+PRD-HM-052,HOMEMADE,Keciput Wijen Ketan (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-052.jpg,TRUE
+PRD-HM-053,HOMEMADE,Brownies Karakter (150 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-053.jpg,TRUE
+PRD-HM-054,HOMEMADE,Pilus Asin (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-054.jpg,TRUE
+PRD-HM-055,HOMEMADE,Pilus Pedas (180 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-055.jpg,TRUE
+PRD-HM-056,HOMEMADE,Astor Coklat (150 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-056.jpg,TRUE
+PRD-HM-057,HOMEMADE,Seblak Beton (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-057.jpg,TRUE
+PRD-HM-058,HOMEMADE,Tambang Mini Lintang (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-058.jpg,TRUE
+PRD-HM-059,HOMEMADE,Seblak Kencur (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-059.jpg,TRUE
+PRD-HM-060,HOMEMADE,Seblak Mix (Campur) (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-060.jpg,TRUE
+PRD-HM-061,HOMEMADE,Seblak Jengkol Genteng (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-061.jpg,TRUE
+PRD-HM-062,HOMEMADE,Singkong Tes/Cuba Keju & Balado (150 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-062.jpg,TRUE
+PRD-HM-063,HOMEMADE,Kuping Gajah (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-063.jpg,TRUE
+PRD-HM-064,HOMEMADE,Pisang Asin Keju (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-064.jpg,TRUE
+PRD-HM-065,HOMEMADE,Sale Jari (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-065.jpg,TRUE
+PRD-HM-066,HOMEMADE,Talas Stik (150 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-066.jpg,TRUE
+PRD-HM-067,HOMEMADE,Sosreng (150 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-067.jpg,TRUE
+PRD-HM-068,HOMEMADE,Seblak Bintang (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-068.jpg,TRUE
+PRD-HM-069,HOMEMADE,Koro Asin Kulit (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-069.jpg,TRUE
+PRD-HM-070,HOMEMADE,Saroja Asin (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-070.jpg,TRUE
+PRD-HM-071,HOMEMADE,"Astor Mini Susu, Coklat, Vanilla & Stroberi",Homemade,Camilan,15000,,/img/homemade/PRD-HM-071.jpg,TRUE
+PRD-HM-072,HOMEMADE,Gabus Donat Manis Blueberry & Warna (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-072.jpg,TRUE
+PRD-HM-073,HOMEMADE,Slondok Pedas & Asin (150 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-073.jpg,TRUE
+PRD-HM-074,HOMEMADE,Ubi Ungu (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-074.jpg,TRUE
+PRD-HM-075,HOMEMADE,Makaroni Spiral Cikruh (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-075.jpg,TRUE
+PRD-HM-076,HOMEMADE,Kripca Kotak (150 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-076.jpg,TRUE
+PRD-HM-077,HOMEMADE,Tambang Besar (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-077.jpg,TRUE
+PRD-HM-078,HOMEMADE,Kacang Polong (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-078.jpg,TRUE
+PRD-HM-079,HOMEMADE,Pikset Pedas Jeruk (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-079.jpg,TRUE
+PRD-HM-080,HOMEMADE,Seblak Pedas Daun Jeruk (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-080.jpg,TRUE
+PRD-HM-081,HOMEMADE,Tortilla Jagung BBQ & Sambal Balado (150 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-081.jpg,TRUE
+PRD-HM-082,HOMEMADE,Stik Tes Keju & Balado (150 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-082.jpg,TRUE
+PRD-HM-083,HOMEMADE,Kriwil Katuncar Ori (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-083.jpg,TRUE
+PRD-HM-084,HOMEMADE,Kriwil Katuncar Pedas (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-084.jpg,TRUE
+PRD-HM-085,HOMEMADE,Kursus Pedas Jeruk (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-085.jpg,TRUE
+PRD-HM-086,HOMEMADE,Sumpia Udang (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-086.jpg,TRUE
+PRD-HM-087,HOMEMADE,Astor Mini Blueberry (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-087.jpg,TRUE
+PRD-HM-088,HOMEMADE,Kue Kancing (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-088.jpg,TRUE
+PRD-HM-089,HOMEMADE,Kenanga Manis (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-089.jpg,TRUE
+PRD-HM-090,HOMEMADE,"Rengginang Ketan (7 pcs, ±155 gr)",Homemade,Camilan,15000,,/img/homemade/PRD-HM-090.jpg,TRUE
