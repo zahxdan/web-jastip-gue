@@ -17,7 +17,8 @@ export default function GuideModal({ regions, onClose }) {
   useEffect(() => {
     const d = ref.current;
     if (d && !d.open) d.showModal();
-    return () => { if (d && d.open) d.close(); };
+    // tanpa cleanup d.close(): dialog hilang sendiri saat komponen dilepas, dan close() justru
+    // memicu onClose lebih awal di mode dev (React StrictMode menjalankan effect dua kali)
   }, []);
 
   const withDate = regions.filter((r) => r.close_date);
