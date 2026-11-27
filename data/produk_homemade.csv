@@ -1,91 +1,417 @@
-﻿id,region,name,brand,category,price,shelf_life,image_url,is_available
-PRD-HM-001,HOMEMADE,Batagor Super Asin & Pedas (150 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-001.jpg,TRUE
-PRD-HM-002,HOMEMADE,Talas Sapi Panggang (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-002.jpg,TRUE
-PRD-HM-003,HOMEMADE,Usus Ayam Pedas & Asin (150 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-003.jpg,TRUE
-PRD-HM-004,HOMEMADE,Singkong Keju Balado (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-004.jpg,TRUE
-PRD-HM-005,HOMEMADE,Singkong Bumbu Ayam Lada Hitam & Sambal Jeruk Balado (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-005.jpg,TRUE
-PRD-HM-006,HOMEMADE,Basreng Stik Balado & Asin Jeruk (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-006.jpg,TRUE
-PRD-HM-007,HOMEMADE,Tempe Sagu (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-007.jpg,TRUE
-PRD-HM-008,HOMEMADE,Cimol Jeruk Asin & Pedas Cikruh (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-008.jpg,TRUE
-PRD-HM-009,HOMEMADE,Basreng Sambal Jeruk (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-009.jpg,TRUE
-PRD-HM-010,HOMEMADE,Makaroni Bantat Jeruk Balado & Asin (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-010.jpg,TRUE
-PRD-HM-011,HOMEMADE,Snack Terompet Balado & Keju (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-011.jpg,TRUE
-PRD-HM-012,HOMEMADE,Sale Lidah Keju (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-012.jpg,TRUE
-PRD-HM-013,HOMEMADE,Kacang Koro Balado & Asin (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-013.jpg,TRUE
-PRD-HM-014,HOMEMADE,Kentang Iris Keju & Jagung Bakar,Homemade,Camilan,15000,,/img/homemade/PRD-HM-014.jpg,TRUE
-PRD-HM-015,HOMEMADE,Pisang Manis (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-015.jpg,TRUE
-PRD-HM-016,HOMEMADE,Noga Kacang (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-016.jpg,TRUE
-PRD-HM-017,HOMEMADE,"Agar Jelly Inaco (300 gr, 20 pcs)",Homemade,Camilan,15000,,/img/homemade/PRD-HM-017.jpg,TRUE
-PRD-HM-018,HOMEMADE,Sumpiah Udang (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-018.jpg,TRUE
-PRD-HM-019,HOMEMADE,"Bolu Kering Rege, Mangkok & Smile (200 gr)",Homemade,Camilan,15000,,/img/homemade/PRD-HM-019.jpg,TRUE
-PRD-HM-020,HOMEMADE,Kolontong Ketan Manis (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-020.jpg,TRUE
-PRD-HM-021,HOMEMADE,Seblak Bantat Rafael (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-021.jpg,TRUE
-PRD-HM-022,HOMEMADE,Sale Lumpia (Pisang Aroma) (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-022.jpg,TRUE
-PRD-HM-023,HOMEMADE,Astor Long Valeo (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-023.jpg,TRUE
-PRD-HM-024,HOMEMADE,Soes Coklat Micky (150 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-024.jpg,TRUE
-PRD-HM-025,HOMEMADE,Seblak Mie Kuning (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-025.jpg,TRUE
-PRD-HM-026,HOMEMADE,Makaroni Cikruh Siput Cikruh (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-026.jpg,TRUE
-PRD-HM-027,HOMEMADE,Pang Pang (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-027.jpg,TRUE
-PRD-HM-028,HOMEMADE,Keripik Kaca Bulat (150 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-028.jpg,TRUE
-PRD-HM-029,HOMEMADE,Sistik Bawang (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-029.jpg,TRUE
-PRD-HM-030,HOMEMADE,Kacang Polong Tepung Kacang Campur (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-030.jpg,TRUE
-PRD-HM-031,HOMEMADE,Kacang Bandung (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-031.jpg,TRUE
-PRD-HM-032,HOMEMADE,Kacang Bawang & Atom Bima (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-032.jpg,TRUE
-PRD-HM-033,HOMEMADE,Simping Kencur (150 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-033.jpg,TRUE
-PRD-HM-034,HOMEMADE,Kacang Sukro Sanghai (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-034.jpg,TRUE
-PRD-HM-035,HOMEMADE,Pangsit Bawang (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-035.jpg,TRUE
-PRD-HM-036,HOMEMADE,Tiktak Mini Kencur (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-036.jpg,TRUE
-PRD-HM-037,HOMEMADE,Opak Singkong Asin & Pedas (150 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-037.jpg,TRUE
-PRD-HM-038,HOMEMADE,Stik Sukun (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-038.jpg,TRUE
-PRD-HM-039,HOMEMADE,Mie Gulung (150 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-039.jpg,TRUE
-PRD-HM-040,HOMEMADE,Siomay Pedas Jeruk (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-040.jpg,TRUE
-PRD-HM-041,HOMEMADE,Singkong Lengket Sambal Jeruk & Balado (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-041.jpg,TRUE
-PRD-HM-042,HOMEMADE,Jagung Marning (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-042.jpg,TRUE
-PRD-HM-043,HOMEMADE,Comring Mini Pedas (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-043.jpg,TRUE
-PRD-HM-044,HOMEMADE,Singkong Kriwil Sultan Pedas Jeruk Cikruh (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-044.jpg,TRUE
-PRD-HM-045,HOMEMADE,Stik Keju Indosari (150 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-045.jpg,TRUE
-PRD-HM-046,HOMEMADE,Tahu Mini Special Asin & Pedas (150 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-046.jpg,TRUE
-PRD-HM-047,HOMEMADE,Makaroni Rujak Mini (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-047.jpg,TRUE
-PRD-HM-048,HOMEMADE,Gabus Keju DD (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-048.jpg,TRUE
-PRD-HM-049,HOMEMADE,Stik Wijen Indosari (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-049.jpg,TRUE
-PRD-HM-050,HOMEMADE,Opak Ketan Bakar Kotak & Bulat (150 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-050.jpg,TRUE
-PRD-HM-051,HOMEMADE,Basreng Bulat Asin Jeruk & Balado (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-051.jpg,TRUE
-PRD-HM-052,HOMEMADE,Keciput Wijen Ketan (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-052.jpg,TRUE
-PRD-HM-053,HOMEMADE,Brownies Karakter (150 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-053.jpg,TRUE
-PRD-HM-054,HOMEMADE,Pilus Asin (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-054.jpg,TRUE
-PRD-HM-055,HOMEMADE,Pilus Pedas (180 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-055.jpg,TRUE
-PRD-HM-056,HOMEMADE,Astor Coklat (150 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-056.jpg,TRUE
-PRD-HM-057,HOMEMADE,Seblak Beton (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-057.jpg,TRUE
-PRD-HM-058,HOMEMADE,Tambang Mini Lintang (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-058.jpg,TRUE
-PRD-HM-059,HOMEMADE,Seblak Kencur (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-059.jpg,TRUE
-PRD-HM-060,HOMEMADE,Seblak Mix (Campur) (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-060.jpg,TRUE
-PRD-HM-061,HOMEMADE,Seblak Jengkol Genteng (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-061.jpg,TRUE
-PRD-HM-062,HOMEMADE,Singkong Tes/Cuba Keju & Balado (150 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-062.jpg,TRUE
-PRD-HM-063,HOMEMADE,Kuping Gajah (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-063.jpg,TRUE
-PRD-HM-064,HOMEMADE,Pisang Asin Keju (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-064.jpg,TRUE
-PRD-HM-065,HOMEMADE,Sale Jari (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-065.jpg,TRUE
-PRD-HM-066,HOMEMADE,Talas Stik (150 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-066.jpg,TRUE
-PRD-HM-067,HOMEMADE,Sosreng (150 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-067.jpg,TRUE
-PRD-HM-068,HOMEMADE,Seblak Bintang (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-068.jpg,TRUE
-PRD-HM-069,HOMEMADE,Koro Asin Kulit (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-069.jpg,TRUE
-PRD-HM-070,HOMEMADE,Saroja Asin (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-070.jpg,TRUE
-PRD-HM-071,HOMEMADE,"Astor Mini Susu, Coklat, Vanilla & Stroberi",Homemade,Camilan,15000,,/img/homemade/PRD-HM-071.jpg,TRUE
-PRD-HM-072,HOMEMADE,Gabus Donat Manis Blueberry & Warna (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-072.jpg,TRUE
-PRD-HM-073,HOMEMADE,Slondok Pedas & Asin (150 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-073.jpg,TRUE
-PRD-HM-074,HOMEMADE,Ubi Ungu (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-074.jpg,TRUE
-PRD-HM-075,HOMEMADE,Makaroni Spiral Cikruh (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-075.jpg,TRUE
-PRD-HM-076,HOMEMADE,Kripca Kotak (150 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-076.jpg,TRUE
-PRD-HM-077,HOMEMADE,Tambang Besar (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-077.jpg,TRUE
-PRD-HM-078,HOMEMADE,Kacang Polong (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-078.jpg,TRUE
-PRD-HM-079,HOMEMADE,Pikset Pedas Jeruk (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-079.jpg,TRUE
-PRD-HM-080,HOMEMADE,Seblak Pedas Daun Jeruk (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-080.jpg,TRUE
-PRD-HM-081,HOMEMADE,Tortilla Jagung BBQ & Sambal Balado (150 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-081.jpg,TRUE
-PRD-HM-082,HOMEMADE,Stik Tes Keju & Balado (150 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-082.jpg,TRUE
-PRD-HM-083,HOMEMADE,Kriwil Katuncar Ori (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-083.jpg,TRUE
-PRD-HM-084,HOMEMADE,Kriwil Katuncar Pedas (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-084.jpg,TRUE
-PRD-HM-085,HOMEMADE,Kursus Pedas Jeruk (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-085.jpg,TRUE
-PRD-HM-086,HOMEMADE,Sumpia Udang (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-086.jpg,TRUE
-PRD-HM-087,HOMEMADE,Astor Mini Blueberry (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-087.jpg,TRUE
-PRD-HM-088,HOMEMADE,Kue Kancing (250 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-088.jpg,TRUE
-PRD-HM-089,HOMEMADE,Kenanga Manis (200 gr),Homemade,Camilan,15000,,/img/homemade/PRD-HM-089.jpg,TRUE
-PRD-HM-090,HOMEMADE,"Rengginang Ketan (7 pcs, ±155 gr)",Homemade,Camilan,15000,,/img/homemade/PRD-HM-090.jpg,TRUE
+id,region,name,brand,category,price,shelf_life,image_url,is_available
+PRD-PR-001,BANDUNG,Brownies Coklat Almond (425 gr),Prima Rasa,Brownies,"129,000",Tahan 9 Hari (Luar) / 11 Hari (Kulkas),/img/primarasa/PRD-PR-001.jpg,TRUE
+PRD-PR-002,BANDUNG,Brownies Coklat Almond (Kecil) (300 gr),Prima Rasa,Brownies,"109,000",Tahan 9 Hari (Luar) / 11 Hari (Kulkas),/img/primarasa/PRD-PR-002.jpg,TRUE
+PRD-PR-003,BANDUNG,Brownies Coklat Mede (450 gr),Prima Rasa,Brownies,"139,000",Tahan 9 Hari (Luar) / 11 Hari (Kulkas),/img/primarasa/PRD-PR-003.jpg,TRUE
+PRD-PR-004,BANDUNG,Brownies Panggang Keju (560 gr),Prima Rasa,Brownies,"149,000",Tahan 6 Hari (Luar) / 8 Hari (Kulkas),/img/primarasa/PRD-PR-004.jpg,TRUE
+PRD-PR-005,BANDUNG,Brownies Panggang Tiramizu (600 gr),Prima Rasa,Brownies,"149,000",Tahan 6 Hari (Luar) / 8 Hari (Kulkas),/img/primarasa/PRD-PR-005.jpg,TRUE
+PRD-PR-006,BANDUNG,Brownies Panggang Chocochip (475 gr),Prima Rasa,Brownies,"129,000",Tahan 9 Hari (Luar) / 11 Hari (Kulkas),/img/primarasa/PRD-PR-006.jpg,TRUE
+PRD-PR-007,BANDUNG,Brownies Panggang Chocochip (Kecil) (300 gr),Prima Rasa,Brownies,"109,000",Tahan 9 Hari (Luar) / 11 Hari (Kulkas),/img/primarasa/PRD-PR-007.jpg,TRUE
+PRD-PR-008,BANDUNG,Brownies Panggang Mocca (590 gr),Prima Rasa,Brownies,"149,000",Tahan 6 Hari (Luar) / 8 Hari (Kulkas),/img/primarasa/PRD-PR-008.jpg,TRUE
+PRD-PR-009,BANDUNG,Brownies Panggang Raisin (590 gr),Prima Rasa,Brownies,"149,000",Tahan 6 Hari (Luar) / 8 Hari (Kulkas),/img/primarasa/PRD-PR-009.jpg,TRUE
+PRD-PR-010,BANDUNG,Brownies Panggang Ketan Hitam (560 gr),Prima Rasa,Brownies,"139,000",Tahan 9 Hari (Luar) / 11 Hari (Kulkas),/img/primarasa/PRD-PR-010.jpg,TRUE
+PRD-PR-011,BANDUNG,Brownies Panggang Blueberry (590 gr),Prima Rasa,Brownies,"169,000",Tahan 9 Hari (Luar) / 11 Hari (Kulkas),/img/primarasa/PRD-PR-011.jpg,TRUE
+PRD-PR-012,BANDUNG,Brownies Panggang Kacang (500 gr),Prima Rasa,Brownies,"129,000",Tahan 9 Hari (Luar) / 11 Hari (Kulkas),/img/primarasa/PRD-PR-012.jpg,TRUE
+PRD-PR-013,BANDUNG,Brownies Panggang Oreo,Prima Rasa,Brownies,"79,000",Tahan 7 Hari (Luar) / 9 Hari (Kulkas),/img/primarasa/PRD-PR-013.jpg,TRUE
+PRD-PR-014,BANDUNG,Brownies Panggang Expresso,Prima Rasa,Brownies,"109,000",Tahan 7 Hari (Luar) / 9 Hari (Kulkas),/img/primarasa/PRD-PR-014.jpg,TRUE
+PRD-PR-015,BANDUNG,Brownies Almond Panjang,Prima Rasa,Brownies,"109,000",Tahan 7 Hari (Luar) / 9 Hari (Kulkas),/img/primarasa/PRD-PR-015.jpg,TRUE
+PRD-PR-016,BANDUNG,Brownies Red Velvet,Prima Rasa,Brownies,"89,000",Tahan 4 Hari (Luar),/img/primarasa/PRD-PR-016.jpg,TRUE
+PRD-PR-017,BANDUNG,Brownies Matcha Cream Cheese,Prima Rasa,Brownies,"99,000",Tahan 4 Hari (Luar),/img/primarasa/PRD-PR-017.jpg,TRUE
+PRD-PR-018,BANDUNG,Brownies Marmer Panjang,Prima Rasa,Brownies,"89,000",Tahan 4 Hari (Luar),/img/primarasa/PRD-PR-018.jpg,TRUE
+PRD-PR-019,BANDUNG,Brownies Kunafa Pistachio,Prima Rasa,Brownies,"169,000",Tahan 10 Hari (Luar) / 11 Hari (Kulkas),,TRUE
+PRD-PR-020,BANDUNG,Mixbro,Prima Rasa,Brownies,"309,000",Tahan 10 Hari (Luar) / 11 Hari (Kulkas),/img/primarasa/PRD-PR-020.jpg,TRUE
+PRD-PR-021,BANDUNG,Brownies Kukus Original Coklat PR,Prima Rasa,Brownies,"109,000",Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-021.jpg,TRUE
+PRD-PR-022,BANDUNG,Brownies Kukus Keju-Coklat,Prima Rasa,Brownies,"89,000",Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-022.jpg,TRUE
+PRD-PR-023,BANDUNG,Brownies Kukus Ketan Hitam Pandan,Prima Rasa,Brownies,"79,000",Tahan 2 Hari (Luar) / 4 Hari (Kulkas),/img/primarasa/PRD-PR-023.jpg,TRUE
+PRD-PR-024,BANDUNG,Brownies Kukus Coklat Dus,Prima Rasa,Brownies,"69,000",Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-024.jpg,TRUE
+PRD-PR-025,BANDUNG,Brownies Kukus Pandan Coklat Dus,Prima Rasa,Brownies,"79,000",Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-025.jpg,TRUE
+PRD-PR-026,BANDUNG,Rolltart Buah,Prima Rasa,Cake,"119,000",Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
+PRD-PR-027,BANDUNG,Roll Tart Selai Strawberry / Mocca,Prima Rasa,Cake,"109,000",Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-027.jpg,TRUE
+PRD-PR-028,BANDUNG,Roll Tart Mocca Raisin,Prima Rasa,Cake,"119,000",Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
+PRD-PR-029,BANDUNG,Roll Tart Selai Nanas,Prima Rasa,Cake,"109,000",Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-029.jpg,TRUE
+PRD-PR-030,BANDUNG,Roll Tart Pandan Keju,Prima Rasa,Cake,"119,000",Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-030.jpg,TRUE
+PRD-PR-031,BANDUNG,Roll Tart Coklat,Prima Rasa,Cake,"109,000",Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
+PRD-PR-032,BANDUNG,Roll Tart Kacang,Prima Rasa,Cake,"119,000",Wajib Kulkas / Tahan 3 Hari,,TRUE
+PRD-PR-033,BANDUNG,Roll Tart Taiwan,Prima Rasa,Cake,"159,000",Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
+PRD-PR-034,BANDUNG,Roll Tart Ketan Hitam,Prima Rasa,Cake,"79,000",Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-034.jpg,TRUE
+PRD-PR-035,BANDUNG,Commersy Madeleines,Prima Rasa,Cake,"109,000",Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
+PRD-PR-036,BANDUNG,Cake Tape Kotak (Kecil) (Almond/Keju),Prima Rasa,Cake,"59,000",Wajib Kulkas / Tahan 3 Hari,/img/primarasa/PRD-PR-036.jpg,TRUE
+PRD-PR-037,BANDUNG,Cake Tape Bulat,Prima Rasa,Cake,"149,000",Wajib Kulkas / Tahan 3 Hari,,TRUE
+PRD-PR-038,BANDUNG,Blueberry Cake Besar,Prima Rasa,Cake,"89,000",Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-038.jpg,TRUE
+PRD-PR-039,BANDUNG,Marmer Kukus Coklat,Prima Rasa,Cake,"59,000",Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-039.jpg,TRUE
+PRD-PR-040,BANDUNG,Banana Cake Primarasa,Prima Rasa,Cake,"59,000",Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-040.jpg,TRUE
+PRD-PR-041,BANDUNG,Chiffon Ketan Hitam,Prima Rasa,Cake,"89,000",Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-041.jpg,TRUE
+PRD-PR-042,BANDUNG,Bolu Pelangi,Prima Rasa,Cake,"46,500",Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-042.jpg,TRUE
+PRD-PR-043,BANDUNG,Banana Roll (Coklat/Keju/Pandan),Prima Rasa,Cake,"69,000",Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-043.jpg,TRUE
+PRD-PR-044,BANDUNG,Bolu Gulung Warna,Prima Rasa,Cake,"49,000",Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-044.jpg,TRUE
+PRD-PR-045,BANDUNG,Bolu Caramel Loyang Mini,Prima Rasa,Cake,"69,000",Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-045.jpg,TRUE
+PRD-PR-046,BANDUNG,Marmer Cake Bunga,Prima Rasa,Cake,"189,000",Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-046.jpg,TRUE
+PRD-PR-047,BANDUNG,Marmer Cake Panjang,Prima Rasa,Cake,"109,000",Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-047.jpg,TRUE
+PRD-PR-048,BANDUNG,Tart Kombinasi,Prima Rasa,Cake,"109,000",Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
+PRD-PR-049,BANDUNG,Kue Balok (Pandan/Coklat),Prima Rasa,Cake,"46,500",Tahan 2 Hari (Luar),/img/primarasa/PRD-PR-049.jpg,TRUE
+PRD-PR-050,BANDUNG,Lapis Philipine,Prima Rasa,Cake,"129,000",Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-050.jpg,TRUE
+PRD-PR-051,BANDUNG,Lapis Philipine Prunes,Prima Rasa,Cake,"139,000",Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-051.jpg,TRUE
+PRD-PR-052,BANDUNG,"Lapis Legit (Original, Pandan)",Prima Rasa,Cake,"309,000",Tahan 7 Hari (Luar) / 9 Hari (Kulkas),/img/primarasa/PRD-PR-052.jpg,TRUE
+PRD-PR-053,BANDUNG,Lapis Legit Coklat,Prima Rasa,Cake,"329,000",Tahan 7 Hari (Luar) / 9 Hari (Kulkas),/img/primarasa/PRD-PR-053.jpg,TRUE
+PRD-PR-054,BANDUNG,Lapis Legit Prunes,Prima Rasa,Cake,"329,000",Tahan 7 Hari (Luar) / 9 Hari (Kulkas),/img/primarasa/PRD-PR-054.jpg,TRUE
+PRD-PR-055,BANDUNG,Bolen Pisang Keju (520 gr),Prima Rasa,Bolen,"89,000",Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-055.jpg,TRUE
+PRD-PR-056,BANDUNG,Bolen Pisang Coklat (520 gr),Prima Rasa,Bolen,"89,000",Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-056.jpg,TRUE
+PRD-PR-057,BANDUNG,Bolen Pisang Coklat Keju (525 gr),Prima Rasa,Bolen,"89,000",Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-057.jpg,TRUE
+PRD-PR-058,BANDUNG,Bolen Tape – Peuyeum (520 gr),Prima Rasa,Bolen,"89,000",Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-058.jpg,TRUE
+PRD-PR-059,BANDUNG,Bolen Apel (525 gr),Prima Rasa,Bolen,"89,000",Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-059.jpg,TRUE
+PRD-PR-060,BANDUNG,Bolen Durian (530 gr),Prima Rasa,Bolen,"89,000",Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-060.jpg,TRUE
+PRD-PR-061,BANDUNG,Banana Crispy,Prima Rasa,Pastry,"89,000",Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-061.jpg,TRUE
+PRD-PR-062,BANDUNG,Pisang Lilit Kecil Polos,Prima Rasa,Pastry,"59,000",Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
+PRD-PR-063,BANDUNG,Pisang Lilit Kecil Coklat/Keju,Prima Rasa,Pastry,"69,000",Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
+PRD-PR-064,BANDUNG,Picnic Roll Ayam Besar (800 gr),Prima Rasa,Pastry,"109,000",Tahan 1 Hari (Luar) / 2 Hari (Kulkas),/img/primarasa/PRD-PR-064.jpg,TRUE
+PRD-PR-065,BANDUNG,Picnic Roll Sapi Besar (820 gr),Prima Rasa,Pastry,"109,000",Tahan 1 Hari (Luar) / 2 Hari (Kulkas),/img/primarasa/PRD-PR-065.jpg,TRUE
+PRD-PR-066,BANDUNG,Picnic Roll Ayam Kecil (400 gr),Prima Rasa,Pastry,"79,000",Tahan 1 Hari (Luar) / 2 Hari (Kulkas),/img/primarasa/PRD-PR-066.jpg,TRUE
+PRD-PR-067,BANDUNG,Picnic Roll Sapi Kecil (500 gr),Prima Rasa,Pastry,"79,000",Tahan 1 Hari (Luar) / 2 Hari (Kulkas),/img/primarasa/PRD-PR-067.jpg,TRUE
+PRD-PR-068,BANDUNG,Picnic Bolen Ayam,Prima Rasa,Bolen,"79,000",Tahan 1 Hari (Luar) / 2 Hari (Kulkas),/img/primarasa/PRD-PR-068.jpg,TRUE
+PRD-PR-069,BANDUNG,Picnic Bolen Sapi,Prima Rasa,Bolen,"79,000",Tahan 1 Hari (Luar) / 2 Hari (Kulkas),/img/primarasa/PRD-PR-069.jpg,TRUE
+PRD-PR-070,BANDUNG,Sausage Brood Spesial,Prima Rasa,Pastry,"48,500",Tahan 2 Hari (Luar) / 3 Hari (Kulkas),/img/primarasa/PRD-PR-070.jpg,TRUE
+PRD-PR-071,BANDUNG,Pastry Raugout Ayam,Prima Rasa,Pastry,"46,500",Tahan 2 Hari (Luar) / 3 Hari (Kulkas),/img/primarasa/PRD-PR-071.jpg,TRUE
+PRD-PR-072,BANDUNG,Cheese Roll (330 gr),Prima Rasa,Pastry,"79,000",Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-072.jpg,TRUE
+PRD-PR-073,BANDUNG,Choco Roll,Prima Rasa,Pastry,"79,000",Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-073.jpg,TRUE
+PRD-PR-074,BANDUNG,Cheese Choco Roll,Prima Rasa,Pastry,"89,000",Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-074.jpg,TRUE
+PRD-PR-075,BANDUNG,Cheese Stick Puff,Prima Rasa,Pastry,"89,000",Tahan 7 Hari (Luar) / 10 Hari (Kulkas),/img/primarasa/PRD-PR-075.jpg,TRUE
+PRD-PR-076,BANDUNG,Pastry Coklat,Prima Rasa,Pastry,"79,000",Tahan 7 Hari (Luar) / 10 Hari (Kulkas),/img/primarasa/PRD-PR-076.jpg,TRUE
+PRD-PR-077,BANDUNG,Apple Pie Kecil,Prima Rasa,Pastry,"119,000",Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
+PRD-PR-078,BANDUNG,Apple Pie Besar,Prima Rasa,Pastry,"159,000",Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
+PRD-PR-079,BANDUNG,Apple Strudle,Prima Rasa,Pastry,"59,000",Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-079.jpg,TRUE
+PRD-PR-080,BANDUNG,Aneka Pie Primarasa,Prima Rasa,Pastry,"33,500",Tahan 7 Hari (Luar) / 10 Hari (Kulkas),/img/primarasa/PRD-PR-080.jpg,TRUE
+PRD-PR-081,BANDUNG,Pie Susu Primarasa,Prima Rasa,Pastry,"59,000",Tahan 3 Hari (Luar) / 5 Hari (Kulkas),/img/primarasa/PRD-PR-081.jpg,TRUE
+PRD-PR-082,BANDUNG,Bagelan Manis (Dus 300 gr),Prima Rasa,Kue Kering,"119,000",Tahan 2 Bulan,/img/primarasa/PRD-PR-082.jpg,TRUE
+PRD-PR-083,BANDUNG,Bagelan Manis (Toples 270 gr),Prima Rasa,Kue Kering,"119,000",Tahan 2 Bulan,/img/primarasa/PRD-PR-083.jpg,TRUE
+PRD-PR-084,BANDUNG,Bagelan Manis (Tabung 185 gr),Prima Rasa,Kue Kering,"89,000",Tahan 2 Bulan,,TRUE
+PRD-PR-085,BANDUNG,Bagelan Keju (Dus 300 gr),Prima Rasa,Kue Kering,"119,000",Tahan 2 Bulan,/img/primarasa/PRD-PR-085.jpg,TRUE
+PRD-PR-086,BANDUNG,Bagelan Keju (Toples 265 gr),Prima Rasa,Kue Kering,"119,000",Tahan 2 Bulan,/img/primarasa/PRD-PR-086.jpg,TRUE
+PRD-PR-087,BANDUNG,Bagelan Keju (Tabung 190 gr),Prima Rasa,Kue Kering,"89,000",Tahan 2 Bulan,,TRUE
+PRD-PR-088,BANDUNG,Bagelan Garlic (190 gr),Prima Rasa,Kue Kering,"99,000",Tahan 2 Bulan,,TRUE
+PRD-PR-089,BANDUNG,Bagelan Mocca (260 gr),Prima Rasa,Kue Kering,"119,000",Tahan 2 Bulan,/img/primarasa/PRD-PR-089.jpg,TRUE
+PRD-PR-090,BANDUNG,Bagelen Pistachio,Prima Rasa,Kue Kering,"89,000",Tahan 1-2 Bulan,/img/primarasa/PRD-PR-090.jpg,TRUE
+PRD-PR-091,BANDUNG,Pastry Almond (Toples 290 gr),Prima Rasa,Kue Kering,"139,000",Tahan 2 Bulan,/img/primarasa/PRD-PR-091.jpg,TRUE
+PRD-PR-092,BANDUNG,Pastry Almond (Tabung 185 gr),Prima Rasa,Kue Kering,"109,000",Tahan 2 Bulan,/img/primarasa/PRD-PR-092.jpg,TRUE
+PRD-PR-093,BANDUNG,Pastry Keju (Toples 315 gr),Prima Rasa,Kue Kering,"159,000",Tahan 2 Bulan,/img/primarasa/PRD-PR-093.jpg,TRUE
+PRD-PR-094,BANDUNG,Pastry Keju (Tabung 185 gr),Prima Rasa,Kue Kering,"119,000",Tahan 2 Bulan,/img/primarasa/PRD-PR-094.jpg,TRUE
+PRD-PR-095,BANDUNG,Pastry Coklat Keju (Toples 320 gr),Prima Rasa,Kue Kering,"179,000",Tahan 2 Bulan,/img/primarasa/PRD-PR-095.jpg,TRUE
+PRD-PR-096,BANDUNG,Pastry Coklat Keju (Tabung 185 gr),Prima Rasa,Kue Kering,"119,000",Tahan 2 Bulan,/img/primarasa/PRD-PR-096.jpg,TRUE
+PRD-PR-097,BANDUNG,Pastry Choco Almond,Prima Rasa,Kue Kering,"119,000",Tahan 2 Bulan,/img/primarasa/PRD-PR-097.jpg,TRUE
+PRD-PR-098,BANDUNG,"Almond Slice (Ori, Coklat) (160 gr)",Prima Rasa,Kue Kering,"79,000",Tahan 2 Bulan,/img/primarasa/PRD-PR-098.jpg,TRUE
+PRD-PR-099,BANDUNG,Almond Slice (Greentea) (160 gr),Prima Rasa,Kue Kering,"89,000",Tahan 2 Bulan,/img/primarasa/PRD-PR-099.jpg,TRUE
+PRD-PR-100,BANDUNG,Finger Stick (145 gr),Prima Rasa,Kue Kering,"89,000",Tahan 2 Bulan,/img/primarasa/PRD-PR-100.jpg,TRUE
+PRD-PR-101,BANDUNG,Sweet Stick (175 gr),Prima Rasa,Kue Kering,"89,000",Tahan 2 Bulan,/img/primarasa/PRD-PR-101.jpg,TRUE
+PRD-PR-102,BANDUNG,Finger Cin-Cin (120 gr),Prima Rasa,Kue Kering,"89,000",Tahan 2 Bulan,/img/primarasa/PRD-PR-102.jpg,TRUE
+PRD-PR-103,BANDUNG,Cheese Stick Garlic (215 gr),Prima Rasa,Kue Kering,"89,000",Tahan 2 Bulan,/img/primarasa/PRD-PR-103.jpg,TRUE
+PRD-PR-104,BANDUNG,Soes Kering Tabung (140 gr),Prima Rasa,Kue Kering,"79,000",Tahan 2 Bulan,,TRUE
+PRD-PR-105,BANDUNG,Soes Kering Coklat Tabung,Prima Rasa,Kue Kering,"119,000",Tahan 2 Bulan,/img/primarasa/PRD-PR-105.jpg,TRUE
+PRD-PR-106,BANDUNG,Soes Stick Tabung (170 gr),Prima Rasa,Kue Kering,"79,000",Tahan 2 Bulan,/img/primarasa/PRD-PR-106.jpg,TRUE
+PRD-PR-107,BANDUNG,Soes Kering Pack,Prima Rasa,Kue Kering,"49,000",Tahan 2 Bulan,,TRUE
+PRD-PR-108,BANDUNG,Almond Biscoti (340 gr),Prima Rasa,Kue Kering,"119,000",Tahan 2 Bulan,/img/primarasa/PRD-PR-108.jpg,TRUE
+PRD-PR-109,BANDUNG,Bolu Stick (Kering) (190 gr),Prima Rasa,Kue Kering,"79,000",Tahan 2 Bulan,/img/primarasa/PRD-PR-109.jpg,TRUE
+PRD-PR-110,BANDUNG,Brownies Kering Almond (200 gr),Prima Rasa,Kue Kering,"99,000",Tahan 2 Bulan,/img/primarasa/PRD-PR-110.jpg,TRUE
+PRD-PR-111,BANDUNG,Bokkenpojtes Tabung (215 gr),Prima Rasa,Kue Kering,"89,000",Tahan 2 Bulan,/img/primarasa/PRD-PR-111.jpg,TRUE
+PRD-PR-112,BANDUNG,Lidah Kucing Keju (250 gr),Prima Rasa,Kue Kering,"119,000",Tahan 2 Bulan,,TRUE
+PRD-PR-113,BANDUNG,Cheese Twist,Prima Rasa,Kue Kering,"79,000",Tahan 2 Bulan,/img/primarasa/PRD-PR-113.jpg,TRUE
+PRD-PR-114,BANDUNG,Scumpyespink Putih,Prima Rasa,Kue Kering,"69,000",Tahan 2 Bulan,/img/primarasa/PRD-PR-114.jpg,TRUE
+PRD-PR-115,BANDUNG,Chocolate Wafel,Prima Rasa,Kue Kering,"99,000",Tahan 7 Hari (Luar) / 9 Hari (Kulkas),/img/primarasa/PRD-PR-115.jpg,TRUE
+PRD-PR-116,BANDUNG,Crofell,Prima Rasa,Kue Kering,"89,000",Tahan 14 Hari (Luar),/img/primarasa/PRD-PR-116.jpg,TRUE
+PRD-PR-117,BANDUNG,Putri Salju Putih Kecil,Prima Rasa,Kue Kering,"119,000",Tahan 2 Bulan,,TRUE
+PRD-PR-118,BANDUNG,Cheese Stick Spiral Besar,Prima Rasa,Kue Kering,"139,000",Tahan 2 Bulan,/img/primarasa/PRD-PR-118.jpg,TRUE
+PRD-PR-119,BANDUNG,Cheese Spiral 14 Cm,Prima Rasa,Kue Kering,"99,000",Tahan 2 Bulan,,TRUE
+PRD-PR-120,BANDUNG,Orange Biskoti,Prima Rasa,Kue Kering,"99,000",Tahan 2 Bulan,/img/primarasa/PRD-PR-120.jpg,TRUE
+PRD-PR-121,BANDUNG,Peanut Cookies,Prima Rasa,Kue Kering,"79,000",Tahan 2 Bulan,,TRUE
+PRD-PR-122,BANDUNG,Sultana Cookies,Prima Rasa,Kue Kering,"89,000",Tahan 2 Bulan,/img/primarasa/PRD-PR-122.jpg,TRUE
+PRD-PR-123,BANDUNG,Sagu Keju Sedang,Prima Rasa,Kue Kering,"79,000",Tahan 2 Bulan,/img/primarasa/PRD-PR-123.jpg,TRUE
+PRD-PR-124,BANDUNG,Nastar Polos PR (330 gr),Prima Rasa,Kue Kering,"179,000",Tahan 2 Bulan,/img/primarasa/PRD-PR-124.jpg,TRUE
+PRD-PR-125,BANDUNG,Nastar Kecil (190 gr),Prima Rasa,Kue Kering,"109,000",Tahan 2 Bulan,,TRUE
+PRD-PR-126,BANDUNG,Nastar Keju PR (310 gr),Prima Rasa,Kue Kering,"179,000",Tahan 2 Bulan,/img/primarasa/PRD-PR-126.jpg,TRUE
+PRD-PR-127,BANDUNG,Kastengel Toples,Prima Rasa,Kue Kering,"229,000",Tahan 2 Bulan,/img/primarasa/PRD-PR-127.jpg,TRUE
+PRD-PR-128,BANDUNG,Putri Salju PR,Prima Rasa,Kue Kering,"229,000",Tahan 2 Bulan,/img/primarasa/PRD-PR-128.jpg,TRUE
+PRD-PR-129,BANDUNG,Coffee Coklat PR,Prima Rasa,Kue Kering,"139,000",Tahan 2 Bulan,/img/primarasa/PRD-PR-129.jpg,TRUE
+PRD-PR-130,BANDUNG,Almond Crunchy,Prima Rasa,Kue Kering,"79,000",Tahan 2 Bulan,/img/primarasa/PRD-PR-130.jpg,TRUE
+PRD-PR-131,BANDUNG,Kacang Mede PR,Prima Rasa,Kue Kering,"119,000",Tahan 2 Bulan,,TRUE
+PRD-PR-132,BANDUNG,Lidah Kucing PR,Prima Rasa,Kue Kering,"129,000",Tahan 2 Bulan,,TRUE
+PRD-PR-133,BANDUNG,Nestum Mede Cookies,Prima Rasa,Kue Kering,"89,000",Tahan 2 Bulan,/img/primarasa/PRD-PR-133.jpg,TRUE
+PRD-PR-134,BANDUNG,Astor Tabung PR,Prima Rasa,Kue Kering,"32,500",Tahan 2 Bulan,/img/primarasa/PRD-PR-134.jpg,TRUE
+PRD-PR-135,BANDUNG,Semprit Cookies,Prima Rasa,Kue Kering,"79,000",Tahan 2 Bulan,,TRUE
+PRD-PR-136,BANDUNG,Basreng PR ( K640),Prima Rasa,Camilan,"26,000",Tahan 2 Bulan,,TRUE
+PRD-PR-137,BANDUNG,Samosa,Prima Rasa,Camilan,"49,000",Tahan 2 Bulan,,TRUE
+PRD-PR-138,BANDUNG,Kacang Bandung SPC,Prima Rasa,Camilan,"34,500",Tahan 2 Bulan,,TRUE
+PRD-PR-139,BANDUNG,Sumpia PR,Prima Rasa,Camilan,"46,500",Tahan 2 Bulan,,TRUE
+PRD-PR-140,BANDUNG,Macaroon PR,Prima Rasa,Kue Kering,"69,000",Tahan 2 Bulan,/img/primarasa/PRD-PR-140.jpg,TRUE
+PRD-PR-141,BANDUNG,Pisang Sale Manis (195 gr),Prima Rasa,Camilan,"36,500",Tahan 3 Bulan,,TRUE
+PRD-PR-142,BANDUNG,Tempe Goreng Ori (275 gr),Prima Rasa,Camilan,"32,000",Tahan 3 Bulan,,TRUE
+PRD-PR-143,BANDUNG,Tempe Oven (200 gr),Prima Rasa,Camilan,"42,000",Tahan 3 Bulan,,TRUE
+PRD-PR-144,BANDUNG,Basreng (200 gr),Prima Rasa,Camilan,"30,000",Tahan 2 Bulan,,TRUE
+PRD-PR-145,BANDUNG,Oncom Goreng,Prima Rasa,Camilan,"59,000",Tahan 3 Bulan,,TRUE
+PRD-PR-146,BANDUNG,Tempe Manis Pedas (375 gr),Prima Rasa,Camilan,"37,500",Tahan 3 Bulan,,TRUE
+PRD-PR-147,BANDUNG,Sale Pisang Keju (210 gr),Prima Rasa,Camilan,"47,500",Tahan 3 Bulan,,TRUE
+PRD-PR-148,BANDUNG,Telur Gabus Manis,Prima Rasa,Camilan,"49,000",Tahan 3 Bulan,,TRUE
+PRD-PR-149,BANDUNG,Telur Gabus Wijen,Prima Rasa,Camilan,"40,500",Tahan 3 Bulan,,TRUE
+PRD-PR-150,BANDUNG,Pia Lembang (Kc. Hijau),Prima Rasa,Kue Kering,"99,000",Tahan 1 Bulan,,TRUE
+PRD-PR-151,BANDUNG,Pia Lembang (Kombinasi),Prima Rasa,Kue Kering,"99,000",Tahan 1 Bulan,,TRUE
+PRD-PR-152,BANDUNG,Bagelan Basah Abadi,Prima Rasa,Kue Kering,"69,000",Tahan 3 Hari (Luar) / 5 Hari (Kulkas),,TRUE
+PRD-PR-153,BANDUNG,Bagelan Kering Abadi,Prima Rasa,Kue Kering,"89,000",Tahan 3 Bulan,,TRUE
+PRD-PR-154,BANDUNG,Bagelan Merdeka,Prima Rasa,Kue Kering,"69,000",Tahan 3 Bulan,,TRUE
+PRD-PR-155,BANDUNG,Kerupuk Kulit (120 gr),Prima Rasa,Camilan,"49,000",Tahan 3 Bulan,,TRUE
+PRD-PR-156,BANDUNG,Kecimpring (300 gr),Prima Rasa,Camilan,"36,500",Tahan 3 Bulan,,TRUE
+PRD-PR-157,BANDUNG,Selondok (275 gr),Prima Rasa,Camilan,"36,500",Tahan 3 Bulan,,TRUE
+PRD-PR-158,BANDUNG,Keripik Ubi Ungu,Prima Rasa,Camilan,"36,500",Tahan 3 Bulan,,TRUE
+PRD-PR-159,BANDUNG,Keripik Usus,Prima Rasa,Camilan,"40,000",Tahan 3 Bulan,,TRUE
+PRD-PR-160,BANDUNG,Potato Chip Tabung,Prima Rasa,Camilan,"49,000",Tahan 1 Bulan,,TRUE
+PRD-PR-161,BANDUNG,Grisini Tabung,Prima Rasa,Camilan,"79,000",Tahan 2 Bulan,,TRUE
+PRD-PR-162,BANDUNG,Sale Pisang Original (200 gr),Prima Rasa,Camilan,"46,500",Tahan 2 Bulan,,TRUE
+PRD-PR-163,BANDUNG,Sumpia/Pastel/Pangsit Kecil (250 gr),Prima Rasa,Camilan,"34,500",Tahan 3 Bulan,,TRUE
+PRD-PR-164,BANDUNG,Sumpia/Pastel/Pangsit Besar (500 gr),Prima Rasa,Camilan,"59,000",Tahan 3 Bulan,,TRUE
+PRD-PR-165,BANDUNG,Sale Jari (400 gr),Prima Rasa,Camilan,"46,500",Tahan 2 Bulan,,TRUE
+PRD-PR-166,BANDUNG,Rengginang Terasi,Prima Rasa,Camilan,"32,000",Tahan 2 Bulan,,TRUE
+PRD-PR-167,BANDUNG,Kripik Bayam,Prima Rasa,Camilan,"23,500",Tahan 2 Bulan,,TRUE
+PRD-PR-168,BANDUNG,Pia Bandung,Prima Rasa,Kue Kering,"59,000",Tahan 2 Bulan,,TRUE
+PRD-PR-169,BANDUNG,Cheese Stick Pack,Prima Rasa,Kue Kering,"48,500",Tahan 2 Bulan,,TRUE
+PRD-PR-170,BANDUNG,Kentang Jempol (225 gr),Prima Rasa,Camilan,"69,000",Tahan 3 Bulan,,TRUE
+PRD-CC-001,BANDUNG,Cheesecuit Mochi Filling (Reguler),Bandung Cheesecuit,Cheesecuit,"59,000",Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/11/Reguler-Sukabumi.png,TRUE
+PRD-CC-002,BANDUNG,Cheesecuit Pink Berry (Reguler),Bandung Cheesecuit,Cheesecuit,"59,000",Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/11/Reguler-Majalengka.png,TRUE
+PRD-CC-003,BANDUNG,Cheesecuit Sale Pisang (Reguler),Bandung Cheesecuit,Cheesecuit,"59,000",Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/09/Cheesecuit_Sale_Pisang__2_-removebg-preview.png,TRUE
+PRD-CC-004,BANDUNG,Cheesecuit Dodol (Reguler),Bandung Cheesecuit,Cheesecuit,"59,000",Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/09/Cheesecuit_dodol__1_-removebg-preview.png,TRUE
+PRD-CC-005,BANDUNG,Cheesecuit Campolay (Reguler),Bandung Cheesecuit,Cheesecuit,"59,000",Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/09/Cheesecuit_Campolay-removebg-preview.png,TRUE
+PRD-CC-006,BANDUNG,Cheesecuit Mangga (Reguler),Bandung Cheesecuit,Cheesecuit,"59,000",Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/09/Cheesecuit_Mangga__1_-removebg-preview.png,TRUE
+PRD-CC-007,BANDUNG,Cheesecuit Talas (Reguler),Bandung Cheesecuit,Cheesecuit,"59,000",Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/09/Cheesecuit_talas_bogor-removebg-preview.png,TRUE
+PRD-CC-008,BANDUNG,Cheesecuit Blueberry (Reguler),Bandung Cheesecuit,Cheesecuit,"59,000",Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/12/blueberry-3.webp,TRUE
+PRD-CC-009,BANDUNG,Cheesecuit Tiramisu (Reguler),Bandung Cheesecuit,Cheesecuit,"59,000",Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/12/tiramisu-1.webp,TRUE
+PRD-CC-010,BANDUNG,Cheesecuit Strawberry (Reguler),Bandung Cheesecuit,Cheesecuit,"59,000",Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/12/straw-1.webp,TRUE
+PRD-CC-011,BANDUNG,Cheesecuit Red Velvet (Reguler),Bandung Cheesecuit,Cheesecuit,"59,000",Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/02/red-valvet.png,TRUE
+PRD-CC-012,BANDUNG,Cheesecuit Mix Fruit (Reguler),Bandung Cheesecuit,Cheesecuit,"59,000",Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/09/mix-fruit-1.1.png,TRUE
+PRD-CC-013,BANDUNG,Cheesecuit Lotus Biscoff (Reguler),Bandung Cheesecuit,Cheesecuit,"59,000",Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/12/lotus-fix.webp,TRUE
+PRD-CC-014,BANDUNG,Cheesecuit Greentea (Reguler),Bandung Cheesecuit,Cheesecuit,"59,000",Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/02/greentea.png,TRUE
+PRD-CC-015,BANDUNG,Cheesecuit Bogel Mochi Filling,Bandung Cheesecuit,Cheesecuit,"25,500",Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/11/Bogel-Sukabumi.png,TRUE
+PRD-CC-016,BANDUNG,Cheesecuit Bogel Pink Berry,Bandung Cheesecuit,Cheesecuit,"25,500",Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/11/Bogel-Majalengka.png,TRUE
+PRD-CC-017,BANDUNG,Cheesecuit Bogel Sale Pisang,Bandung Cheesecuit,Cheesecuit,"25,500",Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/09/Cheesecuit_Bogel_Sale_Pisang__1_-removebg-preview.png,TRUE
+PRD-CC-018,BANDUNG,Cheesecuit Bogel Dodol,Bandung Cheesecuit,Cheesecuit,"25,500",Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/09/Cheesecuit_Bogel_dodol__1_-removebg-preview.png,TRUE
+PRD-CC-019,BANDUNG,Cheesecuit Bogel Campolay,Bandung Cheesecuit,Cheesecuit,"25,500",Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/09/Cheesecuit_Bogel_Campolay-removebg-preview.png,TRUE
+PRD-CC-020,BANDUNG,Cheesecuit Bogel Mangga,Bandung Cheesecuit,Cheesecuit,"25,500",Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/09/Cheesecuit_Bogel_Mangga__1_-removebg-preview.png,TRUE
+PRD-CC-021,BANDUNG,Cheesecuit Bogel Talas,Bandung Cheesecuit,Cheesecuit,"25,500",Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/09/Cheesecuit_Bogel_talas_bogor-removebg-preview.png,TRUE
+PRD-CC-022,BANDUNG,Cheesecuit Bogel Matcha,Bandung Cheesecuit,Cheesecuit,"25,500",Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/12/Matcha.png,TRUE
+PRD-CC-023,BANDUNG,Cheesecuit Bogel Blueberry,Bandung Cheesecuit,Cheesecuit,"25,500",Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/12/blueberry-1.png,TRUE
+PRD-CC-024,BANDUNG,Cheesecuit Bogel Tiramisu,Bandung Cheesecuit,Cheesecuit,"25,500",Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/12/tiramisu.webp,TRUE
+PRD-CC-025,BANDUNG,Cheesecuit Bogel Strawberry,Bandung Cheesecuit,Cheesecuit,"25,500",Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/12/straw.webp,TRUE
+PRD-CC-026,BANDUNG,Cheesecuit Bogel Red Velvet,Bandung Cheesecuit,Cheesecuit,"25,500",Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/02/red-velvet.png,TRUE
+PRD-CC-027,BANDUNG,Cheesecuit Bogel Mix Fruit,Bandung Cheesecuit,Cheesecuit,"25,500",Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/02/mix-fruit.png,TRUE
+PRD-CC-028,BANDUNG,Cheesecuit Bogel Lotus Biscoff,Bandung Cheesecuit,Cheesecuit,"25,500",Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/12/lotus.webp,TRUE
+PRD-CC-029,BANDUNG,Pudding Lasagna Mixfruit,Bandung Cheesecuit,Dessert Box,"32,500",Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/02/Bandung-Cheescuit-Lasagna-Mixfruit.webp,TRUE
+PRD-CC-030,BANDUNG,Pudding Lasagna Marshmallow,Bandung Cheesecuit,Dessert Box,"32,500",Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/02/Bandung-Cheescuit-Lasagna-Marshmallow.webp,TRUE
+PRD-CC-031,BANDUNG,Pudding Lasagna Choco Berry,Bandung Cheesecuit,Dessert Box,"32,500",Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/02/Bandung-Cheescuit-Lasagna-Choco-berry.webp,TRUE
+PRD-CC-032,BANDUNG,Pudding Lasagna Black Crumble,Bandung Cheesecuit,Dessert Box,"32,500",Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2024/02/Bandung-Cheescuit-Lasagna-Black-crumble.webp,TRUE
+PRD-CC-033,BANDUNG,Bongsor Red Velvet,Bandung Cheesecuit,Cheesecuit,"79,000",Wajib Kulkas / Tahan 2-3 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/09/Bongsor_Redvelvet__1_-removebg-preview.png,TRUE
+PRD-CC-034,BANDUNG,Brownies Longsor,Bandung Cheesecuit,Brownies,"79,000",Tahan 5-7 Hari,https://bandungcheesecuit.com/wp-content/uploads/2025/06/Brownies-Longsor.png,TRUE
+PRD-KS-001,BANDUNG,Pisang Bolen isi 6 - Bollen Pisang Keju Special,Kartika Sari,Bolen,"59,000",Tahan 3-4 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/qqhevoeeyidjrcyfbpwzcx_size_800_webp_1v15oTf.webp,TRUE
+PRD-KS-002,BANDUNG,Pisang Bolen isi 6 - Bollen Pisang Keju Coklat,Kartika Sari,Bolen,"59,000",Tahan 3-4 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/gbtpd2nlcvyk7pehwvoiyt_size_800_webp_vRaNvXQ.webp,TRUE
+PRD-KS-003,BANDUNG,Pisang Bolen - Keju Special - REGULAR,Kartika Sari,Bolen,"89,000",Tahan 3-4 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/8/ut36tu56efyeag8zusf3oy_size_800_webp_Si2Qdte.webp,TRUE
+PRD-KS-004,BANDUNG,Pisang Bolen - Cokelat Keju - REGULAR,Kartika Sari,Bolen,"89,000",Tahan 3-4 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/s2u885wmhsgxfuslh5btaf_size_800_webp.webp,TRUE
+PRD-KS-005,BANDUNG,Durian Keju Bolen,Kartika Sari,Bolen,"89,000",Tahan 3-4 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/ngcshocfs2cjjfzpk5p5gw_size_800_webp.webp,TRUE
+PRD-KS-006,BANDUNG,Peyeum Keju Bolen,Kartika Sari,Bolen,"89,000",Tahan 3-4 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/l37hm9gwajsjesitm5lyax_size_800_webp_Su1adlp.webp,TRUE
+PRD-KS-007,BANDUNG,Brownies Kukus - Adinda,Kartika Sari,Brownies,"89,000",Tahan 5-7 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/7kcdyzccj8jky4hecxgfvd_size_800_webp_ZXyDuyB.webp,TRUE
+PRD-KS-008,BANDUNG,Brownies Kukus - Ketan Hitam,Kartika Sari,Brownies,"99,000",Tahan 5-7 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/d8zupsfo4mamdtx7qkqrzb_size_800_webp.webp,TRUE
+PRD-KS-009,BANDUNG,Brownies Kukus - Keju,Kartika Sari,Brownies,"99,000",Tahan 5-7 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/ewkrt5bnqvuhi5rebgrf9a_size_800_webp_1UsDDSJ.webp,TRUE
+PRD-KS-010,BANDUNG,Brownies Kukus - Pandan,Kartika Sari,Brownies,"99,000",Tahan 5-7 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/8/sq8yqf7jhmsrsiyeaffx2r_size_800_webp_lcSxp7J.webp,TRUE
+PRD-KS-011,BANDUNG,Brownies Kukus - Marble,Kartika Sari,Brownies,"99,000",Tahan 5-7 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/3c3vjxyd6hkwphaqczb3ys_size_800_webp_Qpbbsl9.webp,TRUE
+PRD-KS-012,BANDUNG,Brownies Kukus - Tiramisu,Kartika Sari,Brownies,"99,000",Tahan 5-7 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/6ezxwgzjlxqwtkycri9sfw_size_800_webp_q7npxfr.webp,TRUE
+PRD-KS-013,BANDUNG,Brownies Gulung - Coklat,Kartika Sari,Brownies,"69,000",Tahan 5-7 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/ygommcvxrtnshacwzvcs2p_size_800_webp_rs3CTUX.webp,TRUE
+PRD-KS-014,BANDUNG,Brownies Gulung - Kacang,Kartika Sari,Brownies,"69,000",Tahan 5-7 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/hxcpscagby6mnk9ufz8rit_size_800_webp_ws3UJh8.webp,TRUE
+PRD-KS-015,BANDUNG,Brownies Gulung - Keju,Kartika Sari,Brownies,"69,000",Tahan 5-7 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/8/k9pfh5hpyhychu8iihvvm6_size_800_webp_RSqmN3P.webp,TRUE
+PRD-KS-016,BANDUNG,Brownies Kunafa Pistachio,Kartika Sari,Brownies,"199,000",Tahan 5-7 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2026/9/17/e2upyjv3jgpoqtjnafm9jx_size_800_webp.webp,TRUE
+PRD-KS-017,BANDUNG,Brownies Panggang - Original,Kartika Sari,Brownies,"119,000",Tahan 5-7 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/lojmb5ts8qnb6x3y4cmm3j_size_800_webp_Z6W2Cko.webp,TRUE
+PRD-KS-018,BANDUNG,Brownies Panggang - Choco Chips,Kartika Sari,Brownies,"129,000",Tahan 5-7 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/55e8hplyvwcdcvpwzxaxv2_size_800_webp_p7VKtXG.webp,TRUE
+PRD-KS-019,BANDUNG,Brownies Panggang - Special Keju,Kartika Sari,Brownies,"139,000",Tahan 5-7 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/jsruv64ktdqylerzgzatdx_size_800_webp_VrU7CCe.webp,TRUE
+PRD-KS-020,BANDUNG,Brownies Trio,Kartika Sari,Brownies,"139,000",Tahan 5-7 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/ptoevcfszyzmdftmxca4zj_size_800_webp.webp,TRUE
+PRD-KS-021,BANDUNG,Brownies Panggang - Special Tiramisu,Kartika Sari,Brownies,"139,000",Tahan 5-7 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/8/slwuehjizsqznzweshk2cg_size_800_webp.webp,TRUE
+PRD-KS-022,BANDUNG,Brownies Panggang - Raisin,Kartika Sari,Brownies,"129,000",Tahan 5-7 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/r6fwmuwc8vjka4yjbzjbwj_size_800_webp_RpVkjdT.webp,TRUE
+PRD-KS-023,BANDUNG,Brownies Panggang - Mede,Kartika Sari,Brownies,"139,000",Tahan 5-7 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/sclpv9fcldkn63j3rpq3pb_size_800_webp_SYERM4E.webp,TRUE
+PRD-KS-024,BANDUNG,Brownies Panggang - Special Mocca,Kartika Sari,Brownies,"129,000",Tahan 5-7 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/8tjdwgrvnwt2w4a4lpeumd_size_800_webp_i3JV0xu.webp,TRUE
+PRD-KS-025,BANDUNG,Banana Crispy,Kartika Sari,Pastry,"89,000",Tahan 3-4 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/eoqs3trsndat3smrxn7nik_size_800_webp_FKZYvAx.webp,TRUE
+PRD-KS-026,BANDUNG,Banana Crispy Mini,Kartika Sari,Pastry,"79,000",Tahan 3-4 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/4/qg7qwmjwznlabwvddjxuc8_size_800_webp_NLLjOU1.webp,TRUE
+PRD-KS-027,BANDUNG,Choco Roll,Kartika Sari,Pastry,"79,000",Tahan 3-4 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/4/rc9bmwdwhdgqrktxddajxv_size_800_webp_X03AaKR.webp,TRUE
+PRD-KS-028,BANDUNG,Cheese Roll,Kartika Sari,Pastry,"89,000",Tahan 3-4 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/mdtzs6tgyxvbhpv7csscfa_size_800_webp_bcxgB0d.webp,TRUE
+PRD-KS-029,BANDUNG,Choco Pastry,Kartika Sari,Pastry,"89,000",Tahan 3-4 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/gogtqtopstmaovyvgjlf9e_size_800_webp_ycWthNc.webp,TRUE
+PRD-KS-030,BANDUNG,Cheese Stick,Kartika Sari,Pastry,"89,000",Tahan 3-4 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/8/upzn8brqmjktjmgtrxtmln_size_800_webp_Mgi1CRv.webp,TRUE
+PRD-KS-031,BANDUNG,Banana Roll Pandan,Kartika Sari,Cake,"79,000",Tahan 5-7 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/dzfjzlygpd2nfkhfq5oudc_size_800_webp_WScsAns.webp,TRUE
+PRD-KS-032,BANDUNG,Proll Tape 1/3 LY,Kartika Sari,Cake,"89,000",Tahan 5-7 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/4/iktgjcpoytwysi2a8rc2ec_size_800_webp_tpYyCbK.webp,TRUE
+PRD-KS-033,BANDUNG,Lapis Legit Prunes,Kartika Sari,Cake,"379,000",Tahan 5-7 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/8/js3fjavwlsrnjbatt96kgy_size_800_webp.webp,TRUE
+PRD-KS-034,BANDUNG,Lapis Legit Tikar,Kartika Sari,Cake,"379,000",Tahan 5-7 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/bcffabuhhgmezqhmbpspoe_size_800_webp_xkGNze6.webp,TRUE
+PRD-KS-035,BANDUNG,Lapis Philipine Pandan,Kartika Sari,Cake,"189,000",Tahan 5-7 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2026/5/12/wc8tyy7dkjehlzhavakf42_size_800_webp.webp,TRUE
+PRD-KS-036,BANDUNG,Lapis Philipine Coklat,Kartika Sari,Cake,"189,000",Tahan 5-7 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/c3jnlw6tcgr3pytmmsgrqn_size_800_webp.webp,TRUE
+PRD-KS-037,BANDUNG,Lapis Legit Roll Original,Kartika Sari,Cake,"209,000",Tahan 5-7 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/9/5prmvrkwopk69ckbtcqwng_size_800_webp.webp,TRUE
+PRD-KS-038,BANDUNG,Lapis Legit Prunes Roll,Kartika Sari,Cake,"229,000",Tahan 5-7 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/cpobwzeh538akvzq9xfrcf_size_800_webp_9QNAxEN.webp,TRUE
+PRD-KS-039,BANDUNG,Lapis Malang,Kartika Sari,Cake,"219,000",Tahan 5-7 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/9pu5dekp2epg2y5dmyldc4_size_800_webp.webp,TRUE
+PRD-KS-040,BANDUNG,Marmer Cake 1/3,Kartika Sari,Cake,"119,000",Tahan 5-7 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/4/lwa4ykwtepmxnsmr9qwjct_size_800_webp.webp,TRUE
+PRD-KS-041,BANDUNG,Banana Cake Original,Kartika Sari,Cake,"109,000",Tahan 5-7 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/566yghfwcxceqcuceiseuv_size_800_webp_2GcYSON.webp,TRUE
+PRD-KS-042,BANDUNG,Banana Cake Coklat,Kartika Sari,Cake,"109,000",Tahan 5-7 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/vnntgeu5nohossrndahgds_size_800_webp_OY3Daku.webp,TRUE
+PRD-KS-043,BANDUNG,Rolltart Vanilla,Kartika Sari,Cake,"109,000",Tahan 5-7 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2026/9/23/dpoyzcp95akqwcmlor7rtf_size_800_webp.webp,TRUE
+PRD-KS-044,BANDUNG,Rolltart Strawberry,Kartika Sari,Cake,"109,000",Tahan 5-7 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2026/9/23/symz87d3s5kvzv2xmzrjfq_size_800_webp.webp,TRUE
+PRD-KS-045,BANDUNG,Rolltart Mocha,Kartika Sari,Cake,"109,000",Tahan 5-7 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2026/9/23/bztsquee3sadn56peblzsj_size_800_webp.webp,TRUE
+PRD-KS-046,BANDUNG,Chiffon Cake - Ketan Hitam,Kartika Sari,Cake,"99,000",Tahan 5-7 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/jhidtqup6vnwfunkgmsejz_size_800_webp.webp,TRUE
+PRD-KS-047,BANDUNG,Pie Susu Keju,Kartika Sari,Pastry,"59,000",Tahan 3-4 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/8/8epeviiducmcteqfnjn8ae_size_800_webp_xJ61b8F.webp,TRUE
+PRD-KS-048,BANDUNG,Pie Susu Tiramisu,Kartika Sari,Pastry,"59,000",Tahan 3-4 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/8/p9685pq9v2j8y6xzqjqpmx_size_800_webp_9i5bb78.webp,TRUE
+PRD-KS-049,BANDUNG,Pineapple Pie Cup,Kartika Sari,Pastry,"49,000",Tahan 3-4 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2026/9/17/8xu765kpz5avl3ofjqvcc7_size_800_webp_HcRf5hi.webp,TRUE
+PRD-KS-050,BANDUNG,Apple Pie Cup,Kartika Sari,Pastry,"49,000",Tahan 3-4 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2026/9/17/fdwri4x6r6yqrktpdesayv_size_800_webp_L1CMWsL.webp,TRUE
+PRD-KS-051,BANDUNG,Bagelen Assorted Flavors 155 Gram,Kartika Sari,Kue Kering,"89,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/cyyturhhhpz9af9qoaaxfc_size_800_webp_lESfwRL.webp,TRUE
+PRD-KS-052,BANDUNG,Bagelen Butter,Kartika Sari,Kue Kering,"89,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/4/k5rdxkgwhwnuqky6jkv7yc_size_800_webp_0vobPTd.webp,TRUE
+PRD-KS-053,BANDUNG,Bagelen Cheese,Kartika Sari,Kue Kering,"89,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/8/zvknecebedh3uwzzaozxv4_size_800_webp_gy6cjZf.webp,TRUE
+PRD-KS-054,BANDUNG,Bagelen Almond,Kartika Sari,Kue Kering,"89,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/4/kgdhb8bwmeggtyw66ejtua_size_800_webp_fJpeLb2.webp,TRUE
+PRD-KS-055,BANDUNG,Bagelen Mocha,Kartika Sari,Kue Kering,"89,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/4/ngantdyuznta7rudittccz_size_800_webp_FzPP3WY.webp,TRUE
+PRD-KS-056,BANDUNG,Soes Kering Keju,Kartika Sari,Kue Kering,"59,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/8/hbng5jvbhuvmgssgfpef8k_size_800_webp_63ua14s.webp,TRUE
+PRD-KS-057,BANDUNG,Soes Cream Cokelat Hazel Pouch,Kartika Sari,Kue Kering,"49,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/8/djxppmxmsfaw7p9ku4hl5h_size_800_webp_Ru6KXsa.webp,TRUE
+PRD-KS-058,BANDUNG,Soes Cream Cheese Pouch,Kartika Sari,Kue Kering,"37,500",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/9/7vdduwstfouuqbi357hbxf_size_800_webp.webp,TRUE
+PRD-KS-059,BANDUNG,Soes Cream Yogurt Strawberry Pouch,Kartika Sari,Kue Kering,"37,500",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/9/bxmmkldfrcev5gp4h6ih9a_size_800_webp.webp,TRUE
+PRD-KS-060,BANDUNG,Soes Cream Chocolate Hazel Tin,Kartika Sari,Kue Kering,"79,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/8/bghv9w87ee7lyj2mnkdbiv_size_800_webp_IH6eFSw.webp,TRUE
+PRD-KS-061,BANDUNG,Soes Cream Cheese Tin,Kartika Sari,Kue Kering,"59,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/9/ghfzpxnfjdrnmtsep4p6tu_size_800_webp.webp,TRUE
+PRD-KS-062,BANDUNG,Soes Cream Yogurt Strawberry Can,Kartika Sari,Kue Kering,"59,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/9/tftcaoymuvpltkixuxxrih_size_800_webp_b0QO8kG.webp,TRUE
+PRD-KS-063,BANDUNG,Toast Bread Butter 142.4 Gram,Kartika Sari,Kue Kering,"59,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2026/1/15/g7ozmx9wknf9cq2mtg6yqi_size_800_webp_LQSbQhK.webp,TRUE
+PRD-KS-064,BANDUNG,Toast Bread Chocolate 201.2 Gram,Kartika Sari,Kue Kering,"69,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2026/1/15/6c4midv8uowaxryh5opy9u_size_800_webp_PBuB3VQ.webp,TRUE
+PRD-KS-065,BANDUNG,"Almond Cookies 120,4 Gram",Kartika Sari,Kue Kering,"79,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/8/vnyxxmvfdy9zwnijp2kymv_size_800_webp_IH4D9WC.webp,TRUE
+PRD-KS-066,BANDUNG,Cheese Bites 90 Gram,Kartika Sari,Kue Kering,"79,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2026/10/1/qnjgvxn9gddsxkmn4irues_size_800_webp_BUlCQb6.webp,TRUE
+PRD-KS-067,BANDUNG,Crispy Toast Vanilla Tabung,Kartika Sari,Kue Kering,"59,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/4/nrbnhtsfvottjuj9bk6heq_size_800_webp_o65kGxb.webp,TRUE
+PRD-KS-068,BANDUNG,Choco Stick,Kartika Sari,Kue Kering,"79,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/9/dk7cat6pgvclc78bnctsjh_size_800_webp_MXx6JRe.webp,TRUE
+PRD-KS-069,BANDUNG,Wafer Coklat Kartika Sari,Kartika Sari,Kue Kering,"99,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2026/1/15/c5sbwurjltwqxnajf9bfkz_size_800_webp_Li654YF.webp,TRUE
+PRD-KS-070,BANDUNG,Naastart Cookies,Kartika Sari,Kue Kering,"249,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/4/b9kyaafuj2cbdfj4cjvahb_size_800_webp_6EmPiOI.webp,TRUE
+PRD-KS-071,BANDUNG,Naastart Keju Cookies,Kartika Sari,Kue Kering,"249,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/4/t8vqfmzbab79atf8s3wa7y_size_800_webp_a8KDy4V.webp,TRUE
+PRD-KS-072,BANDUNG,Kaastengels Cookies,Kartika Sari,Kue Kering,"269,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/4/rx6mzbsxnyp5w6lubxfqdc_size_800_webp_UOfftYH.webp,TRUE
+PRD-KS-073,BANDUNG,Lidah Kucing,Kartika Sari,Kue Kering,"209,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/4/wialrjyvt2wrrdeaqaxyrw_size_800_webp_SjRtf2L.webp,TRUE
+PRD-KS-074,BANDUNG,Almond Cookies,Kartika Sari,Kue Kering,"229,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/6gvwlbipytx3ab5sukchwy_size_800_webp_p6hfxau.webp,TRUE
+PRD-KS-075,BANDUNG,Cinnamon Stick,Kartika Sari,Kue Kering,"89,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2026/9/17/kv734rbhey2awn35yabvpm_size_800_webp.webp,TRUE
+PRD-KS-076,BANDUNG,Naastart Original 10x10,Kartika Sari,Kue Kering,"169,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/9/jvu8tbxewqtkkirue2dkfk_size_800_webp_Lxe3iRQ.webp,TRUE
+PRD-KS-077,BANDUNG,Kaastengel Kotak 10x10,Kartika Sari,Kue Kering,"169,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/9/rhbr8ahtrws847bnb7aawh_size_800_webp_ndcPFIn.webp,TRUE
+PRD-KS-084,BANDUNG,Bandrek Bandung Braga Extra Hot,Kartika Sari,Camilan,"49,500",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/7djbtu33kgmwny4konrrr5_size_800_webp_hqAv9BD.webp,TRUE
+PRD-KS-085,BANDUNG,Bandrek Bandung Braga Regular,Kartika Sari,Camilan,"45,500",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/vr3d6pefblq8lbvlsvtt7z_size_800_webp_olgoF59.webp,TRUE
+PRD-KS-086,BANDUNG,Seblak Instan Sehati,Kartika Sari,Camilan,"21,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/gnrqv9encm3hjvfjtrfzmh_size_800_webp_E9GX6RI.webp,TRUE
+PRD-KS-087,BANDUNG,Cuanki Express,Kartika Sari,Camilan,"34,500",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/eycxrxlq3uguneqownv7xk_size_800_webp.webp,TRUE
+PRD-KS-088,BANDUNG,Mie Seblak Geprek Sami Raos,Kartika Sari,Camilan,"46,500",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/ac9joyazcqqpqzgmk9fdtb_size_800_webp_KhJp9tU.webp,TRUE
+PRD-KS-089,BANDUNG,Dodol Picnic SP,Kartika Sari,Camilan,"59,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/hz5tkracchdtfom5qr6exn_size_800_webp.webp,TRUE
+PRD-KS-090,BANDUNG,Dodol Susu SPC TK,Kartika Sari,Camilan,"41,500",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/uzbbhptn5t6gcvthh7xyh9_size_800_webp.webp,TRUE
+PRD-KS-091,BANDUNG,Dodol Wijen Bestory,Kartika Sari,Camilan,"32,500",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/gm6uf7ds44dxhnqtfjeo5t_size_800_webp.webp,TRUE
+PRD-KS-092,BANDUNG,Telur Gabus Keju Tabung,Kartika Sari,Camilan,"99,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/9/2bcpgtehqtbolrvgdxvbsc_size_800_webp_2SDBRzN.webp,TRUE
+PRD-KS-093,BANDUNG,Telur Gabus Keju TDY,Kartika Sari,Camilan,"49,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/9h9rcmqpgonnlz85ndkqpk_size_800_webp_0yS590R.webp,TRUE
+PRD-KS-094,BANDUNG,Telur Gabus Aaa,Kartika Sari,Camilan,"89,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/9/ykhhdn7mcvsxu7ys4xzfsr_size_800_webp.webp,TRUE
+PRD-KS-095,BANDUNG,Seblak Koin,Kartika Sari,Camilan,"32,500",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/bgbkehpmzbnjm8abyhva99_size_800_webp_zPgjIQo.webp,TRUE
+PRD-KS-096,BANDUNG,Stick Kentang NET,Kartika Sari,Camilan,"26,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/4wpauclxnqorjf8heoralr_size_800_webp.webp,TRUE
+PRD-KS-097,BANDUNG,Kerupuk Jaat,Kartika Sari,Camilan,"32,500",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/dhmhlsvxszv5mdvwtspcdz_size_800_webp_HUcCwt7.webp,TRUE
+PRD-KS-098,BANDUNG,Kerupuk Paru SS,Kartika Sari,Camilan,"89,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/ncm2pprdh7rrndgshbsupn_size_800_webp.webp,TRUE
+PRD-KS-099,BANDUNG,Kerupuk Sumpia Udang SS,Kartika Sari,Camilan,"48,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/9/7ecnrudsejx2tpbewhjpuq_size_800_webp_LxVbvRn.webp,TRUE
+PRD-KS-100,BANDUNG,Keripik Belut Indorasa,Kartika Sari,Camilan,"59,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/bzbtphbuksh6trubx3jgys_size_800_webp.webp,TRUE
+PRD-KS-101,BANDUNG,Kentang Putih Cap Jempol,Kartika Sari,Camilan,"99,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/wyhgclmhtktoyabb6y6kuu_size_800_webp.webp,TRUE
+PRD-KS-102,BANDUNG,Kentang Putih B SS,Kartika Sari,Camilan,"89,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/9/dqh3kotpdjjabecoyk9pfj_size_800_webp.webp,TRUE
+PRD-KS-103,BANDUNG,Kentang Putih Sari Rasa,Kartika Sari,Camilan,"99,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/9/irywfagqfzs6wdr22vihng_size_800_webp_8FFXQ8d.webp,TRUE
+PRD-KS-104,BANDUNG,Kerupuk Basreng Original - Sari Rasa,Kartika Sari,Camilan,"49,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/9/3npc2xj4xsp32p9f3fyo6z_size_800_webp_cljsiG6.webp,TRUE
+PRD-KS-105,BANDUNG,Kerupuk Basreng Pedas - Sari Rasa,Kartika Sari,Camilan,"59,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/hitp6cvrs4gqwkomwfsuy3_size_800_webp.webp,TRUE
+PRD-KS-106,BANDUNG,Kerupuk Basreng VS,Kartika Sari,Camilan,"45,500",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/h2gdfwyausc883x9hbvxma_size_800_webp.webp,TRUE
+PRD-KS-107,BANDUNG,Tempe Kotak SS,Kartika Sari,Camilan,"69,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/dyuxex3twgijcm8jnvzp9s_size_800_webp_D3hOwfb.webp,TRUE
+PRD-KS-108,BANDUNG,Tempe Kotak Manis Pedas SS,Kartika Sari,Camilan,"69,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/fk2juzwjsqauhy6wel8w7q_size_800_webp.webp,TRUE
+PRD-KS-109,BANDUNG,Tempe Sagu SS,Kartika Sari,Camilan,"69,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/7owbrpicesjxwa9us2txfe_size_800_webp_tdakrqY.webp,TRUE
+PRD-KS-110,BANDUNG,Keripik Tempe Original Kotak - Sari Rasa,Kartika Sari,Camilan,"59,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/mjcbmiwtyoxpbrc8pz6ua6_size_800_webp_mCFEjG9.webp,TRUE
+PRD-KS-111,BANDUNG,Keripik Tempe Pedas Manis - Sari Rasa,Kartika Sari,Camilan,"59,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/uj9vrfy2keabwn9hi6d7sk_size_800_webp_xtjN426.webp,TRUE
+PRD-KS-112,BANDUNG,Keripik Tempe Original Bulat - Sari Rasa,Kartika Sari,Camilan,"59,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/ebguuw6xmzwbpftv668gue_size_800_webp_pZQHHOE.webp,TRUE
+PRD-KS-113,BANDUNG,Keripik Tempe Mentega - Sari Rasa,Kartika Sari,Camilan,"49,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/94jv33xptjpkgf3qnuawi5_size_800_webp_daSIYGn.webp,TRUE
+PRD-KS-114,BANDUNG,Sale Pisang Jari YY,Kartika Sari,Camilan,"59,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/bp9whgclgtvq7yv3gme4zw_size_800_webp.webp,TRUE
+PRD-KS-115,BANDUNG,Sale Pisang Keju SS,Kartika Sari,Camilan,"59,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/ewq7nefld44tohh4e3hdhx_size_800_webp_kf4L1jM.webp,TRUE
+PRD-KS-116,BANDUNG,Sale Pisang Lidah YY,Kartika Sari,Camilan,"36,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/9/d7slpmlaage8x3ngflwhwr_size_800_webp_AhCAq9j.webp,TRUE
+PRD-KS-117,BANDUNG,Sale Pisang Crispy VS,Kartika Sari,Camilan,"49,500",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/be3x3z7j4wwena7gyzwzm6_size_800_webp_Zji534t.webp,TRUE
+PRD-KS-118,BANDUNG,Sale Pisang Suka Senang,Kartika Sari,Camilan,"38,500",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/hpayckvguqzpaednsywrwt_size_800_webp.webp,TRUE
+PRD-KS-119,BANDUNG,Pisang Bolen - Keju Special - BESAR,Kartika Sari,Bolen,"109,000",Tahan 3-4 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/4/8sueedf2h75dhdrp4grgby_size_800_webp_V8Nz1Nq.webp,TRUE
+PRD-KS-120,BANDUNG,Pisang Bolen - Cokelat Keju - BESAR,Kartika Sari,Bolen,"119,000",Tahan 3-4 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/4/4zgewmdoveqzjffennsn8f_size_800_webp_nvprxkE.webp,TRUE
+PRD-KS-121,BANDUNG,Banana Roll Keju,Kartika Sari,Cake,"79,000",Tahan 5-7 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/btshemkiebpw9ucqmkuvvc_size_800_webp_A3eUQtX.webp,TRUE
+PRD-KS-122,BANDUNG,Pie Susu Strawberry Chocolate,Kartika Sari,Pastry,"59,000",Tahan 3-4 Hari,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/8/ht4idxwp7p5tglexuwrgxh_size_800_webp_HjbDF62.webp,TRUE
+PRD-KS-123,BANDUNG,Keripik Cimpring Bawang Original,Kartika Sari,Camilan,"38,500",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/ftpn3hw4aekbl5igfsqihm_size_800_webp_LffiPIs.webp,TRUE
+PRD-KS-124,BANDUNG,Sale Pisang Lidah Super SS,Kartika Sari,Camilan,"49,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/x5rqskzkrdlph3ewwfmsba_size_800_webp.webp,TRUE
+PRD-KS-125,BANDUNG,Sale Pisang Lidah SS,Kartika Sari,Camilan,"46,500",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/3/5nxjuhtsxbds7ikedrdzqc_size_800_webp_8RC2RBb.webp,TRUE
+PRD-KS-126,BANDUNG,Keripik Pisang Madu,Kartika Sari,Camilan,"48,000",Tahan 1-2 Bulan,https://omni-kartikasari.stamps.id/media/thumb/product_photo/2025/12/9/ekqfepasozmxdxwfa9xszq_size_800_webp_Eecwok5.webp,TRUE
+PRD-HM-86019,HOMEMADE,Risol Mayo Frozen (Isi 10),Homemade,Risol & Camilan,"25,000",,https://drive.google.com/thumbnail?id=1XJhXjFZ0jmFuwqRf8CXqsBkd_ZYvA33L&sz=w800,TRUE
+PRD-HM-19514,HOMEMADE,Jamu Kunyit Asem,Homemade,Risol & Camilan,"20,000",,https://drive.google.com/thumbnail?id=1yEg_RNEBy_65gZl-qMJHaY6BbZs5lQ-Q&sz=w800,TRUE
+PRD-HM-001,HOMEMADE,Batagor Super Asin & Pedas (150 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-001.jpg,TRUE
+PRD-HM-002,HOMEMADE,Talas Sapi Panggang (200 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-002.jpg,TRUE
+PRD-HM-003,HOMEMADE,Usus Ayam Pedas & Asin (150 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-003.jpg,TRUE
+PRD-HM-004,HOMEMADE,Singkong Keju Balado (250 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-004.jpg,TRUE
+PRD-HM-005,HOMEMADE,Singkong Bumbu Ayam Lada Hitam & Sambal Jeruk Balado (200 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-005.jpg,TRUE
+PRD-HM-006,HOMEMADE,Basreng Stik Balado & Asin Jeruk (200 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-006.jpg,TRUE
+PRD-HM-007,HOMEMADE,Tempe Sagu (200 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-007.jpg,TRUE
+PRD-HM-008,HOMEMADE,Cimol Jeruk Asin & Pedas Cikruh (200 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-008.jpg,TRUE
+PRD-HM-009,HOMEMADE,Basreng Sambal Jeruk (200 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-009.jpg,TRUE
+PRD-HM-010,HOMEMADE,Makaroni Bantat Jeruk Balado & Asin (250 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-010.jpg,TRUE
+PRD-HM-011,HOMEMADE,Snack Terompet Balado & Keju (250 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-011.jpg,TRUE
+PRD-HM-012,HOMEMADE,Sale Lidah Keju (200 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-012.jpg,TRUE
+PRD-HM-013,HOMEMADE,Kacang Koro Balado & Asin (250 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-013.jpg,TRUE
+PRD-HM-014,HOMEMADE,Kentang Iris Keju & Jagung Bakar,Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-014.jpg,TRUE
+PRD-HM-015,HOMEMADE,Pisang Manis (200 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-015.jpg,TRUE
+PRD-HM-016,HOMEMADE,Noga Kacang (250 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-016.jpg,TRUE
+PRD-HM-017,HOMEMADE,"Agar Jelly Inaco (300 gr, 20 pcs)",Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-017.jpg,TRUE
+PRD-HM-018,HOMEMADE,Sumpiah Udang (250 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-018.jpg,TRUE
+PRD-HM-019,HOMEMADE,"Bolu Kering Rege, Mangkok & Smile (200 gr)",Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-019.jpg,TRUE
+PRD-HM-020,HOMEMADE,Kolontong Ketan Manis (200 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-020.jpg,TRUE
+PRD-HM-021,HOMEMADE,Seblak Bantat Rafael (250 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-021.jpg,TRUE
+PRD-HM-022,HOMEMADE,Sale Lumpia (Pisang Aroma) (200 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-022.jpg,TRUE
+PRD-HM-023,HOMEMADE,Astor Long Valeo (200 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-023.jpg,TRUE
+PRD-HM-024,HOMEMADE,Soes Coklat Micky (150 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-024.jpg,TRUE
+PRD-HM-025,HOMEMADE,Seblak Mie Kuning (250 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-025.jpg,TRUE
+PRD-HM-026,HOMEMADE,Makaroni Cikruh Siput Cikruh (250 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-026.jpg,TRUE
+PRD-HM-027,HOMEMADE,Pang Pang (250 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-027.jpg,TRUE
+PRD-HM-028,HOMEMADE,Keripik Kaca Bulat (150 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-028.jpg,TRUE
+PRD-HM-029,HOMEMADE,Sistik Bawang (250 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-029.jpg,TRUE
+PRD-HM-030,HOMEMADE,Kacang Polong Tepung Kacang Campur (250 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-030.jpg,TRUE
+PRD-HM-031,HOMEMADE,Kacang Bandung (250 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-031.jpg,TRUE
+PRD-HM-032,HOMEMADE,Kacang Bawang & Atom Bima (200 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-032.jpg,TRUE
+PRD-HM-033,HOMEMADE,Simping Kencur (150 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-033.jpg,TRUE
+PRD-HM-034,HOMEMADE,Kacang Sukro Sanghai (250 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-034.jpg,TRUE
+PRD-HM-035,HOMEMADE,Pangsit Bawang (200 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-035.jpg,TRUE
+PRD-HM-036,HOMEMADE,Tiktak Mini Kencur (250 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-036.jpg,TRUE
+PRD-HM-037,HOMEMADE,Opak Singkong Asin & Pedas (150 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-037.jpg,TRUE
+PRD-HM-038,HOMEMADE,Stik Sukun (200 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-038.jpg,TRUE
+PRD-HM-039,HOMEMADE,Mie Gulung (150 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-039.jpg,TRUE
+PRD-HM-040,HOMEMADE,Siomay Pedas Jeruk (200 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-040.jpg,TRUE
+PRD-HM-041,HOMEMADE,Singkong Lengket Sambal Jeruk & Balado (200 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-041.jpg,TRUE
+PRD-HM-042,HOMEMADE,Jagung Marning (250 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-042.jpg,TRUE
+PRD-HM-043,HOMEMADE,Comring Mini Pedas (200 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-043.jpg,TRUE
+PRD-HM-044,HOMEMADE,Singkong Kriwil Sultan Pedas Jeruk Cikruh (250 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-044.jpg,TRUE
+PRD-HM-045,HOMEMADE,Stik Keju Indosari (150 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-045.jpg,TRUE
+PRD-HM-046,HOMEMADE,Tahu Mini Special Asin & Pedas (150 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-046.jpg,TRUE
+PRD-HM-047,HOMEMADE,Makaroni Rujak Mini (200 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-047.jpg,TRUE
+PRD-HM-048,HOMEMADE,Gabus Keju DD (200 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-048.jpg,TRUE
+PRD-HM-049,HOMEMADE,Stik Wijen Indosari (200 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-049.jpg,TRUE
+PRD-HM-050,HOMEMADE,Opak Ketan Bakar Kotak & Bulat (150 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-050.jpg,TRUE
+PRD-HM-051,HOMEMADE,Basreng Bulat Asin Jeruk & Balado (200 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-051.jpg,TRUE
+PRD-HM-052,HOMEMADE,Keciput Wijen Ketan (200 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-052.jpg,TRUE
+PRD-HM-053,HOMEMADE,Brownies Karakter (150 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-053.jpg,TRUE
+PRD-HM-054,HOMEMADE,Pilus Asin (200 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-054.jpg,TRUE
+PRD-HM-055,HOMEMADE,Pilus Pedas (180 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-055.jpg,TRUE
+PRD-HM-056,HOMEMADE,Astor Coklat (150 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-056.jpg,TRUE
+PRD-HM-057,HOMEMADE,Seblak Beton (250 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-057.jpg,TRUE
+PRD-HM-058,HOMEMADE,Tambang Mini Lintang (250 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-058.jpg,TRUE
+PRD-HM-059,HOMEMADE,Seblak Kencur (250 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-059.jpg,TRUE
+PRD-HM-060,HOMEMADE,Seblak Mix (Campur) (250 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-060.jpg,TRUE
+PRD-HM-061,HOMEMADE,Seblak Jengkol Genteng (250 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-061.jpg,TRUE
+PRD-HM-062,HOMEMADE,Singkong Tes/Cuba Keju & Balado (150 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-062.jpg,TRUE
+PRD-HM-063,HOMEMADE,Kuping Gajah (250 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-063.jpg,TRUE
+PRD-HM-064,HOMEMADE,Pisang Asin Keju (200 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-064.jpg,TRUE
+PRD-HM-065,HOMEMADE,Sale Jari (200 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-065.jpg,TRUE
+PRD-HM-066,HOMEMADE,Talas Stik (150 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-066.jpg,TRUE
+PRD-HM-067,HOMEMADE,Sosreng (150 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-067.jpg,TRUE
+PRD-HM-068,HOMEMADE,Seblak Bintang (250 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-068.jpg,TRUE
+PRD-HM-069,HOMEMADE,Koro Asin Kulit (250 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-069.jpg,TRUE
+PRD-HM-070,HOMEMADE,Saroja Asin (200 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-070.jpg,TRUE
+PRD-HM-071,HOMEMADE,"Astor Mini Susu, Coklat, Vanilla & Stroberi",Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-071.jpg,TRUE
+PRD-HM-072,HOMEMADE,Gabus Donat Manis Blueberry & Warna (200 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-072.jpg,TRUE
+PRD-HM-073,HOMEMADE,Slondok Pedas & Asin (150 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-073.jpg,TRUE
+PRD-HM-074,HOMEMADE,Ubi Ungu (250 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-074.jpg,TRUE
+PRD-HM-075,HOMEMADE,Makaroni Spiral Cikruh (250 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-075.jpg,TRUE
+PRD-HM-076,HOMEMADE,Kripca Kotak (150 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-076.jpg,TRUE
+PRD-HM-077,HOMEMADE,Tambang Besar (250 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-077.jpg,TRUE
+PRD-HM-078,HOMEMADE,Kacang Polong (250 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-078.jpg,TRUE
+PRD-HM-079,HOMEMADE,Pikset Pedas Jeruk (250 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-079.jpg,TRUE
+PRD-HM-080,HOMEMADE,Seblak Pedas Daun Jeruk (250 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-080.jpg,TRUE
+PRD-HM-081,HOMEMADE,Tortilla Jagung BBQ & Sambal Balado (150 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-081.jpg,TRUE
+PRD-HM-082,HOMEMADE,Stik Tes Keju & Balado (150 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-082.jpg,TRUE
+PRD-HM-083,HOMEMADE,Kriwil Katuncar Ori (250 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-083.jpg,TRUE
+PRD-HM-084,HOMEMADE,Kriwil Katuncar Pedas (250 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-084.jpg,TRUE
+PRD-HM-085,HOMEMADE,Kursus Pedas Jeruk (250 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-085.jpg,TRUE
+PRD-HM-086,HOMEMADE,Sumpia Udang (200 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-086.jpg,TRUE
+PRD-HM-087,HOMEMADE,Astor Mini Blueberry (200 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-087.jpg,TRUE
+PRD-HM-088,HOMEMADE,Kue Kancing (250 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-088.jpg,TRUE
+PRD-HM-089,HOMEMADE,Kenanga Manis (200 gr),Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-089.jpg,TRUE
+PRD-HM-090,HOMEMADE,"Rengginang Ketan (7 pcs, ±155 gr)",Homemade,Risol & Camilan,"15,000",,/img/homemade/PRD-HM-090.jpg,TRUE
